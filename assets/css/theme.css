@@ -4,11 +4,19 @@
 
 body {
 	overflow-x:hidden;
-	padding-top:69.75px;
+	padding-top: 70px;
+}
+@media (max-width:768px) {
+	body {
+		padding-top: 0px !important;
+	}
 }
 .site-content {
 	margin-top:30px;
 	min-height:400px;
+}
+.home-heading {
+	margin-bottom: 50px;
 }
 .remove-site-content-margin {
 	margin-top:-30px;
