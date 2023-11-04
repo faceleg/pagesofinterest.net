@@ -3,7 +3,7 @@ title: 'Pages of Interest'
 description: 'Good news everyone!'
 logo: 'assets/images/faceleg.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://pagesofinterest.net'
+baseurl: ''
 email: 'mike@pagesofinterest.net'
 
 include: ["_pages"]
@@ -24,6 +24,14 @@ authors:
       bio:            "I specialise in creating change that ensures technology organisations provide the engagement, speed and quality so critical for business success in today’s hyper competitive market."
       email:          mike@pagesofinterest.net
       linkedin:       https://www.linkedin.com/in/faceleg/
+        
+social:
+  name: Michael Robinson
+  links:
+    - https://www.linkedin.com/in/faceleg/
+
+webmaster_verifications:
+  google: D-ISSNXYVNAJfe_2g0VXp8NHys_ywwD2VwwHMLr_8S8
 
 # Defaults
 defaults:
