@@ -1,22 +1,26 @@
 ---
-title: "Mundana Free Jekyll Theme"
+title: "Pages of Interest"
 layout: default
 pagination:
     enabled: true
-description: "A great Jekyll theme developed by Sal @wowthemesnet."
+description: "Great news everyone!"
 ---
-
 
 <div class="container">
     
 {% if page.url == "/" %}
+
+    <div class="home-heading"> 
+        <h1 class="h1 font-weight-bold">{{ site.title }}</h1>
+        <small class="text-body-secondary">{{ site.description }}</small>
+    </div>
     
-    
-    
+
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
     
     <!-- latest post -->
+        
     {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
@@ -161,6 +165,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 {% endif %} <!--endif page url is / -->
     
 
+{% if pageinator.total_pages > 0 %}
 
 <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
     
@@ -211,7 +216,14 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     <div class="col-md-4">
         {% include sidebar-featured.html %}    
     </div>
+
+    {% else %}
+
+    <div class="">
+        {% include sidebar-featured.html %}    
+    </div>
     
+    {% endif %}
 </div>
 
 
