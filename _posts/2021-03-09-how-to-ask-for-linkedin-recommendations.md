@@ -5,7 +5,7 @@ author: faceleg
 date: "2021-03-09"
 categories: [ recruitment ]
 tags: [ career, featured ]
-image: "assets/images/conference-table-interested.jpg"
+image: "/assets/images/conference-table-interested.jpg"
 ---
 
 As a technology professional it's easy to assume networking & self-marketing isn't necessary for career advancement. This is because up to a certain point, promotions and job offers come from technical skills alone. Ignoring this will limit opportunities to progress, as you will have to work much harder to prove possession of skills & attributes required to advance. It took me a long time to get comfortable with how to ask for LinkedIn recommendations. I've summarised my approach here.

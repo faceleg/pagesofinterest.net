@@ -5,7 +5,7 @@ author: faceleg
 date: "2021-03-04"
 categories: [ Tooling ]
 tags: [ a-b-testing, data, open-source, tooling, featured ]
-image: "assets/images/arrows-both-ways.jpg"
+image: "/assets/images/arrows-both-ways.jpg"
 ---
 
 Does the sign up button work better on the left or the right? What happens to engagement if we move our "you might also like" carousel above the fold? These are the types of questions that A/B testing exists to answer.

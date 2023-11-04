@@ -5,7 +5,7 @@ title: "How to Be Effective in Video Meetings"
 date: "2021-02-28"
 categories: [ Culture ]
 tags: [ communication, online, video-conferencing, featured ]
-image: "assets/images/cute-dogs.jpg"
+image: "/assets/images/cute-dogs.jpg"
 ---
 
 ## Remote Communication Takes Work - But It’s Worth It
