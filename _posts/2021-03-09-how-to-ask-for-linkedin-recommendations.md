@@ -3,7 +3,8 @@ layout: post
 title: "How to Ask for LinkedIn Recommendations"
 author: faceleg
 date: "2021-03-09"
-categories: [ Recruitment ]
+categories: [ recruitment ]
+tags: [ career, featured ]
 image: "assets/images/conference-table-interested.jpg"
 ---
 
