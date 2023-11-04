@@ -1,0 +1,55 @@
+# Site
+name: 'Pages of Interest'
+description: 'Good news everyone!'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+email: 'mike@pagesofinterest.net'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    faceleg:
+      name:           Michael Robinson
+      site:           https://pagesofinterest.net
+      avatar:         /assets/images/faceleg.jpg
+      bio:            "I specialise in creating change that ensures technology organisations provide the engagement, speed and quality so critical for business success in today’s hyper competitive market."
+      email:          mike@pagesofinterest.net
+      linkedin:       https://www.linkedin.com/in/faceleg/
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: faceleg
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
