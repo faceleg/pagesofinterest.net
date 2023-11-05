@@ -5,6 +5,8 @@ logo: 'assets/images/faceleg.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 email: 'mike@pagesofinterest.net'
+  
+destination: docs/
 
 include: ["_pages"]
 permalink: /:title/
