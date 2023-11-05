@@ -48,6 +48,24 @@ a {
 a.text-dark:hover {
 	color:#03a87c !important;
 }
+/* SVG Colours */
+.svg {
+	height: 20px;
+}
+.svg-linkedin {
+	fill: #0077B5;
+}
+.svg-home {
+	fill: #ad6edd;
+}
+.svg-rss {
+	fill: orange;
+}
+
+.footer-rss {
+	vertical-align: text-bottom;	
+}
+
 .c-pointer:hover {
 	cursor:pointer;
 }
