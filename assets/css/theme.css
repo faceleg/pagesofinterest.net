@@ -17,6 +17,11 @@ body {
 .home-heading {
 	margin-bottom: 50px;
 }
+@media (max-width:768px) {
+	.home-heading {
+		margin-top: 40px !important;
+	}
+}
 .remove-site-content-margin {
 	margin-top:-30px;
 }
