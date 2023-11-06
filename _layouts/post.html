@@ -34,20 +34,16 @@ layout: default
 	</div>
 </div>
 
-
-
-
-
 <div class="container-lg pt-4 pb-4">
 	<div class="row justify-content-center">
-        
+
 		<div class="col-md-12 col-lg-8">
-            
-            <!-- Article -->
-			<article class="article-post">                
-			{{ content }}                
+
+      <!-- Article -->
+			<article class="article-post">
+        {{ content }}
 			</article>
-			
+
 			<!-- Tags -->
 			<div class="mb-4">
 				<span class="taglist">
@@ -56,31 +52,36 @@ layout: default
 				{% endfor %}
 				</span>
 			</div>
- 
-             <!-- Author Box -->
-                {% if page.author %}				
+
+        <!-- Author Box -->
+        {% if page.author %}
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
-                         {% if author.avatar %}
-                        <img class="rounded-circle" src="{{ author.avatar }}" alt="{{author.name}}" width="90"/>
-                        {% endif %} 
+            {% if author.avatar %}
+              <img class="rounded-circle" src="{{ author.avatar }}" alt="{{author.name}}" width="90"/>
+            {% endif %}
 					</div>
-					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.linkedin %}<span>
-							<a target="_blank" href="{{ author.linkedin }}" class="btn btn-outline-success btn-sm btn-round ml-2">Connect</a>
-						</span>{% endif %}</h5>
-						{{ author.bio }}					
+					<div class="col-md-10">
+            <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.linkedin %}<span>
+            <a target="_blank" href="{{ author.linkedin }}" class="btn btn-outline-success btn-sm btn-round ml-2">Connect</a>
+            </span>{% endif %}</h5>
+            {{ author.bio }}
 					</div>
-				</div>				
-                {% endif %}
+				</div>
+        {% endif %}
+
+        <br/>
+        <div class="sticky-top sticky-top-offset">
+          <h4 class="font-weight-bold spanborder">
+            <span>Related Posts</span>
+          </h4>
+          {% include related.html %}
+        </div>
 		</div>
-        
-        
 	</div>
 </div>
 
-
-<!-- Aletbar Prev/Next -->
+<!-- Alertbar Prev/Next -->
 <div class="alertbar">
     <div class="container">
         <div class="row prevnextlinks small font-weight-bold">

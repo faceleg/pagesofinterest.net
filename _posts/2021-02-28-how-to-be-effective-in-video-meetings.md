@@ -4,7 +4,7 @@ author: faceleg
 title: "How to Be Effective in Video Meetings"
 date: "2021-02-28"
 categories: [ Culture ]
-tags: [ communication, online, video-conferencing, featured ]
+tags: [ communication, online, video-conferencing, featured, culture ]
 image: "/assets/images/cute-dogs.jpg"
 ---
 
