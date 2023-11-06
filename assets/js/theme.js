@@ -50,6 +50,3 @@ function hasScrolled() {
 
     lastScrollTop = st;
 }
-
-
-$('.site-content').css('margin-top', $('header').outerHeight() + 'px');
