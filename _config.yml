@@ -5,20 +5,20 @@ logo: 'assets/images/faceleg.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 email: 'mike@pagesofinterest.net'
-  
+
 destination: docs/
 
 include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-minifier
-  
+
 authors:
     faceleg:
       name:           Michael Robinson
@@ -27,7 +27,7 @@ authors:
       bio:            "I specialise in creating change that ensures technology organisations provide the engagement, speed and quality so critical for business success in today’s hyper competitive market."
       email:          mike@pagesofinterest.net
       linkedin:       https://www.linkedin.com/in/faceleg/
-        
+
 social:
   name: Michael Robinson
   links:
@@ -46,13 +46,13 @@ defaults:
       layout: post
       author: faceleg
       avatar: /assets/images/faceleg.jpg
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
@@ -61,7 +61,7 @@ highlighter: rouge
 paginate: 10
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, build.sh]
 
 jekyll-minifier:
   exclude: 'atom.xml'
