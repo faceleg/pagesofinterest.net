@@ -234,6 +234,19 @@ a.text-dark:hover {
   margin-bottom: 10px;
 }
 
+@media (max-width:410px) {
+	.navbar .navbar-brand {
+		font-size: 12px;
+	}
+  .navbar .nav-link {
+    padding: 0.8rem 0.5rem;
+  }
+}
+@media (max-width: 345px) {
+	.navbar .navbar-brand {
+		display: none !important;
+	}
+}
 .dropdown-item {
 	font-weight:400;
 }
