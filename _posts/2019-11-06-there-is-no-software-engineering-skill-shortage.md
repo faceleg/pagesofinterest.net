@@ -29,13 +29,13 @@ I agree it's hard. But we _can_ fix it. The alternative is to do nothing, which 
 
 What follows is a list of the most common problems I've seen or discussed, with easy to follow pathways for you to follow if you want to fix them in your organisation.
 
-- [Using qualifications as predictors of future performance](#no-degree-requirement)
-- [A clone army is inflexible and prone to bias](#dont-just-hire-clones)
-- [No clear process for addressing gender imbalance in applicants](http://no-process-to-address-applicant-gender-imbalance)
-- [Hiring processes often require unrealistic amounts of time from applicants](http://hiring-process-require-too-much-time)
-- [Belief that seniority can be inferred by years on the job](#years-does-not-an-expert-make)
-- [Practise interview techniques that highlight skills that are difficult to teach](#highlight-unteachable-skills-in-interviews)
-- [Understand that different genders and cultures view their position in hierarchy differently](#different-genders-and-cultures-view-themselves-differently)
+- [Using qualifications as predictors of future performance](#using-qualifications-as-predictors-of-future-performance)
+- [A clone army is inflexible and prone to bias](#a-clone-army-is-inflexible-and-prone-to-bias)
+- [No clear process for addressing gender imbalance in applicants](#no-clear-process-for-addressing-gender-imbalance-in-applicants)
+- [Hiring processes often require unrealistic amounts of time from applicants](#hiring-processes-often-require-unrealistic-amounts-of-time-from-applicants)
+- [Belief that seniority can be inferred by years on the job](#belief-that-seniority-can-be-inferred-by-years-on-the-job)
+- [Practise interview techniques that highlight skills that are difficult to teach](#practise-interview-techniques-that-highlight-skills-that-are-difficult-to-teach)
+- [Understand that different genders and cultures view their position in hierarchy differently](#understand-that-different-genders-and-cultures-view-their-position-in-hierarchy-differently)
 
 ## Using qualifications as predictors of future performance
 
@@ -45,17 +45,17 @@ What follows is a list of the most common problems I've seen or discussed, with 
 
 **Background**: I've been successfully converting code into money for over 12 years. I have a degree, sure: in Social Studies. Although I did take programming papers, I've never used anything I learned in those classes on any projects except for knowledge of basic syntax.
 
-On the team at [Lightbox NZ](https://www.lightbox.co.nz), we had four engineers who either did not attend university or studied completely different subjects. Two of them transitioned from manual testers to automation engineering in a matter of weeks. They completed online course, then paired with their teammates. The other two came into engineering positions fresh from the [Enspiral Dev Academy](https://devacademy.co.nz) - having completed an 18 week bootcamp. All of them contributed at least equally to the business compared to their university trained colleagues.
+On one team I worked with we had four engineers who either did not attend university or studied completely different subjects. Two of them transitioned from manual testers to automation engineering in a matter of weeks. They completed online course, then paired with their teammates. The other two came into engineering positions fresh from the [Enspiral Dev Academy](https://devacademy.co.nz) - having completed an 18 week bootcamp. All of them contributed at least equally to the business compared to their university trained colleagues.
 
-There is a [confidence gap between men and women](https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/), and between cultures. When hiring, this gap will manifest itself in fewer applicants from women and other cultures when advertisements explicitly state required qualifications or include long lists of responsibilities.
+There is a <a href="https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/" target="_blank">confidence gap between men and women</a>, and between cultures. When hiring, this gap will manifest itself in fewer applicants from women and other cultures when advertisements explicitly state required qualifications or include long lists of responsibilities.
 
 **Solution**: Do not mention qualifications or lists of responsibilities in your job advert. Universities do not have a monopoly on the teaching of software engineering skills. Applicants will tell you why they think they are qualified - this is the main function of a CV.
 
-Research shows that men will apply for jobs when they feel they achieve 60% of the qualifications or responsibilities. Women may not apply until they feel they achieve 100%. On reflection, this is what I do. To me, lists of responsibilities and even required qualifications are "nice to haves". If I think I can do the job, I'll apply. It works for men, and as a side note - [it can work for women too](https://www.thelily.com/i-job-hunted-like-a-man-heres-what-happened/). But please, don't expect women to lean in: change your process to include them.
+Research shows that men will apply for jobs when they feel they achieve 60% of the qualifications or responsibilities. Women may not apply until they feel they achieve 100%. On reflection, this is what I do. To me, lists of responsibilities and even required qualifications are "nice to haves". If I think I can do the job, I'll apply. It works for men, and as a side note - <a href="https://www.thelily.com/i-job-hunted-like-a-man-heres-what-happened/" target="_blank">it can work for women too</a>. But please, don't expect women to lean in: change your process to include them.
 
 Commitment to culture is commitment to people, and that takes time. Understand this and allocate sufficient time to do a first pass of candidates that takes into account all the qualifiers people put into their CV.
 
-The best engineers love learning - some love it so much they taught themselves to code and therefore never needed to attend classes. [Some attended bootcamps](https://dev.to/thecaitcode/why-not-having-a-cs-degree-is-awesome-he6). Some (like me) didn't know a career in programming was possible until their early 20's, and thought university was the only way to learn.
+The best engineers love learning - some love it so much they taught themselves to code and therefore never needed to attend classes. <a href="https://dev.to/thecaitcode/why-not-having-a-cs-degree-is-awesome-he6" target="_blank">Some attended bootcamps</a>. Some (like me) didn't know a career in programming was possible until their early 20's, and thought university was the only way to learn.
 
 Programming is becoming a commodity skill, complemented by people skills, background experience, and a personality. Requiring a degree or including extensive lists of responsibilities will limit your application pool.
 
@@ -63,13 +63,13 @@ Programming is becoming a commodity skill, complemented by people skills, backgr
 
 ### Be careful of subtle biases in your hiring material
 
-**Preamble**: Research shows there are significant advantages to be gained by having a diverse and inclusive team. Topics in this section have been written about extensively, including articles in Forbes, Gartner and the Harvard Business Review: [diverse teams doing the right thing most of the time](https://www.forbes.com/sites/forbescoachescouncil/2019/09/09/the-benefits-of-creating-a-diverse-workforce/#5fa0cd8d140b), [generally perform better than monocultures](https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/) and [how to disrupt bias on your existing teams](https://hbr.org/2019/11/how-the-best-bosses-interrupt-bias-on-their-teams?ab=hero-main-text).
+**Preamble**: Research shows there are significant advantages to be gained by having a diverse and inclusive team. Topics in this section have been written about extensively, including articles in Forbes, Gartner and the Harvard Business Review: <a href="https://www.forbes.com/sites/forbescoachescouncil/2019/09/09/the-benefits-of-creating-a-diverse-workforce/#5fa0cd8d140b" target="_blank">diverse teams doing the right thing most of the time</a>, <a href="https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/" target="_blank">generally perform better than monocultures</a> and <a href="https://hbr.org/2019/11/how-the-best-bosses-interrupt-bias-on-their-teams?ab=hero-main-text" target="_blank">how to disrupt bias on your existing teams</a>.
 
 I'd like to focus on how you can change your hiring process to cut off the source of clones. This will increase your pipeline of diverse candidates, enabling you to build out and maintain a diverse and inclusive team.
 
 **Problem**: Your job ad and hiring process are designed to hire people who look and think like you.
 
-**Background**: This is a tough pill to swallow. I thought I had done everything possible to ensure my job advert was as attractive as possible to all candidates. I was committed to creating a diverse and effective team. I'd consulted people in my community of different gender and cultural backgrounds from me on my advert content. I passed it through the [gender decoder](http://gender-decoder.katmatfield.com) & [Joblint tool](https://joblint.org).
+**Background**: This is a tough pill to swallow. I thought I had done everything possible to ensure my job advert was as attractive as possible to all candidates. I was committed to creating a diverse and effective team. I'd consulted people in my community of different gender and cultural backgrounds from me on my advert content. I passed it through the <a href="http://gender-decoder.katmatfield.com" target="_blank">gender decoder</a> & <a href="https://joblint.org" target="_blank">Joblint tool</a>.
 
 Only 2 of the 60 or so qualified applicants were women, and only 15 of the remaining 58 were not caucasian males. Something was obviously wrong. The issue was no longer with the advert itself, but with what happened next: the process through which an applicant registers interest was hilariously broken.
 
@@ -101,13 +101,13 @@ Don't ask for anything that is not necessary for you to decide whether to do tha
 
 **Problem**: For any given technical job advertisement, 5% women applicants is considered winning.
 
-**Background**: You know diverse teams benefit the business, the health of our field, and society on the whole. You've [removed all the unconscious bias from your process](#dont-just-hire-clones). But still, 95% of the applicants coming through are male.
+**Background**: You know diverse teams benefit the business, the health of our field, and society on the whole. You've [removed all the unconscious bias from your process](#a-clone-army-is-inflexible-and-prone-to-bias). But still, 94% of the applicants coming through are male.
 
 **Solution**: Switch from passive to active recruitment. An amazing way to kick this off is to pick an arbitrary point in your hiring process, and require hiring managers to collect a 50/50 mix of male/female CV's before allowing the process to proceed past this point.
 
 This will force yourself and your hiring managers to be less passive about collecting suitable applicants. When I started doing this I found I started having much more direct conversations with recruitment companies. I started to understand which recruiters were able to change their process, and which weren't. This lead to me reaching deeper into my network for specific leads. Ultimately I was forced to form a deeper understanding of the issues facing our industry, and develop the alternative processes I'm documenting here.
 
-I cannot take credit for this critical suggestion. That honour belongs to [Amanda Santos](https://www.linkedin.com/in/amandalsantos/?originalSubdomain=nz), who presented at length on this topic in the 2018 SparkONE Unconference.
+I cannot take credit for this critical suggestion. That honour belongs to <a href="https://www.linkedin.com/in/amandalsantos/?originalSubdomain=nz" target="_blank">Amanda Santos</a>, who presented at length on this topic in the 2018 SparkONE Unconference.
 
 ## Hiring processes often require unrealistic amounts of time from applicants
 
@@ -137,11 +137,12 @@ You should consider how you might use what candidates can offer to validate thei
 
 This solution hinges on the understanding that _there is no one-size-fits-all_ approach to evaluating technical skill. Like any dogmatic approach, fixating on one metric will cause you to miss out on many candidates.
 
-- [There are plenty of reasons an excellent developer may not have a GitHub profile](https://www.quora.com/As-a-programmer-is-it-important-to-have-a-GitHub-profile/answer/Greg-Pettit)
-- [There are plenty who are unable or unwilling to commit significant time outside their job and other responsibilities to complete tests](https://qz.com/work/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework/)
+- <a href="https://www.quora.com/As-a-programmer-is-it-important-to-have-a-GitHub-profile/answer/Greg-Pettit"
+    target="_blank">There are plenty of reasons an excellent developer may not have a GitHub profile</a>
+- <a href="https://qz.com/work/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework/" target="_blank">There are plenty who are unable or unwilling to commit significant time outside their job and other responsibilities to complete tests</a>
 - It's common for people to have nothing immediately available
 
-In order to fix this aspect of the hiring process, we should force ourselves to consider multiple ways to validate skills, and be ready to apply whatever is appropriate on an individual candidate basis. I like David Gilbertson's take on this topic, and recommend you read his article: [How to hire the best developers](https://medium.com/hackernoon/how-to-hire-the-best-developers-3ac0fa4e3f39). Excellent exploration of the failings of "testing culture", with solid advice on how to avoid losing out on great candidates while effectively screening poor ones.
+In order to fix this aspect of the hiring process, we should force ourselves to consider multiple ways to validate skills, and be ready to apply whatever is appropriate on an individual candidate basis. I like David Gilbertson's take on this topic, and recommend you read his article: <a href="https://medium.com/hackernoon/how-to-hire-the-best-developers-3ac0fa4e3f39" target="_blank">How to hire the best developers</a>. Excellent exploration of the failings of "testing culture", with solid advice on how to avoid losing out on great candidates while effectively screening poor ones.
 
 Being a manager means managing people. Hiring the best people requires real work and must be approached with the same care and rigour we apply to resolving the most troublesome bugs.
 
@@ -173,7 +174,7 @@ This caused me to carefully reconsider what I mean when I say "senior". Instead,
     - Seeks out opportunities to increase knowledge and understanding across the team
     - Actively mentors members of the team at all levels
 
-Notice there is no mention of time on the job. I've had team members who have been in software engineering for less than two years meet requirements for the top intermediate level. Then there is the person who, despite many years in the industry, could barely be categorised as entry level by the above descriptions. The above categories are a very diluted version of a much more comprehensive document I've been working on for years - inspired by the [CircleCi Engineering Competency Matrix](https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0). I'll blog about my interpretation of this concept in a future post.
+Notice there is no mention of time on the job. I've had team members who have been in software engineering for less than two years meet requirements for the top intermediate level. Then there is the person who, despite many years in the industry, could barely be categorised as entry level by the above descriptions. The above categories are a very diluted version of a much more comprehensive document I've been working on for years - inspired by the <a href="https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0" target="_blank">"CircleCi Engineering Competency Matrix</a>.
 
 **Solution**: Seniority, expressed in years on the job is not a good hiring metric. Seniority has little to do with technical ability. Do some research and decide yourself what seniority means for your team. Don't blindly assume that anyone with a good number of years on the job will meet your requirements. Learning the hard way hurts.
 
@@ -183,7 +184,7 @@ Notice there is no mention of time on the job. I've had team members who have be
 
 **Problem**: Common interview dogma is that we should focus on proving a candidate can perform technical tasks adequately well. This is wrong as we are not robots that are easily interchangeable, and technical skills can be taught quickly to the right people.
 
-**Background**:[As outlined above](#hiring-process-require-too-much-time), technical testing interview culture does nobody any favours. Instead we should focus on proving the candidate:
+**Background**:[As outlined above](#hiring-processes-often-require-unrealistic-amounts-of-time-from-applicants), technical testing interview culture does nobody any favours. Instead we should focus on proving the candidate:
 
 - Can learn
 - Can deal with change
@@ -204,7 +205,7 @@ As a manager, I want team members who proactively look to fill holes in their un
 
 **Solution**: Consider how to interview and screen for applicants who possess the interpersonal skills, flexibility and communication ability that make for a great team. Do not fall into the trap of hiring for technical ability alone.
 
-Interpersonal skills, flexibility and communication ability can be exposed with a surprisingly simple tip my current boss, [Jean-Louis](https://www.linkedin.com/in/jeanlouisacafrao/) taught me:
+Interpersonal skills, flexibility and communication ability can be exposed with a surprisingly simple tip a past boss, <a href="https://www.linkedin.com/in/jeanlouisacafrao/" target="_blank">Jean-Louis</a> taught me:
 
 Spend the first 10-15 minutes of the interview generally chatting. Your discussion should aim to surface some strongly held technical opinions (e.g. Docker is bad, Azure is better than AWS, Go is better than Rust, whatever - you don't have to be an expert in it for this to work). Once you've got your topic, turn the conversation back to it, positing that you strongly feel the opposite is true. Maintain this position.
 
@@ -230,6 +231,6 @@ I've taken this approach with multiple hires. In some cases it took some convinc
 
 Building a diverse and inclusive team is challenging, and takes more time than hiring according to decades-held traditional dogma. It's worth it: as with biology, a monoculture always loses in the end when competing with a mixed population - the same is true for technology teams.
 
-There are clear benefits to hiring and maintaining a diverse team, like [doing the right thing most of the time](https://www.forbes.com/sites/forbescoachescouncil/2019/09/09/the-benefits-of-creating-a-diverse-workforce/#5fa0cd8d140b) and [performing better than monocultures](https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/).
+There are clear benefits to hiring and maintaining a diverse team, like <a href="https://www.forbes.com/sites/forbescoachescouncil/2019/09/09/the-benefits-of-creating-a-diverse-workforce/#5fa0cd8d140b" target="_blank">doing the right thing most of the time</a> and <a href="https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/" target="_blank">performing better than monocultures</a>.
 
 The solutions to some problems I've faced when hiring technical team members should help you restructure your recruitment strategy into one that favours applicant's who will take your organisation forward into the future, instead of entrenching habits from the past.
