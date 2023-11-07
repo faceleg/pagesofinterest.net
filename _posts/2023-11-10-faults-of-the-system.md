@@ -2,7 +2,7 @@
 layout: post
 title: "Faults of the System"
 author: faceleg
-date: "2023-11-7"
+date: "2023-11-10"
 categories: [ culture ]
 tags: [ management, culture, featured ]
 image: "/assets/images/dall-e-bunny-on-the-line.png"
