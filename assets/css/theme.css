@@ -336,12 +336,12 @@ a.text-dark:hover {
 		left:0;
 		right:0;
 	}
-    .jumbotron-home h1 {
-        font-family: Georgia,Times,"Times New Roman",serif;
-        font-size: 2.4rem;
-        font-weight: 700;
-        line-height: 1.1;
-    }
+  .jumbotron-home h1 {
+      font-family: Georgia,Times,"Times New Roman",serif;
+      font-size: 2.4rem;
+      font-weight: 700;
+      line-height: 1.1;
+  }
 }
 .bg-black {
 	background-color:#000;
@@ -721,13 +721,6 @@ article blockquote:before {
 	opacity:1;
 	float:left;
 	line-height:1;
-}
-article:first-letter {
-	float:left;
-	font-size:5em;
-	line-height:1;
-	margin:0 .2em 0 0;
-	vertical-align:top;
 }
 article h1,article h2,article h3,article h4,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
 	margin-bottom:2rem;
