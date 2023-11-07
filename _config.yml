@@ -18,6 +18,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-minifier
+  - jekyll-compress-images
 
 authors:
     faceleg:
@@ -72,3 +73,7 @@ related_by: random
 related_limit: 4              # Include 4 related pages by default
 # related_categories: 1          # Match at least 1 category
 # related_tags: 1                # OR at least 2 tags.
+
+compress_images:
+  images_path: "assets/images/**/*.{gif,png,jpg,jpeg,svg}"
+
