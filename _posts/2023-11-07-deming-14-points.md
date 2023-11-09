@@ -8,12 +8,9 @@ tags: [ management, culture, featured, deming ]
 image: "/images/dall-e-picasso-guppy.png"
 ---
 
-Deming's teachings are profoundly affecting how I view
-challenges faced at work. I will write further on specific elements in future, but want to post
-his 14 points first as I will refer back to them.
+Deming's teachings are profoundly affecting how I view challenges faced at work. I will write further on specific elements in future, but want to post his 14 points first as I will refer back to them.
 
-If you want to learn more from the source, I recommend [The Essential Deming](https://deming.org/the-essential-deming-new-book-on-dr-deming-work/), a
-collection of speeches, essays and lectures from the father of quality.
+If you want to learn more from the source, I recommend [The Essential Deming](https://deming.org/the-essential-deming-new-book-on-dr-deming-work/), a collection of speeches, essays and lectures from the father of quality.
 
 >It is not enough for everyone to do his best. Everyone is already doing his best. Efforts, to be effective, must go in the right direction.<br/><br/>Only top management can bring about the changes required. Failure of top management to act on any one of the 14 points listed will impair efforts on the other 13.
 
