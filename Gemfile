@@ -18,4 +18,5 @@ group :jekyll_plugins do
     gem 'jekyll_asset_pipeline'
     gem 'yui-compressor'
     gem 'jekyll-compress-images'
+    gem 'jekyll-target-blank'
 end

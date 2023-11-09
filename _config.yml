@@ -18,6 +18,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-compress-images
+  - jekyll-target-blank
 
 authors:
     faceleg:
