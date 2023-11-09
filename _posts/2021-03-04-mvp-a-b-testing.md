@@ -4,8 +4,8 @@ title: "MVP A/B Testing"
 author: faceleg
 date: "2021-03-04"
 categories: [ Tooling ]
-tags: [ a-b-testing, data, open-source, tooling, featured ]
-image: "/assets/images/arrows-both-ways.jpg"
+tags: [ a-b-testing, data, open-source, tooling ]
+image: "/images/arrows-both-ways.jpg"
 ---
 
 Does the sign up button work better on the left or the right? What happens to engagement if we move our "you might also like" carousel above the fold? These are the types of questions that A/B testing exists to answer.
@@ -51,5 +51,3 @@ This saved the business 60-100K USD per year, while still allowing us to run exp
 If your business is new to A/B testing and data driven decision making generally, if you have a relatively small team and no core "platforms" group you can look to for this sort of tooling, I strongly recommend you consider an open source solution first, before diving into the attractive but expensive SaaS products out there.
 
 If you need to get from A to B but don't enjoy wasting money, go with a proven open source solution before splashing your company's cash on a Rolls Royce. You're likely better off putting that money elsewhere - it's enough to hire another engineer for your team!
-
-## [](https://github.com/sixpack/sixpack#requirements)

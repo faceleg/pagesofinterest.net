@@ -5,7 +5,7 @@ author: faceleg
 date: "2023-11-10"
 categories: [ culture ]
 tags: [ management, culture, featured, deming ]
-image: "/assets/images/dall-e-bunny-on-the-line.png"
+image: "/images/dall-e-bunny-on-the-line.png"
 ---
 
 # Faults of the System
@@ -47,7 +47,7 @@ A key element of this definition is that a special cause is specific to a contri
 
 ### "Common Cause"
 
-These faults come from a common cause - or causes that are common to groups of people (from [Deming Speech 1978: ‘Quick Review of Some New Principles of Administration’](https://www.qualitydigest.com/inside/management-article/deming-speech-1978-quick-review-some-new-principles-administration-112421), Principle 9).
+These faults come from a common cause - or causes that are common to groups of people (from [Deming Speech 1978: 'Quick Review of Some New Principles of Administration'](https://www.qualitydigest.com/inside/management-article/deming-speech-1978-quick-review-some-new-principles-administration-112421), Principle 9).
 
 It isn't possible to properly and improve a system or process and see those improvements stick by attacking special causes alone. Special causes are the minority - most variation is caused by common causes, and improving common causes has the effect of improving special causes as well.
 

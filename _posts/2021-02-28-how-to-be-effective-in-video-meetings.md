@@ -5,7 +5,7 @@ title: "How to Be Effective in Video Meetings"
 date: "2021-02-28"
 categories: [ Culture ]
 tags: [ communication, online, video-conferencing, featured, culture ]
-image: "/assets/images/cute-dogs.jpg"
+image: "/images/cute-dogs.jpg"
 ---
 
 ## Remote Communication Takes Work - But It’s Worth It
@@ -78,11 +78,11 @@ If you're talking about a document, spreadsheet or pretty much anything else you
 
 You can share much more than just your screen in Teams - including system audio, sharing control and more!
 
-- [Advanced information on sharing things in Teams calls​​​​​​​​​​​​​​](https://support.office.com/en-us/article/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8)
+- [Advanced information on sharing things in Teams calls](https://support.office.com/en-us/article/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8)
 
 **Use online whiteboards to develop ideas**
 
-​​​​​​​I'm sure I'm not alone in my love of whiteboards. Great news for all of us - we can continue doodling in groups, online!
+I'm sure I'm not alone in my love of whiteboards. Great news for all of us - we can continue doodling in groups, online!
 
 Teams has the ability to add whiteboards to some meetings
 

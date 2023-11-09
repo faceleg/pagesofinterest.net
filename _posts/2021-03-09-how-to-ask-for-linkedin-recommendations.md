@@ -5,7 +5,7 @@ author: faceleg
 date: "2021-03-09"
 categories: [ recruitment ]
 tags: [ career, featured ]
-image: "/assets/images/conference-table-interested.jpg"
+image: "/images/conference-table-interested.jpg"
 ---
 
 As a technology professional it's easy to assume networking & self-marketing isn't necessary for career advancement. This is because up to a certain point, promotions and job offers come from technical skills alone. Ignoring this will limit opportunities to progress, as you will have to work much harder to prove possession of skills & attributes required to advance. It took me a long time to get comfortable with how to ask for LinkedIn recommendations. I've summarised my approach here.
@@ -28,7 +28,7 @@ Before developing this approach for asking for & giving linked in recommendation
 
 1. If I enjoyed working for or with someone, they probably did too, and likely want to see me succeed. Writing a LinkedIn recommendation is a small way for them to make another contribution to success
 2. This is typical [imposter syndrome](https://www.freecodecamp.org/news/what-is-imposter-syndrome-and-how-do-you-overcome-it/). I just had to ignore this and request anyway.
-3. This is the main point of this article! read on to learn how to frame your requests efficiently and help your recommender out.
+3. This is the main point of this article! Read on to learn how to frame your requests efficiently and help your recommender out.
 
 ## How to make it easier for your recommender
 

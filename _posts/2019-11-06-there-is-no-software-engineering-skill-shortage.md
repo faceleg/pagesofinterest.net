@@ -4,8 +4,8 @@ title: "There Is No Software Engineering Skill Shortage"
 author: faceleg
 date: "2019-11-06"
 categories: [ Recruitment ]
-tags: [ featured, sticky, culture ]
-image: "/assets/images/thinking-woman-at-computer.jpg"
+tags: [ sticky, culture ]
+image: "/images/thinking-woman-at-computer.jpg"
 featured: true
 ---
 
