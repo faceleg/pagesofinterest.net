@@ -1,8 +1,8 @@
 # Site
 title: 'Pages of Interest'
 description: 'Good news everyone!'
-logo: 'assets/images/faceleg.png'
-favicon: 'assets/images/favicon.ico'
+logo: '/images/faceleg.png'
+favicon: '/images/favicon.ico'
 baseurl: ''
 email: 'mike@pagesofinterest.net'
 
@@ -25,7 +25,7 @@ authors:
     faceleg:
       name:           Michael Robinson
       site:           https://pagesofinterest.net
-      avatar:         /assets/images/faceleg.jpg
+      avatar:         /images/faceleg.jpg
       bio:            "I specialise in creating change that ensures technology organisations provide the engagement, speed and quality so critical for business success in today’s hyper competitive market."
       email:          mike@pagesofinterest.net
       linkedin:       https://www.linkedin.com/in/faceleg/
@@ -47,7 +47,7 @@ defaults:
     values:
       layout: post
       author: faceleg
-      avatar: /assets/images/faceleg.jpg
+      avatar: /images/faceleg.jpg
 
   # all pages
   - scope:
@@ -65,20 +65,13 @@ paginate: 10
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, watch-future.sh, build.sh]
 
-related_by: random
-# related_by: tags or categories # Match on categories OR tags
-# related_by: tags
-related_limit: 4              # Include 4 related pages by default
-# related_categories: 1          # Match at least 1 category
-# related_tags: 1                # OR at least 2 tags.
-
 # jekyll-compress-images
 compress_images:
-  images_path: "assets/images/**/*.{gif,png,jpg,jpeg}"
+  images_path: "/images/**/*.{gif,png,jpg,jpeg}"
 
 # jekyll_asset_pipeline
 asset_pipeline:
   bundle: true
-  compress: true
+  compress: ${PRODUCTION}
   output_path: assets
   gzip: true
