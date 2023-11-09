@@ -13,21 +13,22 @@
     <!-- Google Fonts-->
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="stylesheet">
 
-    <!-- Bootstrap Modified -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
-
-    <!-- Theme Stylesheet -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
+    {% css_asset_tag global %}
+    - /_assets/css/main.css
+    - /_assets/css/theme.css
+    {% endcss_asset_tag %}
 
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
     <script
-    src="https://code.jquery.com/jquery-3.3.1.min.js"
-    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-    crossorigin="anonymous"></script>
+      src="https://code.jquery.com/jquery-3.3.1.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous"></script>
+
+    {% javascript_asset_tag global %}
+    - /_assets/js/theme.js
+    {% endjavascript_asset_tag %}
 
     {% include tracking-header.html %}
-
-
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
@@ -46,9 +47,6 @@
     <main role="main" class="site-content">
         {{ content }}
     </main>
-
-    <!-- Scripts -->
-    <script src="{{site.baseurl}}/assets/js/theme.js"></script>
 
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">
