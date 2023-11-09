@@ -9,45 +9,44 @@ image: /assets/images/faceleg.jpg
 
 <div class="container">
 
-{% if page.url == "/" %}
+{% if page.url == "/index.html" or page.url == "/" %}
 
   <div class="home-heading">
       <h1 class="h1 font-weight-bold">{{ site.title }}</h1>
   </div>
 
+  <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+  <div class="row remove-site-content-margin">
 
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<div class="row remove-site-content-margin">
+      <!-- latest post -->
 
-    <!-- latest post -->
-
-    {% assign latest_post = site.posts[0] %}
-    <div class="col-md-6">
-    <div class="card border-0 mb-4 box-shadow">
-    <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({{ latest_post.image }}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
-    </a>
-    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-    <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
-    </h2>
-    <p class="excerpt">
-        {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
-    </p>
-    <div>
-        <small class="d-block text-muted">
-            In <span class="catlist">
-                {% for category in latest_post.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                {% endfor %}
-                </span>
-        </small>
-        <small class="text-muted">
-            {{ latest_post.date | date: '%b %d, %Y' }}
-        </small>
-    </div>
-    </div>
-    </div>
+      {% assign latest_post = site.posts[0] %}
+      <div class="col-md-6">
+      <div class="card border-0 mb-4 box-shadow">
+      <a href="{{site.baseurl}}{{latest_post.url}}">
+      <div class="topfirstimage" style="background-image: url({{ latest_post.image }}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+      </a>
+      <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+      <h2 class="h4 font-weight-bold">
+      <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
+      </h2>
+      <p class="excerpt">
+          {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+      </p>
+      <div>
+          <small class="d-block text-muted">
+              In <span class="catlist">
+                  {% for category in latest_post.categories %}
+                  <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                  {% endfor %}
+                  </span>
+          </small>
+          <small class="text-muted">
+              {{ latest_post.date | date: '%b %d, %Y' }}
+          </small>
+      </div>
+      </div>
+      </div>
     </div>
 
     <div class="col-md-6">
@@ -160,7 +159,7 @@ image: /assets/images/faceleg.jpg
 
 {% endif %} <!--endif page url is / -->
 
-{% if pageinator.total_pages > 0 %}
+{% if paginator.total_pages > 0 %}
 
 <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
 
@@ -193,12 +192,12 @@ image: /assets/images/faceleg.jpg
                 {% elsif page == 1 %}
                 <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
                 {% else %}
-                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                <li class="page-item"><a class="page-link" href="/page/{{ page }}">{{ page }}</a></li>
                 {% endif %}
               {% endfor %}
 
               {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">Next &raquo;</a></li>
               {% else %}
                 <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
               {% endif %}

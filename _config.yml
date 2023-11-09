@@ -2,7 +2,7 @@
 title: 'Pages of Interest'
 description: 'Good news everyone!'
 logo: '/images/faceleg.png'
-favicon: '/images/favicon.ico'
+favicon: 'images/favicon.ico'
 baseurl: ''
 email: 'mike@pagesofinterest.net'
 
@@ -15,7 +15,7 @@ permalink: /:title/
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-compress-images
   - jekyll-tagging-related_posts
@@ -58,8 +58,15 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-# Paginate
-paginate: 10
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+  limit: 0
+  title: ':title - page :num of :max'
+  sort_field: 'date'
+  sort_reverse: true
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, watch-future.sh, build.sh]
