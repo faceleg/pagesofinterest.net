@@ -18,7 +18,6 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-compress-images
-  - jekyll-target-blank
   - jekyll-tagging-related_posts
 
 authors:
@@ -72,6 +71,6 @@ compress_images:
 # jekyll_asset_pipeline
 asset_pipeline:
   bundle: true
-  compress: ${PRODUCTION}
+  compress: true
   output_path: assets
   gzip: true
