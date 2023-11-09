@@ -79,5 +79,4 @@ asset_pipeline:
   bundle: true
   compress: true
   output_path: assets
-  display_path: nil
   gzip: true
