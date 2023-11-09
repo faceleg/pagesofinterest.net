@@ -63,9 +63,6 @@ paginate: 10
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, watch-future.sh, build.sh]
 
-jekyll-minifier:
-  exclude: 'atom.xml'
-
 related_by: random
 # related_by: tags or categories # Match on categories OR tags
 # related_by: tags
@@ -73,6 +70,14 @@ related_limit: 4              # Include 4 related pages by default
 # related_categories: 1          # Match at least 1 category
 # related_tags: 1                # OR at least 2 tags.
 
+# jekyll-compress-images
 compress_images:
   images_path: "assets/images/**/*.{gif,png,jpg,jpeg}"
 
+# jekyll_asset_pipeline
+asset_pipeline:
+  bundle: true
+  compress: true
+  output_path: assets
+  display_path: nil
+  gzip: true
