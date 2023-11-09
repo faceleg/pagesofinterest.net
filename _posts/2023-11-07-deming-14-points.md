@@ -4,7 +4,7 @@ title: "Deming's 14 Points"
 author: faceleg
 date: "2023-11-06"
 categories: [ culture ]
-tags: [ management, culture, featured ]
+tags: [ management, culture, featured, deming ]
 image: "/assets/images/dall-e-picasso-guppy.png"
 ---
 

@@ -70,13 +70,41 @@ layout: default
 				</div>
         {% endif %}
 
-        <br/>
+      {% if site.related_posts.size >= 1 %}
         <div class="sticky-top sticky-top-offset">
           <h4 class="font-weight-bold spanborder">
             <span>Related Posts</span>
           </h4>
-          {% include related.html %}
+          {% for related_post in site.related_posts limit: 3 %}
+            <div class="mb-3 d-flex align-items-center">
+              {% if related_post.image %}
+              <div class="col-md-4">
+                <a href="{{site.baseurl}}{{related_post.url}}">
+                  <img class="w-100" src="{{ related_post.image }}" alt="{{ related_post.title }}">
+                </a>
+              </div>
+              {% endif %}
+              <div>
+                <h2 class="mb-2 h6 font-weight-bold">
+                  <a class="text-dark" href="{{site.baseurl}}{{related_post.url}}">{{ related_post.title }}</a>
+                </h2>
+                <small class="d-block text-muted">
+                  In <span class="catlist">
+                    {% for category in related_post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll"
+                      href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">,
+                    </span>
+                    {% endfor %}
+                  </span>
+                </small>
+                <small class="text-muted">
+                  {{ related_post.date | date: '%b %d, %Y' }}
+                </small>
+              </div>
+              </div>
+          {% endfor %}
         </div>
+      {% endif %}
 		</div>
 	</div>
 </div>

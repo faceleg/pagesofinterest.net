@@ -4,7 +4,7 @@ title: "Faults of the System"
 author: faceleg
 date: "2023-11-10"
 categories: [ culture ]
-tags: [ management, culture, featured ]
+tags: [ management, culture, featured, deming ]
 image: "/assets/images/dall-e-bunny-on-the-line.png"
 ---
 
