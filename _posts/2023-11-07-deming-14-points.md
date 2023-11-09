@@ -8,8 +8,6 @@ tags: [ management, culture, featured, deming ]
 image: "/images/dall-e-picasso-guppy.png"
 ---
 
-# Deming's 14 Points
-
 Deming's teachings are profoundly affecting how I view
 challenges faced at work. I will write further on specific elements in future, but want to post
 his 14 points first as I will refer back to them.
