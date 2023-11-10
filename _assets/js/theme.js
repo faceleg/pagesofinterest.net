@@ -9,7 +9,9 @@ https: document.addEventListener("scroll", function (event) {
   var y = window.scrollY || document.documentElement.scrollTop;
   // Select the alertbar element
   var alertbar = document.querySelector(".alertbar");
-
+  if (!alertbar) {
+    return;
+  }
   // Show or hide the alertbar based on scroll position
   alertbar.style.display = y > 280 ? "block" : "none";
 });
@@ -18,7 +20,6 @@ https: document.addEventListener("scroll", function (event) {
 let didScroll = false;
 let lastScrollTop = 0;
 const delta = 5;
-const navbar = document.querySelector("nav");
 
 // Listen for scroll events
 window.addEventListener("scroll", function () {
@@ -39,6 +40,8 @@ setInterval(function () {
  * Handles the visibility of the header based on the scroll position.
  */
 function hasScrolled() {
+  const navbar = document.querySelector("nav");
+
   // Get the current scroll position
   var st = window.scrollY || document.documentElement.scrollTop;
   // Get the height of the viewport
