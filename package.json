@@ -1,0 +1,12 @@
+{
+  "name": "pagesofinterest.net",
+  "version": "1.0.0",
+  "description": "[Pagesofinterest.net](https://pagesofinterest.net) &nbsp; | &nbsp;  [Mundana Theme](https://github.com/wowthemesnet/mundana-theme-jekyll)",
+  "directories": {
+    "doc": "docs"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "purgecss": "^5.0.0"
+  }
+}

@@ -19,4 +19,5 @@ group :jekyll_plugins do
     gem 'yui-compressor'
     gem 'jekyll-compress-images'
     gem 'jekyll-tagging-related_posts'
+    gem 'jekyll-purgecss'
 end
