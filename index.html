@@ -22,10 +22,10 @@ image: /assets/images/faceleg.jpg
     <div class="col-md-6">
       <div class="card border-0 mb-4 box-shadow">
         <a href="{{site.baseurl}}{{latest_post.url}}">
-          <div
-            class="topfirstimage"
-            style="background-image: url({{ latest_post.image }}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"
-          ></div>
+          <div class="topfirstimage">
+            {% picture jpt-webp {{ latest_post.image }} --alt {{
+            latest_post.title }} %}
+          </div>
         </a>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
           <h2 class="h4 font-weight-bold">
@@ -65,11 +65,8 @@ image: /assets/images/faceleg.jpg
         {% if second_post.image %}
         <div class="col-md-4">
           <a href="{{site.baseurl}}{{second_post.url}}">
-            <img
-              class="w-100"
-              src="{{ second_post.image }}"
-              alt="{{ second_post.title }}"
-            />
+            {% picture jpt-webp {{ second_post.image }} --alt {{
+            second_post.title }} --picture class="w-100" %}
           </a>
         </div>
         {% endif %}
@@ -103,11 +100,8 @@ image: /assets/images/faceleg.jpg
         {% if third_post.image %}
         <div class="col-md-4">
           <a href="{{site.baseurl}}{{third_post.url}}">
-            <img
-              class="w-100"
-              src="{{ third_post.image }}"
-              alt="{{ third_post.title }}"
-            />
+            {% picture jpt-webp {{ third_post.image }} --alt {{ third_post.title
+            }} --picture class="w-100" %}
           </a>
         </div>
         {% endif %}
@@ -141,11 +135,8 @@ image: /assets/images/faceleg.jpg
         {% if fourth_post.image %}
         <div class="col-md-4">
           <a href="{{site.baseurl}}{{fourth_post.url}}">
-            <img
-              class="w-100"
-              src="{{ fourth_post.image }}"
-              alt="{{ fourth_post.title }}"
-            />
+            {% picture jpt-webp {{ fourth_post.image }} --alt {{
+            fourth_post.title }} --picture class="w-100" %}
           </a>
         </div>
         {% endif %}
@@ -172,6 +163,41 @@ image: /assets/images/faceleg.jpg
           </small>
         </div>
       </div>
+
+      <!-- fifth latest post -->
+      {%- assign fifth_post = site.posts[4] -%}
+      <div class="mb-3 d-flex align-items-center">
+        {% if fifth_post.image %}
+        <div class="col-md-4">
+          <a href="{{site.baseurl}}{{fifth_post.url}}">
+            {% picture jpt-webp {{ fifth_post.image }} --alt {{ fifth_post.title
+            }} --picture class="w-100" %}
+          </a>
+        </div>
+        {% endif %}
+        <div>
+          <h2 class="mb-2 h6 font-weight-bold">
+            <a class="text-dark" href="{{site.baseurl}}{{fifth_post.url}}"
+              >{{ fifth_post.title }}</a
+            >
+          </h2>
+          <small class="d-block text-muted">
+            In
+            <span class="catlist">
+              {% for category in fifth_post.categories %}
+              <a
+                class="text-capitalize text-muted smoothscroll"
+                href="{{site.baseurl}}/categories.html#{{ category | downcase }}"
+                >{{ category }}</a
+              ><span class="sep">, </span>
+              {% endfor %}
+            </span>
+          </small>
+          <small class="text-muted">
+            {{ fifth_post.date | date: '%b %d, %Y' }}
+          </small>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -191,10 +217,10 @@ image: /assets/images/faceleg.jpg
             >Read More</a
           >
         </div>
-        <div
-          class="col-md-6 d-none d-md-block pr-0"
-          style="background-size:cover;background-image:url({{ post.image }});"
-        ></div>
+        <div class="col-md-6 d-none d-md-block pr-0">
+          {% picture jpt-webp {{ post.image }} 1:1 attention --alt {{ post.title
+          }} --picture class="jumbotron-image" %}
+        </div>
       </div>
     </div>
   </div>

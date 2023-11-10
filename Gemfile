@@ -20,4 +20,5 @@ group :jekyll_plugins do
     gem 'jekyll-compress-images'
     gem 'jekyll-tagging-related_posts'
     gem 'jekyll-purgecss'
+    gem 'jekyll_picture_tag'
 end

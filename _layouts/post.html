@@ -54,7 +54,8 @@ layout: default
         </div>
         {% if page.image %}
         <div class="col-md-6 pr-0 align-self-center">
-          <img class="rounded" src="{{ page.image }}" alt="{{ page.title }}" />
+          {% picture jpt-webp {{ page.image }} --alt {{ page.title}} --picture
+          class="rounded" %}
         </div>
         {% endif %}
       </div>
