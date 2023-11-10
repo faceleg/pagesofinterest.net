@@ -65,7 +65,7 @@ highlighter: rouge
 pagination:
   enabled: true
   per_page: 4
-  permalink: '/page/:num'
+  permalink: '/page/:num/'
   limit: 0
   title: ':title - page :num of :max'
   sort_field: 'date'

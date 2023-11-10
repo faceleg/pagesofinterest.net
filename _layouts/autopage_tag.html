@@ -24,9 +24,7 @@ layout: default
         <ul class="pagination">
           {% if paginator.previous_page %}
           <li class="page-item">
-            <a
-              class="page-link"
-              href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+            <a class="page-link" href="{{ paginator.previous_page_path }}"
               >&laquo; Prev</a
             >
           </li>
@@ -36,7 +34,7 @@ layout: default
           </li>
           {% endif %} {% if paginator.next_page %}
           <li class="page-item">
-            <a class="page-link" href="{{ paginator.next_page_path }}index.html"
+            <a class="page-link" href="{{ paginator.next_page_path }}"
               >Next &raquo;</a
             >
           </li>
