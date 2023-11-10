@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-11-10T18:21:30+13:00</updated><id>/feed.xml</id><title type="html">Pages of Interest</title><subtitle>Good news everyone!</subtitle><entry><title type="html">Faults of the System</title><link href="/faults-of-the-system/" rel="alternate" type="text/html" title="Faults of the System" /><published>2023-11-10T00:00:00+13:00</published><updated>2023-11-10T00:00:00+13:00</updated><id>/faults-of-the-system</id><content type="html" xml:base="/faults-of-the-system/"><![CDATA[<h1 id="faults-of-the-system">Faults of the System</h1>
-
-<p>A key element of Deming’s teaching is that it is management, not the contributor who is accountable for ensuring the
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-11-10T18:48:55+13:00</updated><id>/feed.xml</id><title type="html">Pages of Interest</title><subtitle>Good news everyone!</subtitle><entry><title type="html">Faults of the System</title><link href="/faults-of-the-system/" rel="alternate" type="text/html" title="Faults of the System" /><published>2023-11-10T00:00:00+13:00</published><updated>2023-11-10T00:00:00+13:00</updated><id>/faults-of-the-system</id><content type="html" xml:base="/faults-of-the-system/"><![CDATA[<p>A key element of Deming’s teaching is that it is management, not the contributor who is accountable for ensuring the
 environment allows for quality output. He’s not saying contributors have not responsibility or that they shouldn’t try,
-            in fact that everyone is “trying their best” is a key assumption (see <a href="/deming-14-points/">Deming’s 14 Points</a>).</p>
+in fact that everyone is “trying their best” is a key assumption (see <a href="/deming-14-points/">Deming’s 14 Points</a>).</p>
 
-<p>Instead Deming is teaching that if a contributor or a group of contributors aren’t improving beyond a certain point,
-        there is a process or environmental factor in the way. It is management’s job to identify these processes or
-        environmental issues and remove them.</p>
+<p>This is a kindness we can all learn from, and something he proved time and again in his research and consulting. Note this does not mean we shouldn’t have high expectations of our teams, only that those expectations should be directed in the right way.</p>
 
-<p>These factors are what Deming describes here as “Faults of the System”:</p>
+<p>Deming is teaching that if a contributor or a group of contributors aren’t improving beyond a certain point, it is not necessarily due to a lack of trying. Instead we should look for a process or environmental factor. It is management’s job to identify these processes or environmental issues and remove them.</p>
+
+<p>These are what Deming describes as “Faults of the System”:</p>
 
 <blockquote>
   <p>One feature, especially applicable to production, is techniques by which to distinguish between (a) special causes of variation of quality and economic loss, which the worker himself can correct on statistical signal, and (b) faults of the system, which only management can correct.</p>
 </blockquote>
 
-<p>– <a href="https://learning.oreilly.com/library/view/-/9780071790222/ch01.html">The Essential Deming: Leadership Principles from the Father of Quality</a></p>
+<p>– <a href="https://learning.oreilly.com/library/view/-/9780071790222/ch01.html">The Essential Deming: Leadership Principles from the Father of Quality</a>
+I want to unpack this quote as it is dense and contains much to learn.</p>
+
 <h3 id="what-is-variation">What is “Variation”?</h3>
 
 <p>Variation here means any output that isn’t in line with what was desired. In my world, this means bugs and production issues. One could expand it to include failure to deliver outcomes on time as well.</p>
 
-<h2 id="explanation-special-causes-of-variation-of-quality-and-loss">Explanation: Special Causes of Variation of Quality and Loss</h2>
+<h3 id="explanation-special-causes-of-variation-of-quality-and-loss">Explanation: Special Causes of Variation of Quality and Loss</h3>
 
 <blockquote>
   <p>…(a) special causes of variation of quality and economic loss, which the worker himself can correct on statistical signal…</p>
@@ -27,31 +27,32 @@ environment allows for quality output. He’s not saying contributors have not r
 
 <h3 id="what-is-a-special-cause">What is a “Special Cause”?</h3>
 
-<p>Anything a contributor can do to improve outcomes consistently. Some examples are:</p>
+<p>Anything a contributor can solve by their own action. Things we can expect to be done if we have a culture of continuous improvement. Some examples are:</p>
 
 <ul>
   <li>Installing a linter to identify basic errors in code as they type</li>
   <li>Writing proper error handling</li>
   <li>Cross checking a presentation with a colleague before submitting it</li>
+  <li>Seeking confirmation that a decision has factored relevant context before locking it in</li>
 </ul>
 
-<p>A key element of this definition is that a special cause is specific to a contributor or a machine.</p>
+<p>A key element of this definition is that a special cause is specific to a contributor or a group as individuals.</p>
 
-<h2 id="faults-of-the-system-1">Faults of the System</h2>
+<h2 id="faults-of-the-system">Faults of the System</h2>
 
 <blockquote>
   <p>…(b) faults of the system, which only management can correct.</p>
 </blockquote>
 
-<h3 id="common-cause">“Common Cause”</h3>
+<p>These faults of the system come from a common cause - or causes that are common to groups of people (from <a href="https://www.qualitydigest.com/inside/management-article/deming-speech-1978-quick-review-some-new-principles-administration-112421">Deming Speech 1978: ‘Quick Review of Some New Principles of Administration’</a>, Principle 9). This concept is repeated often in any of Deming’s work.</p>
 
-<p>These faults come from a common cause - or causes that are common to groups of people (from <a href="https://www.qualitydigest.com/inside/management-article/deming-speech-1978-quick-review-some-new-principles-administration-112421">Deming Speech 1978: ‘Quick Review of Some New Principles of Administration’</a>, Principle 9).</p>
+<p>The concept of a common cause is important. Special causes are the minority - most variation is caused by common causes, and improving common causes has the effect of improving special causes as well.</p>
 
-<p>It isn’t possible to properly and improve a system or process and see those improvements stick by attacking special causes alone. Special causes are the minority - most variation is caused by common causes, and improving common causes has the effect of improving special causes as well.</p>
+<p>Only management can correct these causes as they lie in processes that govern how all contributors operate. Want everyone to use a linter? Provide them tools that have them inbuilt and training to use them. Configure pipelines to lint submissions and block failures. Take away the opportunity to fail and people will be more likely to succeed.</p>
 
-<p>Only management can correct these causes as they lie in processes that govern how all contributors operate. Want everyone to use a linter? Provide them tools that have them inbuilt and training to use them. Configure pipelines to lint submissions and block failures. Take the opportunity to fail away and people will be more likely to succeed.</p>
+<p>Be kind - look for things in the way and remove them. Identify better processes and implement them. Seek a culture of continuous improvement.</p>
 
-<p>When looking to improve your teams’ outcomes, look to the processes and systems that govern their behaviour and seek improvements there. It is much more likely to show results, the results will last. It is also a much kinder approach than seeking individual failings to correct or remove.</p>]]></content><author><name>faceleg</name></author><category term="culture" /><category term="management" /><category term="culture" /><category term="featured" /><category term="deming" /><summary type="html"><![CDATA[Faults of the System]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/dall-e-bunny-on-the-line.png" /><media:content medium="image" url="/images/dall-e-bunny-on-the-line.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Deming’s 14 Points</title><link href="/deming-14-points/" rel="alternate" type="text/html" title="Deming’s 14 Points" /><published>2023-11-06T00:00:00+13:00</published><updated>2023-11-06T00:00:00+13:00</updated><id>/deming-14-points</id><content type="html" xml:base="/deming-14-points/"><![CDATA[<p>Deming’s teachings are profoundly affecting how I view challenges faced at work. I will write further on specific elements in future, but want to post his 14 points first as I will refer back to them.</p>
+<p>When looking to improve your teams’ outcomes, look to the processes and systems that govern their behaviour and seek improvements there. It is much more likely to show results, the results will last. It is also a much kinder approach than seeking individual failings to correct or remove.</p>]]></content><author><name>faceleg</name></author><category term="culture" /><category term="management" /><category term="culture" /><category term="featured" /><category term="deming" /><summary type="html"><![CDATA[A key element of Deming’s teaching is that it is management, not the contributor who is accountable for ensuring the environment allows for quality output. He’s not saying contributors have not responsibility or that they shouldn’t try, in fact that everyone is “trying their best” is a key assumption (see Deming’s 14 Points).]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/dall-e-bunny-on-the-line.png" /><media:content medium="image" url="/images/dall-e-bunny-on-the-line.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Deming’s 14 Points</title><link href="/deming-14-points/" rel="alternate" type="text/html" title="Deming’s 14 Points" /><published>2023-11-06T00:00:00+13:00</published><updated>2023-11-06T00:00:00+13:00</updated><id>/deming-14-points</id><content type="html" xml:base="/deming-14-points/"><![CDATA[<p>Deming’s teachings are profoundly affecting how I view challenges faced at work. I will write further on specific elements in future, but want to post his 14 points first as I will refer back to them.</p>
 
 <p>If you want to learn more from the source, I recommend <a href="https://deming.org/the-essential-deming-new-book-on-dr-deming-work/">The Essential Deming</a>, a collection of speeches, essays and lectures from the father of quality.</p>
 

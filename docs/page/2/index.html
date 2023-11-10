@@ -80,23 +80,18 @@
     <!-- Content -->
     <main role="main" class="site-content">
         <div class="container">
+  
+  <!--endif page url is / -->
 
- <!--endif page url is / -->
+  
 
+  <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
 
-
-<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
-
-<div class="row mt-3">
-
+  <div class="row mt-3">
     <div class="col-md-8 main-loop">
+      <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
 
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
-
-
-        
-
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+       <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/how-to-be-effective-in-video-meetings/">How to Be Effective in Video Meetings</a>
@@ -123,11 +118,7 @@
 	</div>
 
 </div>
-
-
-        
-
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+  <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/there-is-no-software-engineering-skill-shortage/">There Is No Software Engineering Skill Shortage</a>
@@ -154,39 +145,39 @@
 	</div>
 
 </div>
+ 
 
-
+      <div class="mt-5">
+        <!-- Pagination links -->
         
-
-        <div class="mt-5">
-         <!-- Pagination links -->
+        <ul class="pagination">
+          
+          <li class="page-item">
+            <a
+              class="page-link"
+              href="/"
+              >&laquo; Prev</a
+            >
+          </li>
             
-            <ul class="pagination">
-              
-                <li class="page-item"><a class="page-link" href="/">&laquo; Prev</a></li>
-              
-
-              
-                
-                <li class="page-item"><a class="page-link" href="/">1</a></li>
-                
-              
-                
-                <li class="page-item disabled"><span class="webjeda page-link">2</span></li>
-                
-              
-
-              
-                <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
-              
-            </ul>
+          <li class="page-item">
+            <a class="page-link" href="/">1</a>
+          </li>
             
-        </div>
-
+          <li class="page-item disabled">
+            <span class="webjeda page-link">2</span>
+          </li>
+            
+          <li class="page-item disabled">
+            <span class="next page-link">&raquo;</span>
+          </li>
+          
+        </ul>
+        
+      </div>
     </div>
 
-    <div class="col-md-4">
-        <div class="sticky-top sticky-top-offset">
+    <div class="col-md-4"><div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
     <ol class="list-featured">				
                         
@@ -252,14 +243,10 @@
            
     </ol>
 </div> 
-
-    </div>
-
-    
 </div>
 
-
-
+    
+  </div>
 </div>
 
     </main>
