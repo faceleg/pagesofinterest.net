@@ -1057,12 +1057,12 @@ div.a2a_full_footer {display:none;}
 
 /* Tags */
 @media (width <=768px) {
-  .container-tags, .container-categories {
-    padding-top: 40px;
+  .container-tag, .container-category {
+    padding-top: 70px;
   }
 }
 
-.container-tags h1 {
+.container-tag h1 {
   margin-bottom: 20px;
 }
 
