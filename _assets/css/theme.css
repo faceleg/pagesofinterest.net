@@ -837,3 +837,7 @@ div.a2a_full_footer {display:none;}
 	 }
  }
 
+ /* Related Posts */
+ .related-posts-container {
+   margin-top: 20px;
+ }
