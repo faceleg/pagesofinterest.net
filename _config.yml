@@ -3,7 +3,7 @@ title: 'Pages of Interest'
 description: 'Good news everyone!'
 logo: '/images/faceleg.png'
 favicon: 'images/favicon.ico'
-baseurl: 'https://www.pagesofinterest.net'
+url: 'https://www.pagesofinterest.net'
 email: 'mike@pagesofinterest.net'
 
 destination: docs/
