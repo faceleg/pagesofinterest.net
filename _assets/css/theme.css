@@ -1050,9 +1050,21 @@ div.a2a_full_footer {display:none;}
   width: 100%;
 }
 
-
-
 /* Related Posts */
 .related-posts-container {
   margin-top: 20px;
+}
+
+/* Tags */
+@media (width <=768px) {
+  .container-tags, .container-categories {
+    padding-top: 40px;
+  }
+}
+
+/* Second and second-and-subsequent-page pages */
+@media (width <=768px) {
+  .second-and-subsequent-page {
+    padding-top: 40px;
+  }
 }
