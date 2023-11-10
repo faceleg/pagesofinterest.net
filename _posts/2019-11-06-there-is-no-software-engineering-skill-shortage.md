@@ -3,9 +3,9 @@ layout: post
 title: "There Is No Software Engineering Skill Shortage"
 author: faceleg
 date: "2019-11-06"
-categories: [ Recruitment ]
-tags: [ sticky, culture ]
-image: "/images/thinking-woman-at-computer.jpg"
+categories: [Recruitment]
+tags: [sticky, culture]
+image: "/images/there-is-no-software-engineering-skill-shortage.jpg"
 featured: true
 ---
 
@@ -159,20 +159,20 @@ I held this assumption until I hired someone who was, on paper, very senior. The
 This caused me to carefully reconsider what I mean when I say "senior". Instead, seniority needs to be categorised according to measurable traits and skills, for example:
 
 1. Entry level engineer
-    - Can complete only trivial tasks without significant help
-    - Has shallow understanding of at least one complete area of the team's software
-    - Is learning how to take ownership of self-learning
-    - Actively seeks out mentorship in the technical space
+   - Can complete only trivial tasks without significant help
+   - Has shallow understanding of at least one complete area of the team's software
+   - Is learning how to take ownership of self-learning
+   - Actively seeks out mentorship in the technical space
 2. Intermediate level engineer
-    - Can complete middling and higher complexity tasks without significant help
-    - Has deep understanding of at least one complete area of the team's software
-    - Has mastered self-learning and looks for opportunities to expand their knowledge
-    - Maintains mentorship relationships in the technical space, has started mentoring less senior members, actively seeks mentorship in the interpersonal space
+   - Can complete middling and higher complexity tasks without significant help
+   - Has deep understanding of at least one complete area of the team's software
+   - Has mastered self-learning and looks for opportunities to expand their knowledge
+   - Maintains mentorship relationships in the technical space, has started mentoring less senior members, actively seeks mentorship in the interpersonal space
 3. Senior level engineer
-    - Can complete tasks of any complexity level
-    - Has deep understanding of most areas of the team's software
-    - Seeks out opportunities to increase knowledge and understanding across the team
-    - Actively mentors members of the team at all levels
+   - Can complete tasks of any complexity level
+   - Has deep understanding of most areas of the team's software
+   - Seeks out opportunities to increase knowledge and understanding across the team
+   - Actively mentors members of the team at all levels
 
 Notice there is no mention of time on the job. I've had team members who have been in software engineering for less than two years meet requirements for the top intermediate level. Then there is the person who, despite many years in the industry, could barely be categorised as entry level by the above descriptions. The above categories are a very diluted version of a much more comprehensive document I've been working on for years - inspired by the <a href="https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0" target="_blank">"CircleCi Engineering Competency Matrix</a>.
 

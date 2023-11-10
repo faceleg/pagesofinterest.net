@@ -3,9 +3,9 @@ layout: post
 title: "MVP A/B Testing"
 author: faceleg
 date: "2021-03-04"
-categories: [ Tooling ]
-tags: [ a-b-testing, data, open-source, tooling ]
-image: "/images/arrows-both-ways.jpg"
+categories: [Tooling]
+tags: [a-b-testing, data, open-source, tooling]
+image: "/images/mvp-a-b-testing.png"
 ---
 
 Does the sign up button work better on the left or the right? What happens to engagement if we move our "you might also like" carousel above the fold? These are the types of questions that A/B testing exists to answer.
@@ -27,9 +27,9 @@ Determined to give the business a chance to evaluate A/B testing, I canvassed th
 I found Sixpack, which is best described by the authors themselves:
 
 > Sixpack is a framework to enable A/B testing across multiple programming languages. It does this by exposing a simple API for client libraries. Client libraries can be written in virtually any language.
-> 
+>
 > Sixpack has two main parts. The first, **Sixpack-server**, is responsible for responding to web requests. The second, **Sixpack-web**, is a web dashboard for tracking and acting on your A/B tests. Sixpack-web is optional.
-> 
+>
 > [github.com/sixpack/sixpack](https://github.com/sixpack/sixpack)
 
 There are other options out there, sixpack was the easiest for our team to get going, and worked very well for us in the years following.

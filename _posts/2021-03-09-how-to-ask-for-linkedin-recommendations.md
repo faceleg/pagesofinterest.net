@@ -3,9 +3,9 @@ layout: post
 title: "How to Ask for LinkedIn Recommendations"
 author: faceleg
 date: "2021-03-09"
-categories: [ recruitment ]
-tags: [ career, featured ]
-image: "/images/conference-table-interested.jpg"
+categories: [recruitment]
+tags: [career, featured]
+image: "/images/how-to-ask-for-a-linkedin-recommendation.jpg"
 ---
 
 As a technology professional it's easy to assume networking & self-marketing isn't necessary for career advancement. This is because up to a certain point, promotions and job offers come from technical skills alone. Ignoring this will limit opportunities to progress, as you will have to work much harder to prove possession of skills & attributes required to advance. It took me a long time to get comfortable with how to ask for LinkedIn recommendations. I've summarised my approach here.
@@ -36,20 +36,20 @@ Unless the recommender has their own process, they're likely to procrastinate du
 
 Help them out by framing your ideal recommendation. I do this by giving them a template like this example:
 
-> I'm keen on honest feedback, but I know it can be hard to think of what to write. 
-> 
+> I'm keen on honest feedback, but I know it can be hard to think of what to write.
+>
 > To make it less painful, you might pick one or more of the points below and write some words around how I may have performed?
-> 
+>
 > \- Leadership - Proactive, creative and metric based approach to enhancing performance of people and resolving issues
-> 
-> \- Wide impact - decisions, advice and actions are impactful across the whole organisation 
-> 
+>
+> \- Wide impact - decisions, advice and actions are impactful across the whole organisation
+>
 > \- Empathy - Championing fairness and equality - removing bias, encouraging open and fair communication
-> 
-> \- Supportive of autonomy - did I let you approach problem solving in your own way?  
-> 
+>
+> \- Supportive of autonomy - did I let you approach problem solving in your own way?
+>
 > \- Air-support - did I help in any way if/when people came in from the side to interfere with your project or daily work?
-> 
+>
 > ... anything you'd like to be highlighted
 
 Providing this framework gives your recommender an easy "jumping off point". Together with the right way of asking I've had great results here. People tend to turn their recommendations around within hours or days, previously it would take significantly longer.
@@ -65,7 +65,7 @@ Although you can simply request directly through LinkedIn, I like to ask "offlin
 Here's an example message you might use to request a recommendation from a boss or boss-adjacent colleague:
 
 > Hi! I really enjoyed working on your team, and I feel I learned so much from you. If you're willing, I'd really appreciate it if you wrote a LinkedIn recommendation for me.
-> 
+>
 > All good if you're too busy - just let me know! Of course I'd love to return the favour and write one for you too :)
 
 ## What to do next
