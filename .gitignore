@@ -4,3 +4,4 @@
 node_modules
 Gemfile.lock
 .DS_Store
+.asset_pipeline*
