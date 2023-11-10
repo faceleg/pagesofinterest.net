@@ -28,9 +28,6 @@
 <loc>https://www.pagesofinterest.net/author-michael-robinson.html</loc>
 </url>
 <url>
-<loc>https://www.pagesofinterest.net/categories.html</loc>
-</url>
-<url>
 <loc>https://www.pagesofinterest.net/tag/sticky/</loc>
 </url>
 <url>
@@ -68,5 +65,17 @@
 </url>
 <url>
 <loc>https://www.pagesofinterest.net/tag/deming/</loc>
+</url>
+<url>
+<loc>https://www.pagesofinterest.net/category/recruitment/</loc>
+</url>
+<url>
+<loc>https://www.pagesofinterest.net/category/culture/</loc>
+</url>
+<url>
+<loc>https://www.pagesofinterest.net/category/tooling/</loc>
+</url>
+<url>
+<loc>https://www.pagesofinterest.net/collection/posts/</loc>
 </url>
 </urlset>
