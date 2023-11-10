@@ -77,7 +77,7 @@ layout: default
           {% for tag in page.tags %}
           <a
             class="sscroll btn btn-light btn-sm font-weight-bold"
-            href="/tags.html#{{ tag | downcase }}"
+            href="/tag/{{ tag | downcase }}"
             >{{ tag | downcase }}</a
           >
           {% endfor %}

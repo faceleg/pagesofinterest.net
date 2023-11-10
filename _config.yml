@@ -9,7 +9,7 @@ email: 'mike@pagesofinterest.net'
 destination: docs/
 
 include: ["_pages"]
-permalink: /:title/
+permalink: /:title
 
 # Plugins
 plugins:
@@ -65,7 +65,7 @@ highlighter: rouge
 pagination:
   enabled: true
   per_page: 4
-  permalink: '/page/:num/'
+  permalink: '/page/:num'
   limit: 0
   title: ':title - page :num of :max'
   sort_field: 'date'
@@ -88,3 +88,7 @@ asset_pipeline:
 # jekyll-purgecss
 css_dir: "assets" # defaults to "css"
 
+# jekyll-tagging
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty

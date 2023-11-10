@@ -1062,6 +1062,10 @@ div.a2a_full_footer {display:none;}
   }
 }
 
+.container-tags h1 {
+  margin-bottom: 20px;
+}
+
 /* Second and second-and-subsequent-page pages */
 @media (width <=768px) {
   .second-and-subsequent-page {
