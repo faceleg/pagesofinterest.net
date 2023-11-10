@@ -27,14 +27,16 @@ layout: default
           </p>
           <h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
           <div class="d-flex align-items-center">
-            {% if author.avatar %}
-            <img
-              class="rounded-circle"
-              src="{{author.avatar}}"
-              alt="{{author.name}}"
-              width="70"
-            />
-            {% endif %}
+            <a href="{{ author.url }}">
+              {% if author.avatar %}
+              <img
+                class="rounded-circle"
+                src="{{author.avatar}}"
+                alt="{{author.name}}"
+                width="70"
+              />
+              {% endif %}
+            </a>
             <small class="ml-3">
               {{ author.name }}
               <span
