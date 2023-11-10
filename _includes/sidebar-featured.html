@@ -15,7 +15,7 @@
             {% for category in post.categories %}
             <a
               class="text-capitalize text-muted smoothscroll"
-              href="{{site.baseurl}}/categories.html#{{ category | downcase }}"
+              href="{{site.baseurl}}/category/{{ category | downcase }}"
               >{{ category }}</a
             ><span class="sep">, </span>
             {% endfor %}

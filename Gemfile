@@ -21,5 +21,4 @@ group :jekyll_plugins do
     gem 'jekyll-tagging-related_posts'
     gem 'jekyll-purgecss'
     gem 'jekyll_picture_tag'
-    gem 'jekyll-tagging'
 end

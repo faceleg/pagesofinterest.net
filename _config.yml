@@ -71,6 +71,23 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
 
+autopages:
+  enabled: true
+  tags:
+    layouts:
+     - autopage_tag.html
+    enabled: true
+    permalink: '/tag/:tag'
+  categories:
+    layouts:
+      - autopage_category.html
+    enabled: true
+  collections:
+    enabled: true
+    slugify:
+      mode: 'ascii'
+      cased: true  # Causes B+W tag to show up as it is written on the terry-pratchet-diary-2017.md page and not lowercase
+
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [_compress_images_cache.yml, .stylelintrc.json, docs, README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, watch-future.sh, build.sh, package.json, package-lock.json, purgecss.config.js]
 
@@ -88,7 +105,7 @@ asset_pipeline:
 # jekyll-purgecss
 css_dir: "assets" # defaults to "css"
 
-# jekyll-tagging
-tag_page_layout: tag_page
-tag_page_dir: tag
-tag_permalink_style: pretty
+# # jekyll-tagging
+# tag_page_layout: tag_page
+# tag_page_dir: tag
+# tag_permalink_style: pretty
