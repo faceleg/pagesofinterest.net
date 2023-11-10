@@ -5,7 +5,7 @@ author: faceleg
 date: "2023-11-10"
 categories: [culture]
 tags: [management, culture, featured, deming]
-image: "/images/demings-perspective-on-quality-management-understanding-faults-in-the-system.png"
+image: "/images/demings-perspective-on-quality-management-understanding-faults-of-the-system.png"
 ---
 
 One of the fundamental principles of W. Edwards Deming's philosophy is that management, rather than individual contributors, bears the responsibility for ensuring a conducive environment for quality output. While Deming doesn't absolve contributors of responsibility or effort, his key assumption is that everyone is "trying their best" is a key assumption (see [Deming's 14 Points](/deming-14-points/)).
