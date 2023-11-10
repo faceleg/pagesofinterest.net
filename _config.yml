@@ -70,7 +70,7 @@ pagination:
   sort_reverse: true
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [docs, README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, watch-future.sh, build.sh, package.json, package-lock.json]
+exclude: [docs, README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, watch-future.sh, build.sh, package.json, package-lock.json, purgecss.config.js]
 
 # jekyll-compress-images
 compress_images:
