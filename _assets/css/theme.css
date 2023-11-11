@@ -1060,7 +1060,24 @@ div.a2a_full_footer {display:none;}
   margin-top: 20px;
 }
 
-/* Tags */
+/* Author */
+.author-bio-wrapper {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+}
+
+.author-bio-wrapper .excerpt {
+  margin-top: 0;
+}
+
+.author-avatar img {
+  max-width: 100px;
+  border-radius: 100px;
+  margin-right: 10px;
+}
+
+/* Tags, cateogry and author */
 @media (width <=768px) {
   .container-tag, .container-category, .container-author {
     padding-top: 70px;

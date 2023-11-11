@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deming's Perspective on Quality Management: Understanding Faults of the System"
-author: faceleg
+author: michael-robinson
 date: "2023-11-10"
 categories: [culture]
 tags: [management, culture, featured, deming]

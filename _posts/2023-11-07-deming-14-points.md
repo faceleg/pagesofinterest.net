@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deming's 14 Points"
-author: faceleg
+author: michael-robinson
 date: "2023-11-06"
 categories: [culture]
 tags: [management, culture, featured, deming]

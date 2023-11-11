@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MVP A/B Testing"
-author: faceleg
+author: michael-robinson
 date: "2021-03-04"
 categories: [Tooling]
 tags: [a-b-testing, data, open-source, tooling]

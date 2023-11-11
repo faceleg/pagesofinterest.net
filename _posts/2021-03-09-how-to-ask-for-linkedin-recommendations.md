@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Ask for LinkedIn Recommendations"
-author: faceleg
+author: michael-robinson
 date: "2021-03-09"
 categories: [recruitment]
 tags: [career, featured]

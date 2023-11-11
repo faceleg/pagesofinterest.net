@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Three Threads of Leadership"
-author: faceleg
+author: michael-robinson
 date: "2023-11-20"
 categories: [leadership]
 tags: [improvement, culture, featured]

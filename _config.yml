@@ -16,21 +16,24 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate-v2
+  - jekyll-auto-authors
   - jekyll-seo-tag
   - jekyll-compress-images
   - jekyll-tagging-related_posts
   - jekyll-purgecss
   - jekyll_picture_tag
 
+# Core author information. 
+# Note this data has to be replicated in _data/authors.yml for the jekyll-auto-authors plugin
 authors:
-    faceleg:
-      name:           Michael Robinson
-      site:           https://pagesofinterest.net
-      avatar:         /images/faceleg.jpg
-      bio:            "I specialise in creating change that ensures technology organisations provide the engagement, speed and quality so critical for business success in today’s hyper competitive market."
-      email:          mike@pagesofinterest.net
-      linkedin:       https://www.linkedin.com/in/faceleg/
-      url:            /author-michael-robinson.html
+  michael-robinson:
+    name:           Michael Robinson
+    site:           https://pagesofinterest.net
+    avatar:         /images/faceleg.jpg
+    bio:            "I specialise in creating change that ensures technology organisations provide the engagement, speed and quality so critical for business success in today’s hyper competitive market."
+    email:          mike@pagesofinterest.net
+    linkedin:       https://www.linkedin.com/in/faceleg/
+    url:            /author/michael-robinson
 
 social:
   name: Michael Robinson
@@ -73,20 +76,35 @@ pagination:
 
 autopages:
   enabled: true
+
   tags:
     layouts:
      - autopage_tag.html
     enabled: true
     permalink: '/tag/:tag'
+
   categories:
     layouts:
       - autopage_category.html
     enabled: true
+
   collections:
-    enabled: true
+    enabled: false
     slugify:
       mode: 'ascii'
       cased: true 
+
+  authors:
+    enabled: true
+    data: '_data/authors.yml' # Data file with the author details
+    layouts: 
+      - 'author.html' # We'll define this layout later
+    title: 'Posts by :author'
+    permalink: '/author/:author/'
+    slugify:
+      mode: 'default' # choose from [raw, default, pretty, ascii or latin]
+      cased: true # if true, the uppercase letters in slug will be converted to lowercase ones.
+
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [_compress_images_cache.yml, .stylelintrc.json, docs, README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, watch-future.sh, build.sh, package.json, package-lock.json, purgecss.config.js]

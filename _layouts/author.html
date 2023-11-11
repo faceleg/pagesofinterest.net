@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<!-- Use page.pagination.author_data only if you have data file setup correctly -->
+{% assign author = page.pagination.author_data %}
+
+<div class="container container-author">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <div class="row align-items-center mb-5">
+        <div class="col-md-12">
+          <h2 class="font-weight-bold">
+            {{ author.name }}
+            <span class="small btn btn-outline-success btn-sm btn-round"
+              ><a href="{{ author.twitter }}">Follow</a></span
+            >
+          </h2>
+          <p>
+            <a href="{{ author.site }}">{{ author.site }}</a>
+          </p>
+          <div class="author-bio-wrapper">
+            <p class="excerpt">{{ author.bio }}</p>
+            {% picture jpt-webp {{ author.avatar }} --alt {{ author.name }}
+            --picture class="rounded-circle author-avatar" %}
+          </div>
+        </div>
+      </div>
+      <div class="row mt-3 second-and-subsequent-page">
+        <div class="col-md-12 main-loop">
+          <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+
+          {% for post in paginator.posts %} {% include main-loop-card.html %} {%
+          endfor %}
+
+          <div class="mt-5">
+            <!-- Pagination links -->
+            {% if paginator.total_pages > 1 %}
+            <ul class="pagination">
+              {% if paginator.previous_page %}
+              <li class="page-item">
+                <a class="page-link" href="{{ paginator.previous_page_path }}"
+                  >&laquo; Prev</a
+                >
+              </li>
+              {% else %}
+              <li class="page-item disabled">
+                <span class="prev page-link">&laquo;</span>
+              </li>
+              {% endif %} {% if paginator.next_page %}
+              <li class="page-item">
+                <a class="page-link" href="{{ paginator.next_page_path }}"
+                  >Next &raquo;</a
+                >
+              </li>
+              {% else %}
+              <li class="page-item disabled">
+                <span class="next page-link">&raquo;</span>
+              </li>
+              {% endif %}
+            </ul>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
