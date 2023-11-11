@@ -1062,7 +1062,7 @@ div.a2a_full_footer {display:none;}
 
 /* Tags */
 @media (width <=768px) {
-  .container-tag, .container-category {
+  .container-tag, .container-category, .container-author {
     padding-top: 70px;
   }
 }
