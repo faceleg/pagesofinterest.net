@@ -107,7 +107,7 @@ autopages:
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [_compress_images_cache.yml, .stylelintrc.json, docs, README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, watch-future.sh, build.sh, package.json, package-lock.json, purgecss.config.js]
+exclude: [install-brew-dependencies.sh, _compress_images_cache.yml, .stylelintrc.json, docs, README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, watch-future.sh, build.sh, package.json, package-lock.json, purgecss.config.js]
 
 # jekyll-compress-images
 compress_images:
