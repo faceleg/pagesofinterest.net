@@ -1075,6 +1075,39 @@ div.a2a_full_footer {display:none;}
 @media (width <=768px) {
   .second-and-subsequent-page {
     padding-top: 40px;
+    padding-right: 15px;
+    padding-left: 15px;
   }
 }
 
+/* Post inline images */
+.post-inline-image-left {
+  width: 50%;
+  float: left;
+  margin-right: 20px;
+}
+
+@media (width <=768px) {
+  .post-inline-image-left {
+    width: 100%;
+    display: block;
+    float: none;
+  }
+}
+
+/* Latest posts */
+.latest-post-container img {
+  max-height: 90px;
+}
+
+@media (width > 768px) {
+  .latest-post-image-small img {
+    display: none;
+  }
+}
+
+@media (width <= 768px) {
+  .latest-post-image-large img {
+    display: none;
+  }
+}
