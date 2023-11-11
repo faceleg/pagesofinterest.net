@@ -105,7 +105,6 @@ asset_pipeline:
 # jekyll-purgecss
 css_dir: "assets" # defaults to "css"
 
-# # jekyll-tagging
-# tag_page_layout: tag_page
-# tag_page_dir: tag
-# tag_permalink_style: pretty
+# jekyll_picture_tag
+picture: 
+  ignore_missing_images: true
