@@ -2,4 +2,4 @@
 
 export JEKYLL_ENV=production
 
-jekyll build --trace --verbose
+bundle exec jekyll build --trace --verbose

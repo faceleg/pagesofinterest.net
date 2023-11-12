@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jekyll serve --watch --trace --verbose
+bundle exec jekyll serve --watch --trace --verbose
