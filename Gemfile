@@ -23,3 +23,5 @@ group :jekyll_plugins do
     gem 'jekyll_picture_tag'
     gem 'jekyll-auto-authors'
 end
+
+gem "jekyll", "~> 4.3"
