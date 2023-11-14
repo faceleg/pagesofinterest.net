@@ -1128,3 +1128,20 @@ div.a2a_full_footer {display:none;}
     display: none;
   }
 }
+
+/* Related posts */
+.related-post-container img {
+  max-height: 90px;
+}
+
+@media (width > 768px) {
+  .related-post-image-small img {
+    display: none;
+  }
+}
+
+@media (width <= 768px) {
+  .related-post-image-large img {
+    display: none;
+  }
+}

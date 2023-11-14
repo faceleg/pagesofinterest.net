@@ -1,0 +1,33 @@
+<div
+  class="mb-3 d-flex align-items-center justify-content-center related-post-container"
+>
+  {% if post.image %}
+  <div>
+    <a href="{{post.url}}">
+      {% picture jpt-webp {{ post.image }} 4:3 center --alt {{ post.title }}
+      --picture class="w-100 related-post-image-small" %} {% picture jpt-webp {{
+      post.image }} 8:3 center --alt {{ post.title }} --picture class="w-100
+      related-post-image-large" %}
+    </a>
+  </div>
+  {% endif %}
+  <div class="col-lg-4 col-md-5 col-sm-8">
+    <h2 class="mb-2 h6 font-weight-bold">
+      <a class="text-dark" href="{{post.url}}">{{ post.title }}</a>
+    </h2>
+    <small class="d-block text-muted">
+      In
+      <span class="catlist">
+        {% for category in post.categories %}
+        <a
+          class="text-capitalize text-muted smoothscroll"
+          href="/category/{{ category | downcase }}"
+          >{{ category }}</a
+        >
+        <span class="sep">, </span>
+        {% endfor %}
+      </span>
+    </small>
+    <small class="text-muted"> {{ post.date | date: '%b %d, %Y' }} </small>
+  </div>
+</div>
