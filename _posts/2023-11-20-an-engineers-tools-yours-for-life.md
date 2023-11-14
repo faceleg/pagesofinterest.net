@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Engineers Tools, Yours for Life: Hands"
+title: "An Engineer's Tools, Yours for Life: Hands"
 author: michael-robinson
 date: "2023-11-20"
 categories: [tooling]
@@ -8,15 +8,15 @@ tags: [improvement, tooling, featured]
 image: "/images/an-engineers-tools-yours-for-life-hands-split-keyboard.jpg"
 ---
 
-Software Engineering is an interesting profession. There are no mandatory tools, no agreed handbook explaining minimum basic tenets to follow to ensure a long and healthy career. We're expected it seems, to figure it out ourselves. In this post I want to talk about a tool we take for granted that you'll notice only when the break: your hands.
+Software Engineering is an interesting profession, there are no mandatory tools, no agreed handbook explaining minimum basic tenets to follow to ensure a long and healthy career. We're expected it seems, to figure it out ourselves. In this post I want to talk about a tool we take for granted that you'll notice only when they break: your hands.
 
-It is assumed that as sedentary workers, we can't physically wear out. For me this lead to mistakes early on that nearly cost me my income.
+It is assumed that as sedentary workers, we can't physically wear out. For me this led to mistakes early on that nearly cost me my income.
 
-Over my career as an individual contributor I worked through solutions until I settled where I am today. I coach my managers and talk about this topic whenever I'm triggered - it's important and can be the difference between being able to focus on what matters or struggling to work at all.
+Over my career as an individual contributor I worked through solutions until I settled where I am today. I coach my managers and talk about this topic whenever I'm triggered. It's important and can be the difference between being able to focus on what matters or struggling to work at all.
 
 ## The Issue
 
-Numbness and pain, starting in the pinkies and developing upwards through the outside of my arms and into my shoulders and neck. Being young and relatively stupid in many ways, I ignored it assuming it would go away. It got worse.
+Numbness and pain, starting in the pinkies-developing upwards through the outside of my arms and into my shoulders and neck. Being young and relatively stupid in many ways, I ignored it assuming it would go away; it got worse.
 
 ## Solution Part #1: A New Virtual Input Method
 
@@ -38,7 +38,7 @@ Do your brain a favour and learn Vim today.
 
 {% picture jpt-webp "images/an-engineers-tools-yours-for-life-hands.jpg" --alt {{ Kinesis Advantage360 }} --picture class="post-inline-image-left" %}
 
-Months into my new job - responsible for technology within a small company. Doing my work and fixing any mistakes or omissions by the team, the pain came back with a vengeance.
+Months into my new job, responsible for technology within a small company, doing my work and fixing any mistakes or omissions by the team, the pain came back with a vengeance.
 
 I didn't know what to do! I turned to Reddit and Google, who indicated standard keyboards might be to blame. Much research and thought later, I boiled the problem down to:
 
@@ -53,7 +53,7 @@ Thumbs are strong, pinkies are not. This made a big difference to me. The pain w
 
 {% picture jpt-webp "images/an-engineers-tools-yours-for-life-hands-exercise.jpg" --alt {{ Exercising Animal }} --picture class="post-inline-image-left" %}
 
-You won't believe it until your time but bodies wear out and require maintenance. We can ride youth for awhile but it catches up to you.
+You won't believe it until your time but bodies wear out and require maintenance. We can ride youth for a while but it catches up to you.
 
 #1 and #2 solved one set of problems, it was nearly a decade after I discovered special keyboards when I implemented the final stage - exercise and the use of a standing desk.
 
