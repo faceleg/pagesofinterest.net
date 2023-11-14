@@ -8,9 +8,11 @@ tags: [improvement, tooling, featured]
 image: "/images/an-engineers-tools-yours-for-life-hands-split-keyboard.jpg"
 ---
 
+Ever considered the most crucial tool in a software engineer's arsenal? It's not a fancy IDE or a powerful laptop; it's something you might overlook - your hands.
+
 Software Engineering is an interesting profession, there are no mandatory tools, no agreed handbook explaining minimum basic tenets to follow to ensure a long and healthy career. We're expected it seems, to figure it out ourselves. In this post I want to talk about a tool we take for granted that you'll notice only when they break: your hands.
 
-It is assumed that as sedentary workers, we can't physically wear out. For me this led to mistakes early on that nearly cost me my income.
+Many assume that as sedentary workers, we can't physically wear out. For me this led to mistakes early on that nearly cost me my income.
 
 Over my career as an individual contributor I worked through solutions until I settled where I am today. I coach my managers and talk about this topic whenever I'm triggered. It's important and can be the difference between being able to focus on what matters or struggling to work at all.
 
@@ -71,4 +73,4 @@ Wonderful story - but starting over what should I have done? What do I think you
 
 Talked to a professional: a Doctor, a Physiotherapist. At the time this didn't occur to me. If you're experiencing any pain, this should be your first port of call.
 
-Don't learn the hard over decades like I did!
+Don't learn the hard over decades like I did. Remember, your hands are the tools that shape your career; take care of them.
