@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "An Engineer's Tools, Yours for Life: Hands"
+title: "An Engineer's Tools: Hands. Yours for Life"
 author: michael-robinson
 date: "2023-11-20"
 categories: [tooling]
-tags: [improvement, tooling, featured]
+tags: [improvement, tooling, featured, health]
 image: "/images/an-engineers-tools-yours-for-life-hands-split-keyboard.jpg"
 ---
 
@@ -13,6 +13,8 @@ Ever considered the most crucial tool in a software engineer's arsenal? It's not
 Software Engineering is an interesting profession, there are no mandatory tools, no agreed handbook explaining minimum basic tenets to follow to ensure a long and healthy career. We're expected it seems, to figure it out ourselves. In this post I want to talk about a tool we take for granted that you'll notice only when they break: your hands.
 
 Many assume that as sedentary workers, we can't physically wear out. For me this led to mistakes early on that nearly cost me my income.
+
+Jump to advice: [my hands are sore, what do I do](#what-should-i-have-done)?
 
 Over my career as an individual contributor I worked through solutions until I settled where I am today. I coach my managers and talk about this topic whenever I'm triggered. It's important and can be the difference between being able to focus on what matters or struggling to work at all.
 
@@ -73,4 +75,4 @@ Wonderful story - but starting over what should I have done? What do I think you
 
 Talked to a professional: a Doctor, a Physiotherapist. At the time this didn't occur to me. If you're experiencing any pain, this should be your first port of call.
 
-Don't learn the hard over decades like I did. Remember, your hands are the tools that shape your career; take care of them.
+Don't learn the hard, through years of pain like I did. Remember, your hands are the tools that shape your career; take care of them.
