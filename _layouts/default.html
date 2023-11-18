@@ -22,10 +22,6 @@
     - /_assets/css/theme.css
     {% endcss_asset_tag %}
 
-    {% javascript_asset_tag global %}
-    - /_assets/js/theme.js
-    {% endjavascript_asset_tag %}
-
     {% include tracking-header.html %}
 </head>
 
@@ -64,6 +60,10 @@
         </div>
         </div>
     </footer>
+
+    {% javascript_asset_tag global %}
+    - /_assets/js/theme.js
+    {% endjavascript_asset_tag %}
 
     {% include tracking-footer.html %}
 
