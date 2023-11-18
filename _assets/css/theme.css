@@ -77,6 +77,10 @@ a.text-dark:hover {
 	fill: orange;
 }
 
+.svg-link {
+  fill: #03a87c;
+}
+
 .footer-rss {
 	vertical-align: text-bottom;
 }
@@ -921,7 +925,13 @@ article h1,article h2,article h3,article h4,article h5,article h6,article .h1,ar
 	display:none;
 }
 
+.alertbar-link-left {
+  display: flex;
+  align-items: center;
+}
+
 .alertbar img {
+  height: 40px;
 	border-radius:2px;
 }
 
@@ -1144,4 +1154,37 @@ div.a2a_full_footer {display:none;}
   .related-post-image-large img {
     display: none;
   }
+}
+
+/* Hover links for headers */
+.header-link-before {
+  position: absolute;
+  left: -1em;
+  opacity: 0;
+}
+
+.header-link-after {
+  display: none;
+}
+
+@media (width <= 768px) {
+  .header-link-before {
+    display: none;
+  }
+
+  .header-link-after {
+    display: inline-block;
+    opacity: 1;
+    padding-left: 5px;
+    position: relative;
+    top: -5px;
+  }
+}
+
+h2:hover .header-link-before,
+h3:hover .header-link-before,
+h4:hover .header-link-before,
+h5:hover .header-link-before,
+h6:hover .header-link-before {
+  opacity: 1;
 }
