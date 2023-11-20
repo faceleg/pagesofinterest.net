@@ -27,6 +27,20 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  eslint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm ci # or yarn install
+      - uses: sibiraj-s/action-eslint@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # optional
+          eslint-args: '--ignore-path=.gitignore --quiet'
+          extensions: 'js,jsx,ts,tsx'
+          annotations: true
   # Build job
   build:
     runs-on: ubuntu-latest
@@ -35,23 +49,46 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
+      # Install libs
+      - name: Update apt
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: 
+          sudo apt-get update -qq -o Acquire::Retries=3
+
+      - name: Install libvips
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run:
+          # we only need the library
+          sudo apt-get install --fix-missing -qq -o Acquire::Retries=3
+            libvips
+
+      # Setup languages
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
           ruby-version: 3.1.4
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v3
-      - name: Bundle Install
-        run: bundle install
       - uses: actions/setup-node@v4
         with:
           node-version: 21
           cache: 'npm'
           cache-dependency-path: ./package-lock.json
         run: npm install
+      - uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+
+      # Build pages
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
+      - name: Bundle Install
+        run: bundle install
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
