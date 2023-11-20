@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/faceleg/jekyll-gh-pages-custom-plugins:master
+      image: ghcr.io/faceleg/jekyll-gh-pages-custom-plugins:main
     steps:
       - name: Checkout
         uses: actions/checkout@v3
