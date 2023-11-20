@@ -4,7 +4,7 @@
  * Handles the visibility of the alertbar based on the scroll position.
  * @param {Event} event - The scroll event.
  */
-https: document.addEventListener('scroll', function (event) {
+document.addEventListener('scroll', function (event) {
   // Get the vertical scroll position
   const y = window.scrollY || document.documentElement.scrollTop
   // Select the alertbar element
