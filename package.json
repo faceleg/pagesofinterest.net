@@ -7,7 +7,7 @@
   },
   "scripts": {
     "eslint": "eslint . --ignore-path=.gitignore",
-    "yamllint": "yamllint -c .yamllint-config.yml ."
+    "yamllint": "yamllint ."
   },
   "license": "ISC",
   "dependencies": {

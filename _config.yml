@@ -1,10 +1,10 @@
-# Site
-title: 'Pages of Interest'
-description: 'Good news everyone!'
-logo: '/images/faceleg.png'
-favicon: 'images/favicon.ico'
-url: 'https://www.pagesofinterest.net'
-email: 'mike@pagesofinterest.net'
+---
+title: "Pages of Interest"
+description: "Good news everyone!"
+logo: "/images/faceleg.png"
+favicon: "images/favicon.ico"
+url: "https://www.pagesofinterest.net"
+email: "mike@pagesofinterest.net"
 
 destination: _site/
 
@@ -23,17 +23,17 @@ plugins:
   - jekyll-purgecss
   - jekyll_picture_tag
 
-# Core author information. 
+# Core author information.
 # Note this data has to be replicated in _data/authors.yml for the jekyll-auto-authors plugin
 authors:
   michael-robinson:
-    name:           Michael Robinson
-    site:           https://pagesofinterest.net
-    avatar:         /images/faceleg.jpg
-    bio:            "I specialise in creating change that ensures technology organisations provide the engagement, speed and quality so critical for business success in today’s hyper competitive market."
-    email:          mike@pagesofinterest.net
-    linkedin:       https://www.linkedin.com/in/faceleg/
-    url:            /author/michael-robinson
+    name: Michael Robinson
+    site: https://pagesofinterest.net
+    avatar: /images/faceleg.jpg
+    bio: "I specialise in creating change that ensures technology organisations provide the engagement, speed and quality so critical for business success in today’s hyper competitive market."
+    email: mike@pagesofinterest.net
+    linkedin: https://www.linkedin.com/in/faceleg/
+    url: /author/michael-robinson
 
 social:
   name: Michael Robinson
@@ -45,7 +45,6 @@ webmaster_verifications:
 
 # Defaults
 defaults:
-
   # all posts
   - scope:
       path: "_posts"
@@ -68,10 +67,10 @@ highlighter: rouge
 pagination:
   enabled: true
   per_page: 4
-  permalink: '/page/:num/'
+  permalink: "/page/:num/"
   limit: 0
-  title: ':title - page :num of :max'
-  sort_field: 'date'
+  title: ":title - page :num of :max"
+  sort_field: "date"
   sort_reverse: true
 
 autopages:
@@ -79,9 +78,9 @@ autopages:
 
   tags:
     layouts:
-     - autopage_tag.html
+      - autopage_tag.html
     enabled: true
-    permalink: '/tag/:tag'
+    permalink: "/tag/:tag"
 
   categories:
     layouts:
@@ -91,23 +90,39 @@ autopages:
   collections:
     enabled: false
     slugify:
-      mode: 'ascii'
-      cased: true 
+      mode: "ascii"
+      cased: true
 
   authors:
     enabled: true
-    data: '_data/authors.yml' # Data file with the author details
-    layouts: 
-      - 'author.html' # We'll define this layout later
-    title: 'Posts by :author'
-    permalink: '/author/:author/'
+    data: "_data/authors.yml" # Data file with the author details
+    layouts:
+      - "author.html" # We'll define this layout later
+    title: "Posts by :author"
+    permalink: "/author/:author/"
     slugify:
-      mode: 'default' # choose from [raw, default, pretty, ascii or latin]
+      mode: "default" # choose from [raw, default, pretty, ascii or latin]
       cased: true # if true, the uppercase letters in slug will be converted to lowercase ones.
 
-
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [install-brew-dependencies.sh, _compress_images_cache.yml, .stylelintrc.json, docs, README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, watch.sh, watch-future.sh, build.sh, package.json, package-lock.json, purgecss.config.js]
+exclude:
+  [
+    .stylelintrc.json,
+    Gruntfile.coffee,
+    Gruntfile.js,
+    README.markdown,
+    _compress_images_cache.yml,
+    build.sh,
+    docs,
+    grunt.js,
+    install-brew-dependencies.sh,
+    node_modules,
+    package-lock.json,
+    package.json,
+    purgecss.config.js,
+    watch-future.sh,
+    watch.sh,
+  ]
 
 # jekyll-compress-images
 compress_images:
@@ -116,7 +131,6 @@ imageoptim:
   pngout: true
   svgo: false
   verbose: true
-
 
 # jekyll_asset_pipeline
 asset_pipeline:
@@ -129,5 +143,5 @@ asset_pipeline:
 css_dir: "assets" # defaults to "css"
 
 # jekyll_picture_tag
-picture: 
+picture:
   ignore_missing_images: true
