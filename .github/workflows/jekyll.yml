@@ -41,6 +41,7 @@ jobs:
           eslint-args: '--ignore-path=.gitignore --quiet'
           extensions: 'js'
           annotations: true
+          all-files: true
   # Build job
   build:
     runs-on: ubuntu-latest
