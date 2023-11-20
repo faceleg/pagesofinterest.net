@@ -13,4 +13,4 @@ jobs:
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
           ENV BUNDLER_VERSION: 2.1.4
-        uses: BryanSchuetz/jekyll-deploy-gh-pages@master
+        uses: faceleg/jekyll-deploy-gh-pages@master
