@@ -1,5 +1,6 @@
-jekyll:
-    image: jekyll/jekyll:latest
+services:
+  jekyll:
+    image: ghcr.io/faceleg/jekyll-deploy-gh-pages:master
     command: jekyll serve --force_polling
     ports:
         - 4000:4000
