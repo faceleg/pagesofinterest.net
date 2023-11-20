@@ -112,6 +112,11 @@ exclude: [install-brew-dependencies.sh, _compress_images_cache.yml, .stylelintrc
 # jekyll-compress-images
 compress_images:
   images_path: "/images/**/*.{gif,png,jpg,jpeg}"
+imageoptim:
+  pngout: true
+  svgo: false
+  verbose: true
+
 
 # jekyll_asset_pipeline
 asset_pipeline:
