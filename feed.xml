@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://www.pagesofinterest.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.pagesofinterest.net/" rel="alternate" type="text/html" /><updated>2023-11-20T07:41:51+00:00</updated><id>https://www.pagesofinterest.net/feed.xml</id><title type="html">Pages of Interest</title><subtitle>Good news everyone!</subtitle><entry><title type="html">An Engineer’s Tools: Hands. Yours for Life</title><link href="https://www.pagesofinterest.net/an-engineers-tools-yours-for-life" rel="alternate" type="text/html" title="An Engineer’s Tools: Hands. Yours for Life" /><published>2023-11-20T00:00:00+00:00</published><updated>2023-11-20T00:00:00+00:00</updated><id>https://www.pagesofinterest.net/an-engineers-tools-yours-for-life</id><content type="html" xml:base="https://www.pagesofinterest.net/an-engineers-tools-yours-for-life"><![CDATA[<p>Ever considered the most crucial tool in a software engineer’s arsenal? It’s not a fancy IDE or a powerful laptop; it’s something you might overlook - your hands.</p>
+
+<p>Software Engineering is an interesting profession, there are no mandatory tools, no agreed handbook explaining minimum basic tenets to follow to ensure a long and healthy career. We’re expected it seems, to figure it out ourselves. In this post I want to talk about a tool we take for granted that you’ll notice only when they break: your hands.</p>
+
+<p>Many assume that as sedentary workers, we can’t physically wear out. For me this led to mistakes early on that nearly cost me my income.</p>
+
+<p>Jump to advice: <a href="#what-should-i-have-done">my hands are sore, what do I do</a>?</p>
+
+<p>Over my career as an individual contributor I worked through solutions until I settled where I am today. I coach my managers and talk about this topic whenever I’m triggered. It’s important and can be the difference between being able to focus on what matters or struggling to work at all.</p>
+
+<h2 id="the-issue">The Issue</h2>
+
+<p>Numbness and pain, starting in the pinkies-developing upwards through the outside of my arms and into my shoulders and neck. Being young and relatively stupid in many ways, I ignored it assuming it would go away; it got worse.</p>
+
+<h2 id="solution-part-1-a-new-virtual-input-method">Solution Part #1: A New Virtual Input Method</h2>
+
+<picture class="post-inline-image-left"><source srcset="/generated/images/an-engineers-tools-yours-for-life-hands-vim-learning-curve-400-2a62efab1.webp 400w, /generated/images/an-engineers-tools-yours-for-life-hands-vim-learning-curve-600-2a62efab1.webp 600w, /generated/images/an-engineers-tools-yours-for-life-hands-vim-learning-curve-800-2a62efab1.webp 800w, /generated/images/an-engineers-tools-yours-for-life-hands-vim-learning-curve-1000-2a62efab1.webp 1000w" type="image/webp" /><source srcset="/generated/images/an-engineers-tools-yours-for-life-hands-vim-learning-curve-400-2eac8c86c.jpg 400w, /generated/images/an-engineers-tools-yours-for-life-hands-vim-learning-curve-600-2eac8c86c.jpg 600w, /generated/images/an-engineers-tools-yours-for-life-hands-vim-learning-curve-800-2eac8c86c.jpg 800w, /generated/images/an-engineers-tools-yours-for-life-hands-vim-learning-curve-1000-2eac8c86c.jpg 1000w" type="image/jpeg" /><img src="/generated/images/an-engineers-tools-yours-for-life-hands-vim-learning-curve-800-2eac8c86c.jpg" /></picture>
+
+<p>I was a month away from starting a new job and efficient in my current work. I took this as an opportunity to change habits. I discovered Vim, and learned that it was designed to split reading and writing, a modal editor. The options it gives to minimise finger movement seemed ideal. The learning curve was steep!</p>
+
+<p>It took about a week for me to get to 75% of my previous efficiency and another two to get close to 100%. I think I would have been much faster today, given the resources available:</p>
+
+<ul>
+  <li><a href="https://vim-adventures.com/">Vim interactive tutorials, learn the basics</a></li>
+  <li><a href="https://www.lazyvim.org/">Preset Vim plugin collections</a></li>
+  <li><a href="https://neovim.io/">Modern Vim implementation</a></li>
+</ul>
+
+<p>This alternative input method helped, but didn’t fix the problem. It did give me a new joy - editing text with Vim. All Vim users will tell you it’s worth learning! Most engineering oriented applications come with in built Vim commands or plugins that add them, including modern IDE’s like VSCode, IntelliJ IDEA and others.</p>
+
+<p>Do your brain a favour and learn Vim today.</p>
+
+<h2 id="solution-part-2-a-new-physical-input-method">Solution Part #2: A New Physical Input Method</h2>
+
+<picture class="post-inline-image-left"><source srcset="/generated/images/an-engineers-tools-yours-for-life-hands-400-d628db85f.webp 400w, /generated/images/an-engineers-tools-yours-for-life-hands-600-d628db85f.webp 600w, /generated/images/an-engineers-tools-yours-for-life-hands-800-d628db85f.webp 800w, /generated/images/an-engineers-tools-yours-for-life-hands-1000-d628db85f.webp 1000w" type="image/webp" /><source srcset="/generated/images/an-engineers-tools-yours-for-life-hands-400-b9f8b76ca.jpg 400w, /generated/images/an-engineers-tools-yours-for-life-hands-600-b9f8b76ca.jpg 600w, /generated/images/an-engineers-tools-yours-for-life-hands-800-b9f8b76ca.jpg 800w, /generated/images/an-engineers-tools-yours-for-life-hands-1000-b9f8b76ca.jpg 1000w" type="image/jpeg" /><img src="/generated/images/an-engineers-tools-yours-for-life-hands-800-b9f8b76ca.jpg" /></picture>
+
+<p>Months into my new job, responsible for technology within a small company, doing my work and fixing any mistakes or omissions by the team, the pain came back with a vengeance.</p>
+
+<p>I didn’t know what to do! I turned to Reddit and Google, who indicated standard keyboards might be to blame. Much research and thought later, I boiled the problem down to:</p>
+
+<ul>
+  <li>Standard keyboards requiring fingers to contort in order to hit keys.</li>
+  <li>Ironically, my now obsessive use of Vim putting a high load on my pinkies - ctrl, esc are both little-finger-buttons.</li>
+</ul>
+
+<p>Thankfully there are a number of keyboards out there that offer “thumb keys”, a cluster of keys optimised for your thumb. Command, CTRL, ALT, Shift, whatever keys trouble you.</p>
+
+<p>Thumbs are strong, pinkies are not. This made a big difference to me. The pain went away and I was happy.</p>
+
+<h2 id="solution-part-3-lost-youth">Solution Part #3: Lost Youth</h2>
+
+<picture class="post-inline-image-left"><source srcset="/generated/images/an-engineers-tools-yours-for-life-hands-exercise-400-51368721a.webp 400w, /generated/images/an-engineers-tools-yours-for-life-hands-exercise-600-51368721a.webp 600w, /generated/images/an-engineers-tools-yours-for-life-hands-exercise-800-51368721a.webp 800w, /generated/images/an-engineers-tools-yours-for-life-hands-exercise-1000-51368721a.webp 1000w" type="image/webp" /><source srcset="/generated/images/an-engineers-tools-yours-for-life-hands-exercise-400-0f42c1b96.jpg 400w, /generated/images/an-engineers-tools-yours-for-life-hands-exercise-600-0f42c1b96.jpg 600w, /generated/images/an-engineers-tools-yours-for-life-hands-exercise-800-0f42c1b96.jpg 800w, /generated/images/an-engineers-tools-yours-for-life-hands-exercise-1000-0f42c1b96.jpg 1000w" type="image/jpeg" /><img src="/generated/images/an-engineers-tools-yours-for-life-hands-exercise-800-0f42c1b96.jpg" /></picture>
+
+<p>You won’t believe it until your time but bodies wear out and require maintenance. We can ride youth for a while but it catches up to you.</p>
+
+<p>#1 and #2 solved one set of problems, it was nearly a decade after I discovered special keyboards when I implemented the final stage - exercise and the use of a standing desk.</p>
+
+<p>On top of all this I’ve had fairly crippling back pain since young adulthood, and assumed it was just part of my life. Obviously not getting better as I aged, I decided to try the one thing I had avoided most of my life: exercise.</p>
+
+<p>Eventually I settled on Apple Fitness and some dumbbells. After 6 months I was hooked. Back pain gone, strong enough to stand at a standing desk all day, better posture, many benefits (all of the benefits they say you get!).</p>
+
+<p>It didn’t make me young again but it restored the strength and vitality that had been lost.</p>
+
+<p>Working your body makes your whole self stronger, including hands. The main tool for engineers beyond our minds.</p>
+
+<h2 id="what-should-i-have-done">What Should I Have Done?</h2>
+
+<p>Wonderful story - but starting over what should I have done? What do I think you should do?</p>
+
+<p>Talked to a professional: a Doctor, a Physiotherapist. At the time this didn’t occur to me. If you’re experiencing any pain, this should be your first port of call.</p>
+
+<p>Don’t learn the hard, through years of pain like I did. Remember, your hands are the tools that shape your career; take care of them.</p>]]></content><author><name>Michael Robinson</name><email>mike@pagesofinterest.net</email></author><category term="tooling" /><category term="improvement" /><category term="tooling" /><category term="featured" /><category term="health" /><summary type="html"><![CDATA[Ever considered the most crucial tool in a software engineer’s arsenal? It’s not a fancy IDE or a powerful laptop; it’s something you might overlook - your hands.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pagesofinterest.net/images/an-engineers-tools-yours-for-life-hands-split-keyboard.jpg" /><media:content medium="image" url="https://www.pagesofinterest.net/images/an-engineers-tools-yours-for-life-hands-split-keyboard.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Deming’s Perspective on Quality Management: Understanding Faults of the System</title><link href="https://www.pagesofinterest.net/faults-of-the-system" rel="alternate" type="text/html" title="Deming’s Perspective on Quality Management: Understanding Faults of the System" /><published>2023-11-10T00:00:00+00:00</published><updated>2023-11-10T00:00:00+00:00</updated><id>https://www.pagesofinterest.net/faults-of-the-system</id><content type="html" xml:base="https://www.pagesofinterest.net/faults-of-the-system"><![CDATA[<p>One of the fundamental principles of W. Edwards Deming’s philosophy is that management, rather than individual contributors, bears the responsibility for ensuring a conducive environment for quality output. While Deming doesn’t absolve contributors of responsibility or effort, his key assumption is that everyone is “trying their best” is a key assumption (see <a href="/deming-14-points/">Deming’s 14 Points</a>).</p>
+
+<p>Deming’s focus on management’s role in creating a successful environment is a valuable lesson for all. Taking this approach does not mean we shouldn’t have high expectations of our teams, only that those expectations should be directed in the right way.</p>
+
+<p>Deming’s teaching emphasizes that if a contributor or a group of contributors aren’t making significant improvements, the issue may not be their effort but rather a systemic problem. It is the responsibility of management to identify and rectify these systemic issues</p>
+
+<p>These are what Deming refers to as “Faults of the System”:</p>
+
+<blockquote>
+  <p>One feature, especially applicable to production, is techniques by which to distinguish between (a) special causes of variation of quality and economic loss, which the worker himself can correct on statistical signal, and (b) faults of the system, which only management can correct.</p>
+</blockquote>
+
+<p>– <a href="https://learning.oreilly.com/library/view/-/9780071790222/ch01.html">The Essential Deming: Leadership Principles from the Father of Quality</a></p>
+
+<p>Let’s break down this quote, as it holds valuable insights.</p>
+
+<h3 id="what-is-a-statistical-signal">What is a “Statistical signal”?</h3>
+
+<p>Deming advocated plotting data on <a href="https://deming.org/the-first-control-chart/">control charts</a> as a way to highlight the normal range of outcomes for a given process. The measures displayed on the chart include the mean (average) and the range or standard deviation. Limits are also defined, showing the expected range for this process. If the chart show data points that fall outside these limits, this is a “statistical signal” that indicates the process is out of control.</p>
+
+<h3 id="what-is-variation">What is “Variation”?</h3>
+
+<p>Variation here means any output that isn’t in line with what was desired. In my world, this means bugs and production issues. One could expand it to include failure to deliver outcomes on time as well. Anything that deviates from an expected result is variation, and reduces quality.</p>
+
+<h3 id="explanation-special-causes-of-variation-of-quality-and-loss">Explanation: Special Causes of Variation of Quality and Loss</h3>
+
+<blockquote>
+  <p>…(a) special causes of variation of quality and economic loss, which the worker himself can correct on statistical signal…</p>
+</blockquote>
+
+<h3 id="what-is-a-special-cause">What is a “Special Cause”?</h3>
+
+<p>Anything a contributor can solve by their own action. Things we can expect to be done if we have a culture of continuous improvement. Some examples are:</p>
+
+<ul>
+  <li>Installing a linter to identify basic errors in code as they type</li>
+  <li>Writing proper error handling</li>
+  <li>Cross checking a presentation with a colleague before submitting it</li>
+  <li>Seeking confirmation that a decision has factored relevant context before locking it in</li>
+</ul>
+
+<p>A key element of this definition is that a special cause is specific to a contributor or a group as individuals.</p>
+
+<h2 id="faults-of-the-system">Faults of the System</h2>
+
+<blockquote>
+  <p>…(b) faults of the system, which only management can correct.</p>
+</blockquote>
+
+<p>These faults of the system come from a common cause - or causes that are common to groups of people (from <a href="https://www.qualitydigest.com/inside/management-article/deming-speech-1978-quick-review-some-new-principles-administration-112421">Deming Speech 1978: ‘Quick Review of Some New Principles of Administration’</a>, Principle 9). This concept is repeated often in any of Deming’s work.</p>
+
+<p>The concept of a common cause is crucial as it highlights that most variations are caused by systemic issues shared by groups of individuals rather than specific contributors. Improving common causes has the effect of improving special causes as well.</p>
+
+<p>Only management can correct these causes as they lie in processes that govern how all contributors operate. Want everyone to use a linter? Provide them tools that have them inbuilt and training to use them. Configure pipelines to lint submissions and block failures. Take away the opportunity to fail and people will be more likely to succeed.</p>
+
+<p>Be kind - look for things in the way and remove them. Identify better processes and implement them. Seek a culture of continuous improvement.</p>
+
+<p>When seeking to enhance your team’s performance, focus on refining the processes and systems that influence their actions.</p>]]></content><author><name>Michael Robinson</name><email>mike@pagesofinterest.net</email></author><category term="culture" /><category term="management" /><category term="culture" /><category term="featured" /><category term="deming" /><summary type="html"><![CDATA[One of the fundamental principles of W. Edwards Deming’s philosophy is that management, rather than individual contributors, bears the responsibility for ensuring a conducive environment for quality output. While Deming doesn’t absolve contributors of responsibility or effort, his key assumption is that everyone is “trying their best” is a key assumption (see Deming’s 14 Points).]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pagesofinterest.net/images/demings-perspective-on-quality-management-understanding-faults-of-the-system.png" /><media:content medium="image" url="https://www.pagesofinterest.net/images/demings-perspective-on-quality-management-understanding-faults-of-the-system.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Deming’s 14 Points</title><link href="https://www.pagesofinterest.net/deming-14-points" rel="alternate" type="text/html" title="Deming’s 14 Points" /><published>2023-11-06T00:00:00+00:00</published><updated>2023-11-06T00:00:00+00:00</updated><id>https://www.pagesofinterest.net/deming-14-points</id><content type="html" xml:base="https://www.pagesofinterest.net/deming-14-points"><![CDATA[<p>Deming’s teachings are profoundly affecting how I view challenges faced at work. I will write further on specific elements in future, but want to post his 14 points first as I will refer back to them.</p>
+
+<p>If you want to learn more from the source, I recommend <a href="https://deming.org/the-essential-deming-new-book-on-dr-deming-work/">The Essential Deming</a>, a collection of speeches, essays and lectures from the father of quality.</p>
+
+<blockquote>
+  <p>It is not enough for everyone to do his best. Everyone is already doing his best. Efforts, to be effective, must go in the right direction.<br /><br />Only top management can bring about the changes required. Failure of top management to act on any one of the 14 points listed will impair efforts on the other 13.</p>
+</blockquote>
+
+<h2 id="the-14-points">The 14 Points</h2>
+
+<h3 id="1-create-a-constant-purpose-toward-improvement">1. Create a constant purpose toward improvement</h3>
+
+<ul>
+  <li>Plan for quality in the long term.</li>
+  <li>Resist reacting with short-term solutions.</li>
+  <li>Don’t just do the same things better – find better things to do.</li>
+  <li>Predict and prepare for future challenges, and always have the goal of getting better.</li>
+</ul>
+
+<h3 id="2-adopt-the-new-philosophy">2. Adopt the new philosophy</h3>
+
+<ul>
+  <li>Embrace quality throughout the organization.</li>
+  <li>Put your customers’ needs first, rather than react to competitive pressure – and design products and services to meet those needs.</li>
+  <li>Be prepared for a major change in the way business is done. It’s about leading, not simply managing.</li>
+  <li>Create your quality vision, and implement it.</li>
+</ul>
+
+<h3 id="3stop-depending-on-inspections">3.Stop depending on inspections</h3>
+
+<ul>
+  <li>Inspections are costly and unreliable – and they don’t improve quality, they merely find a lack of quality.</li>
+  <li>Build quality into the process from start to finish.</li>
+  <li>Don’t just find what you did wrong – eliminate the “wrongs” altogether.</li>
+  <li>Use statistical control methods – not physical inspections alone – to prove that the process is working.</li>
+</ul>
+
+<h3 id="4-use-a-single-supplier-for-any-one-item">4. Use a single supplier for any one item</h3>
+
+<ul>
+  <li>Quality relies on consistency – the less variation you have in the input, the less variation you’ll have in the output.</li>
+  <li>Look at suppliers as your partners in quality. Encourage them to spend time improving their own quality – they shouldn’t compete for your business based on price alone.</li>
+  <li>Analyze the total cost to you, not just the initial cost of the product.</li>
+  <li>Use quality statistics to ensure that suppliers meet your quality standards.</li>
+</ul>
+
+<h3 id="5-improve-constantly-and-forever">5. Improve constantly and forever</h3>
+
+<ul>
+  <li>Continuously improve your systems and processes. Deming promoted the Plan-Do-Check-Act   approach to process analysis and improvement.</li>
+  <li>Emphasize training and education so everyone can do their jobs better.</li>
+  <li>Use kaizen   as a model to reduce waste and to improve productivity, effectiveness, and safety.</li>
+</ul>
+
+<h3 id="6-use-training-on-the-job">6. Use training on the job</h3>
+
+<ul>
+  <li>Train for consistency to help reduce variation.</li>
+  <li>Build a foundation of common knowledge.</li>
+  <li>Allow workers to understand their roles in the “big picture.”</li>
+  <li>Encourage staff to learn from one another, and provide a culture and environment for effective teamwork.</li>
+</ul>
+
+<h3 id="7-implement-leadership">7. Implement leadership</h3>
+
+<ul>
+  <li>Expect your supervisors and managers to understand their workers and the processes they use.</li>
+  <li>Don’t simply supervise – provide support and resources so that each staff member can do his or her best. Be a coach instead of a policeman.</li>
+  <li>Figure out what each person actually needs to do his or her best.</li>
+  <li>Emphasize the importance of participative management and transformational leadership.</li>
+  <li>Find ways to reach full potential, and don’t just focus on meeting targets and quotas.</li>
+</ul>
+
+<h3 id="8-eliminate-fear">8. Eliminate fear</h3>
+
+<ul>
+  <li>Allow people to perform at their best by ensuring that they’re not afraid to express ideas or concerns.</li>
+  <li>Let everyone know that the goal is to achieve high quality by doing more things right – and that you’re not interested in blaming people when mistakes happen.</li>
+  <li>Make workers feel valued, and encourage them to look for better ways to do things.</li>
+  <li>Ensure that your leaders are approachable and that they work with teams to act in the company’s best interests.</li>
+  <li>Use open and honest communication to remove fear from the organization.</li>
+</ul>
+
+<h3 id="9-break-down-barriers-between-departments">9. Break down barriers between departments</h3>
+
+<ul>
+  <li>Build the “internal customer” concept – recognize that each department or function serves other departments that use their output.</li>
+  <li>Build a shared vision.</li>
+  <li>Use cross-functional teamwork to build understanding and reduce adversarial relationships.</li>
+  <li>Focus on collaboration and consensus instead of compromise.</li>
+</ul>
+
+<h3 id="10-get-rid-of-unclear-slogans">10. Get rid of unclear slogans</h3>
+
+<ul>
+  <li>Let people know exactly what you want – don’t make them guess. “Excellence in service” is short and memorable, but what does it mean? How is it achieved? The message is clearer in a slogan like “You can do better if you try.”</li>
+  <li>Don’t let words and nice-sounding phrases replace effective leadership. Outline your expectations, and then praise people face-to-face for doing good work.</li>
+</ul>
+
+<h3 id="11-eliminate-management-by-objectives">11. Eliminate management by objectives</h3>
+
+<ul>
+  <li>Look at how the process is carried out, not just numerical targets. Deming said that production targets encourage high output and low quality.</li>
+  <li>Provide support and resources so that production levels and quality are high and achievable.</li>
+  <li>Measure the process rather than the people behind the process.</li>
+</ul>
+
+<h3 id="12-remove-barriers-to-pride-of-workmanship">12. Remove barriers to pride of workmanship</h3>
+
+<ul>
+  <li>Allow everyone to take pride in their work without being rated or compared.</li>
+  <li>Treat workers the same, and don’t make them compete with other workers for monetary or other rewards. Over time, the quality system will naturally raise the level of everyone’s work to an equally high level.</li>
+</ul>
+
+<h3 id="13-implement-education-and-self-improvement">13. Implement education and self-improvement</h3>
+
+<ul>
+  <li>Improve the current skills of workers.</li>
+  <li>Encourage people to learn new skills to prepare for future changes and challenges.</li>
+  <li>Build skills to make your workforce more adaptable to change, and better able to find and achieve improvements.</li>
+</ul>
+
+<h3 id="14-make-transformation-everyones-job">14. Make transformation everyone’s job</h3>
+
+<ul>
+  <li>Improve your overall organization by having each person take a step toward quality.</li>
+  <li>Analyze each small step, and understand how it fits into the larger picture.</li>
+  <li>Use effective change management principles to introduce the new philosophy and ideas in Deming’s 14 points.</li>
+</ul>
+
+<p><em>This 14 points list was adapted from The University of Tennessee Health Science Center <a href="https://www.uthsc.edu/its/business-productivity-solutions/lean-uthsc/deming.php">Lean Content</a> page.</em></p>]]></content><author><name>Michael Robinson</name><email>mike@pagesofinterest.net</email></author><category term="culture" /><category term="management" /><category term="culture" /><category term="featured" /><category term="deming" /><summary type="html"><![CDATA[Deming’s teachings are profoundly affecting how I view challenges faced at work. I will write further on specific elements in future, but want to post his 14 points first as I will refer back to them.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pagesofinterest.net/images/demings-14-points.png" /><media:content medium="image" url="https://www.pagesofinterest.net/images/demings-14-points.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to Ask for LinkedIn Recommendations</title><link href="https://www.pagesofinterest.net/how-to-ask-for-linkedin-recommendations" rel="alternate" type="text/html" title="How to Ask for LinkedIn Recommendations" /><published>2021-03-09T00:00:00+00:00</published><updated>2021-03-09T00:00:00+00:00</updated><id>https://www.pagesofinterest.net/how-to-ask-for-linkedin-recommendations</id><content type="html" xml:base="https://www.pagesofinterest.net/how-to-ask-for-linkedin-recommendations"><![CDATA[<p>As a technology professional it’s easy to assume networking &amp; self-marketing isn’t necessary for career advancement. This is because up to a certain point, promotions and job offers come from technical skills alone. Ignoring this will limit opportunities to progress, as you will have to work much harder to prove possession of skills &amp; attributes required to advance. It took me a long time to get comfortable with how to ask for LinkedIn recommendations. I’ve summarised my approach here.</p>
+
+<p>If you follow the advice in this post, you will build up an online history of your progress that will be a goldmine for prospective employers.</p>
+
+<p>As you progress into management and leadership LinkedIn recommendations will provide another level of value. Candidates for open positions on <em>your team</em> will read these recommendations and may choose to join your team based on what others have written.</p>
+
+<h2 id="dont-make-assumptions">Don’t make assumptions</h2>
+
+<p>Before developing this approach for asking for &amp; giving linked in recommendations I tended to avoid thinking about them. I would ignore them or think negatively and actively avoid requesting/giving recommendations</p>
+
+<p><strong>These are the main assumptions I’ve made:</strong></p>
+
+<ol>
+  <li>I was asking too much from others by requesting a recommendation</li>
+  <li>That I wasn’t significant enough in their eyes to warrant the time required to write a recommendation</li>
+  <li>I knew I would have to give them a recommendation in return but feared “blank page” syndrome and that I wouldn’t know what to write</li>
+</ol>
+
+<p><strong>These are all wrong. Here is the reality of each point:</strong></p>
+
+<ol>
+  <li>If I enjoyed working for or with someone, they probably did too, and likely want to see me succeed. Writing a LinkedIn recommendation is a small way for them to make another contribution to success</li>
+  <li>This is typical <a href="https://www.freecodecamp.org/news/what-is-imposter-syndrome-and-how-do-you-overcome-it/">imposter syndrome</a>. I just had to ignore this and request anyway.</li>
+  <li>This is the main point of this article! Read on to learn how to frame your requests efficiently and help your recommender out.</li>
+</ol>
+
+<h2 id="how-to-make-it-easier-for-your-recommender">How to make it easier for your recommender</h2>
+
+<p>Unless the recommender has their own process, they’re likely to procrastinate due to the <a href="https://www.researchgate.net/publication/41539441_The_Blank_Page_Effects_of_Constraint_on_Creativity">blank page effect</a>.</p>
+
+<p>Help them out by framing your ideal recommendation. I do this by giving them a template like this example:</p>
+
+<blockquote>
+  <p>I’m keen on honest feedback, but I know it can be hard to think of what to write.</p>
+
+  <p>To make it less painful, you might pick one or more of the points below and write some words around how I may have performed?</p>
+
+  <p>- Leadership - Proactive, creative and metric based approach to enhancing performance of people and resolving issues</p>
+
+  <p>- Wide impact - decisions, advice and actions are impactful across the whole organisation</p>
+
+  <p>- Empathy - Championing fairness and equality - removing bias, encouraging open and fair communication</p>
+
+  <p>- Supportive of autonomy - did I let you approach problem solving in your own way?</p>
+
+  <p>- Air-support - did I help in any way if/when people came in from the side to interfere with your project or daily work?</p>
+
+  <p>… anything you’d like to be highlighted</p>
+</blockquote>
+
+<p>Providing this framework gives your recommender an easy “jumping off point”. Together with the right way of asking I’ve had great results here. People tend to turn their recommendations around within hours or days, previously it would take significantly longer.</p>
+
+<h2 id="how-to-make-it-easier-for-you-to-return-the-favour">How to make it easier for you to return the favour</h2>
+
+<p>This one is really easy - just suggest they read this article!</p>
+
+<h2 id="how-to-ask-for-linkedin-recommendations">How to ask for LinkedIn recommendations</h2>
+
+<p>Although you can simply request directly through LinkedIn, I like to ask “offline” first, to confirm the person is happy to help me out in this way. This means I either ask in person or in some form of instant message application before sending the “formal” LinkedIn request.</p>
+
+<p>Here’s an example message you might use to request a recommendation from a boss or boss-adjacent colleague:</p>
+
+<blockquote>
+  <p>Hi! I really enjoyed working on your team, and I feel I learned so much from you. If you’re willing, I’d really appreciate it if you wrote a LinkedIn recommendation for me.</p>
+
+  <p>All good if you’re too busy - just let me know! Of course I’d love to return the favour and write one for you too :)</p>
+</blockquote>
+
+<h2 id="what-to-do-next">What to do next</h2>
+
+<p>Think of the people you’ve worked with in the past:</p>
+
+<ul>
+  <li>Those you learned most from</li>
+  <li>Those you think you helped the most</li>
+  <li>Or those you most respected</li>
+</ul>
+
+<p>Bite the bullet and send that request - they’ll be happy to hear from you &amp; more than willing to help you out with your first LinkedIn recommendation!</p>]]></content><author><name>Michael Robinson</name><email>mike@pagesofinterest.net</email></author><category term="recruitment" /><category term="career" /><category term="featured" /><summary type="html"><![CDATA[As a technology professional it’s easy to assume networking &amp; self-marketing isn’t necessary for career advancement. This is because up to a certain point, promotions and job offers come from technical skills alone. Ignoring this will limit opportunities to progress, as you will have to work much harder to prove possession of skills &amp; attributes required to advance. It took me a long time to get comfortable with how to ask for LinkedIn recommendations. I’ve summarised my approach here.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pagesofinterest.net/images/how-to-ask-for-a-linkedin-recommendation.jpg" /><media:content medium="image" url="https://www.pagesofinterest.net/images/how-to-ask-for-a-linkedin-recommendation.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">MVP A/B Testing</title><link href="https://www.pagesofinterest.net/mvp-a-b-testing" rel="alternate" type="text/html" title="MVP A/B Testing" /><published>2021-03-04T00:00:00+00:00</published><updated>2021-03-04T00:00:00+00:00</updated><id>https://www.pagesofinterest.net/mvp-a-b-testing</id><content type="html" xml:base="https://www.pagesofinterest.net/mvp-a-b-testing"><![CDATA[<p>Does the sign up button work better on the left or the right? What happens to engagement if we move our “you might also like” carousel above the fold? These are the types of questions that A/B testing exists to answer.</p>
+
+<p><strong><a href="https://hbr.org/2017/06/a-refresher-on-ab-testing">A/B testing is the best way to empirically prove whether a change has the desired effect</a></strong></p>
+
+<blockquote>
+  <p><em>Sure you might need an expensive solution, but if you’re not doing either today, an MVP approach will let you get something into production quickly to prove the value to business, before diving into the excellent, but expensive, SaaS products out there.</em></p>
+</blockquote>
+
+<p>From the least-funded startup all the way to the biggest banks, product owners and leadership are waking up to the idea that the best decisions are made based on good data. They read sites like the Harvard Business Review, they learn about things like A/B (or split) testing, they demand to know why your engineering &amp; product teams are not doing it.</p>
+
+<p>What isn’t widely known is that like most other aspects of good product design &amp; delivery, A/B testing doesn’t sit with engineering alone. It isn’t enough to simply pay for a tool - the entire process of delivery has to be changed to accomodate it, else the tool will be a complete waste of money.</p>
+
+<p>Years ago, when I was involved in evaluating and implementing an A/B test solution, I was asked first to find the best tool and for the price. I did my research and came back with some figures. Too expensive, especially for a tool that we’ve no experience with and whose value we cannot quantify.</p>
+
+<h2 id="enter-open-source-sixpack">Enter Open Source: SixPack</h2>
+
+<p>Determined to give the business a chance to evaluate A/B testing, I canvassed the open source community to see if there was an MVP solution we could get started with.</p>
+
+<p>I found Sixpack, which is best described by the authors themselves:</p>
+
+<blockquote>
+  <p>Sixpack is a framework to enable A/B testing across multiple programming languages. It does this by exposing a simple API for client libraries. Client libraries can be written in virtually any language.</p>
+
+  <p>Sixpack has two main parts. The first, <strong>Sixpack-server</strong>, is responsible for responding to web requests. The second, <strong>Sixpack-web</strong>, is a web dashboard for tracking and acting on your A/B tests. Sixpack-web is optional.</p>
+
+  <p><a href="https://github.com/sixpack/sixpack">github.com/sixpack/sixpack</a></p>
+</blockquote>
+
+<p>There are other options out there, sixpack was the easiest for our team to get going, and worked very well for us in the years following.</p>
+
+<p>After we made the tool available, it took many months for the wider team to adopt it and run tests with any regularity. As mentioned above, A/B testing is a new concept for many people, and it takes time for the wider team to understand how to use it appropriately and how to make decisions from the results (statistics is hard).</p>
+
+<p>Sixpack offers the basic features required to get an organisation started with A/B testing. My approach was</p>
+
+<ol>
+  <li>Install sixpack and integrate it to the point where experiments can be run</li>
+  <li>Work with the wider team to prove/disprove the value of A/B testing itself</li>
+  <li>Evaluate our needs against the features provided by sixpack, and be ready to raise my hand if we started outgrowing the tool</li>
+</ol>
+
+<h2 id="ab-testing-and-rolls-royce">A/B Testing and Rolls Royce</h2>
+
+<p>Our experience with sixpack was excellent. It provided all the features we needed, and cost nothing more than the hosting infrastructure it ran on. Maintenance was negligible. Although it did prove the value of A/B testing for the business, we never outgrew it.</p>
+
+<p>This saved the business 60-100K USD per year, while still allowing us to run experiments and effectively evaluate their results.</p>
+
+<p>If your business is new to A/B testing and data driven decision making generally, if you have a relatively small team and no core “platforms” group you can look to for this sort of tooling, I strongly recommend you consider an open source solution first, before diving into the attractive but expensive SaaS products out there.</p>
+
+<p>If you need to get from A to B but don’t enjoy wasting money, go with a proven open source solution before splashing your company’s cash on a Rolls Royce. You’re likely better off putting that money elsewhere - it’s enough to hire another engineer for your team!</p>]]></content><author><name>Michael Robinson</name><email>mike@pagesofinterest.net</email></author><category term="Tooling" /><category term="a-b-testing" /><category term="data" /><category term="open-source" /><category term="tooling" /><summary type="html"><![CDATA[Does the sign up button work better on the left or the right? What happens to engagement if we move our “you might also like” carousel above the fold? These are the types of questions that A/B testing exists to answer.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pagesofinterest.net/images/mvp-a-b-testing.png" /><media:content medium="image" url="https://www.pagesofinterest.net/images/mvp-a-b-testing.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to Be Effective in Video Meetings</title><link href="https://www.pagesofinterest.net/how-to-be-effective-in-video-meetings" rel="alternate" type="text/html" title="How to Be Effective in Video Meetings" /><published>2021-02-28T00:00:00+00:00</published><updated>2021-02-28T00:00:00+00:00</updated><id>https://www.pagesofinterest.net/how-to-be-effective-in-video-meetings</id><content type="html" xml:base="https://www.pagesofinterest.net/how-to-be-effective-in-video-meetings"><![CDATA[<h2 id="remote-communication-takes-work---but-its-worth-it">Remote Communication Takes Work - But It’s Worth It</h2>
+
+<p>Compared to what we’re used to - face to face - remote communication may not feel as natural or easy at first. It can be very difficult to learn how to be effective in video meetings. If you put effort in and learn some of the following strategies, you’ll be meeting, chatting and innovating as naturally online as you’re accustomed to when in person.</p>
+
+<p>We can all be as efficient or better from home as we are in the office! Following are some tips and tools to help you get there.</p>
+
+<h2 id="when-should-i-use-instant-text-messaging-voice-or-video">When Should I Use Instant Text Messaging, Voice or Video?</h2>
+
+<p><strong>When to Instant Message (IM)</strong>: if you’re asking for something simple that can be communicated very clearly</p>
+
+<ul>
+  <li>Caution: people will likely not be “chatty” with instant messaging, as they will quickly switch from what they were doing to your message, fire of the minimal reply, then switch back to their work</li>
+  <li>Advantage: this medium is great if you want to ask something without requiring them to reply immediately</li>
+</ul>
+
+<p><strong>When to Call (Online Voice or Cellphone)</strong>: if you’re asking for something that is difficult to explain or understand, or when you want to leave room for free discussion.</p>
+
+<p>This is the equivalent of walking over to someone’s desk - what you have to discuss is important enough to interrupt them but not formal enough for a calendar appointment.</p>
+
+<ul>
+  <li>Caution: this will interrupt people’s flow</li>
+  <li>Advantage: this medium is great if you want to leave room for free discussion, which is important when you may not know exactly what result you want, or you feel both parties need to contribute equally towards a solution</li>
+  <li>Advantage: compared to instant messaging, you have voice tones, pauses and emphasis to work with. The more data we bring to our communications, the more human our interactions. Human interactions are important to foster community and innovation</li>
+</ul>
+
+<p><strong>When to Video Call (Teams/Zoom/Google Meet - any Video)</strong>: if you would have normally setup a face to face meeting - one to one’s, group discussions, stand-ups, post incident reviews, coffee chats and presentations are some examples.</p>
+
+<p>A video meeting is the equivalent of holding a face to face meeting. You can schedule them in advance (e.g. team stand-ups), or on an ad-hoc basis (e.g. if during a group IM it becomes clear more focus is required, or if during a call it’s clear being able to share documents etc is valuable).</p>
+
+<ul>
+  <li>Caution: if calling an ad-hoc meeting, give people 5-10 minutes to allow them to ensure they’re in their “video space”</li>
+  <li>Advantage: this is the best way to interact remotely, and with practise is as good (or better!) as face to face meetings</li>
+  <li>Advantage: can share screens and engage in shared white boarding sessions</li>
+</ul>
+
+<h2 id="basic-video-meeting-behavioural-etiquette">Basic Video Meeting Behavioural Etiquette</h2>
+
+<p><strong>One person per computer/device</strong></p>
+
+<p>If you’re participating in a remote meeting, make sure you do so from your own device. Sharing devices makes it harder for collaborators to hear and understand non verbal queues.</p>
+
+<p><strong>Use a headset (headphones with microphone), not your laptop for audio</strong></p>
+
+<p>This will allow you to hear everything people say the first time, and allow them to hear what you say no matter how far you may sit from your laptop screen or fixed microphone. You also won’t need to shout, which everyone around you will appreciate.</p>
+
+<p><strong>Turn on your video!</strong></p>
+
+<p>Don’t be shy - we’re used to looking at your face at work, it did OK there, it’ll do great in video meetings too. Switching video on adds an entire new level of information to a meeting - we can read facial expressions, predict when it might be a good time to interject and generally get much more out of a meeting.</p>
+
+<p>You might not know - but in Teams video conferences, you can tell <a href="https://support.office.com/en-us/article/blur-your-background-in-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780">Teams to blur out your background</a>! This works great when you may have a lot going on in the background, or if you’re joining a call from say, a bedroom or a messy lounge. Most other video chat programs offer this - just google it, e.g. “Zoom blur background”.</p>
+
+<ul>
+  <li><a href="https://support.office.com/en-us/article/blur-your-background-in-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780">Blur your background in Teams video calls</a></li>
+  <li><a href="https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background">Blur your backgrounds in Zoom video calls</a></li>
+</ul>
+
+<p>Don’t be shy - you bring your whole self to work, bring your whole self to video meetings too :)</p>
+
+<p><strong>Mute yourself when you’re not talking</strong></p>
+
+<p>Whether using a headset or your laptop audio, it is likely your mic will pickup background noise (typing, mouth noises, children in the background). This can be very distracting for the speaker, they may interpret some noises as an attempt to interject. It is distracting for the listeners who will be trying to focus on the speaker.</p>
+
+<p>Mute yourself if you’re not talking - use non verbal ways to indicate you’re following along.</p>
+
+<p><strong>Use non verbal cues consciously</strong></p>
+
+<p>Eyebrows! Nodding your head! Hand movements! All of these are normal in your face to face interactions - make them normal on video too. During a stand up, when each person speaks for a minute or two, indicate agreement or otherwise with your hands or head. Physically raising your hand then talking is far more effective than just interrupting with a stone-face, as is agreeing by issuing a thumbs up vs breaking the speaker’s flow with a “Yes”.</p>
+
+<p>As the speaker, practise speaking more slowly, watching your audience and pausing after each sentence as a way to allow others to interject, voice/indicate agreement and generally participate.</p>
+
+<p><strong>Share your screen to share your context</strong></p>
+
+<p>If you’re talking about a document, spreadsheet or pretty much anything else you can see on your computer scree, then Teams can let you share it with those on your video calls. Again - to discover screen sharing options available with your video calling solution, have a poke around in google.</p>
+
+<ul>
+  <li><a href="https://support.office.com/en-us/article/share-your-screen-in-a-chat-in-teams-2de1c624-7fbe-4b0a-99f2-33385e7d3f18">Share your screen in Teams</a></li>
+</ul>
+
+<p>You can share much more than just your screen in Teams - including system audio, sharing control and more!</p>
+
+<ul>
+  <li><a href="https://support.office.com/en-us/article/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8">Advanced information on sharing things in Teams calls</a></li>
+</ul>
+
+<p><strong>Use online whiteboards to develop ideas</strong></p>
+
+<p>I’m sure I’m not alone in my love of whiteboards. Great news for all of us - we can continue doodling in groups, online!</p>
+
+<p>Teams has the ability to add whiteboards to some meetings</p>
+
+<ul>
+  <li><a href="https://support.office.com/en-us/article/use-whiteboard-in-microsoft-teams-7a6e7218-e9dc-4ccc-89aa-b1a0bb9c31ee?ui=en-US&amp;rs=en-US&amp;ad=US">Use Whiteboard in Microsoft Teams</a></li>
+</ul>
+
+<p>Whiteboard integration in Microsoft Teams meetings is powered by Whiteboard for the web, which lets participants of Teams meetings draw, sketch, and write together on a shared digital canvas.</p>
+
+<p><strong>Alternative online whiteboard options</strong></p>
+
+<p>There are many, many alternatives when it comes to white boarding - including simply doodling on a piece of paper and sharing a photo! Zapier (a remote-first company) has compiled a great list of these apps:</p>
+
+<ul>
+  <li><a href="https://zapier.com/blog/best-online-whiteboard/">11 Best Online Whiteboards for Team Collaboration</a></li>
+</ul>
+
+<h2 id="be-open">Be Open!</h2>
+
+<p>We’re in a very difficult time in our history. Getting things done over video instead of in-person is one of the side-effects.</p>
+
+<p>Be open and be kind with your colleagues - we’ll get through this!</p>]]></content><author><name>Michael Robinson</name><email>mike@pagesofinterest.net</email></author><category term="Culture" /><category term="communication" /><category term="online" /><category term="video-conferencing" /><category term="featured" /><category term="culture" /><summary type="html"><![CDATA[Remote Communication Takes Work - But It’s Worth It]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pagesofinterest.net/images/how-to-be-effective-in-video-meetings.png" /><media:content medium="image" url="https://www.pagesofinterest.net/images/how-to-be-effective-in-video-meetings.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">There Is No Software Engineering Skill Shortage</title><link href="https://www.pagesofinterest.net/there-is-no-software-engineering-skill-shortage" rel="alternate" type="text/html" title="There Is No Software Engineering Skill Shortage" /><published>2019-11-06T00:00:00+00:00</published><updated>2019-11-06T00:00:00+00:00</updated><id>https://www.pagesofinterest.net/there-is-no-software-engineering-skill-shortage</id><content type="html" xml:base="https://www.pagesofinterest.net/there-is-no-software-engineering-skill-shortage"><![CDATA[<h2 id="its-just-that-were-doing-hiring-wrong">It’s just that we’re doing hiring wrong</h2>
+
+<p>When attending meetups, particularly the manager-heavy kind, the current “skills shortage” in our industry often comes up. At a recent discussion session the organiser tabled this very topic - first asserting there is a skill shortage, then challenging the room to discuss how to resolve it. Of course I had to blurt out: “<em>There is no skill shortage: we’ve just been doing it wrong</em>!”</p>
+
+<p>Fewer things are more effective at exacerbating imposter syndrome than being the focus of a room full of high level technology managers in a fancy restaurant, at a session organised by a Silicon Valley giant.</p>
+
+<p>As impulsive as my statement was in the moment, this is a topic I feel strongly about. I believe that if one hires according to the accepted norms in our industry, then it may certainly appear there is a skills shortage - the statement rings true. It is also true that the standard hiring practises also result in homogenous teams that fail to represent, and therefore serve, the customer base they create solutions for.</p>
+
+<p><strong>I propose that not only is there no skill shortage in technology</strong>, there is an abundance of people willing to join our teams. We’ve just got to stop limiting ourselves to the standard candidate pool, take ownership of our culture, and create the demand that pulls people into our field.</p>
+
+<h2 id="what-were-doing-wrong-and-how-to-fix-it">What we’re doing wrong (and how to fix it)</h2>
+
+<p>Whoever you are, wherever you work - whatever shape your team is: you’re doing great! I mean, you care enough to bother reading about how to improve, right?</p>
+
+<p>This is long and when read in one go it paints a pretty sad picture of our industry. Our industry is sad, and we who are in positions to change it should feel bad.</p>
+
+<p>I agree it’s hard. But we <em>can</em> fix it. The alternative is to do nothing, which I won’t tolerate. These organisational, behavioural and cultural issues can be fixed in the same way we fix bugs - by focusing on the cause and changing our process until the bug no longer recurs.</p>
+
+<p>What follows is a list of the most common problems I’ve seen or discussed, with easy to follow pathways for you to follow if you want to fix them in your organisation.</p>
+
+<ul>
+  <li><a href="#using-qualifications-as-predictors-of-future-performance">Using qualifications as predictors of future performance</a></li>
+  <li><a href="#a-clone-army-is-inflexible-and-prone-to-bias">A clone army is inflexible and prone to bias</a></li>
+  <li><a href="#no-clear-process-for-addressing-gender-imbalance-in-applicants">No clear process for addressing gender imbalance in applicants</a></li>
+  <li><a href="#hiring-processes-often-require-unrealistic-amounts-of-time-from-applicants">Hiring processes often require unrealistic amounts of time from applicants</a></li>
+  <li><a href="#belief-that-seniority-can-be-inferred-by-years-on-the-job">Belief that seniority can be inferred by years on the job</a></li>
+  <li><a href="#practise-interview-techniques-that-highlight-skills-that-are-difficult-to-teach">Practise interview techniques that highlight skills that are difficult to teach</a></li>
+  <li><a href="#understand-that-different-genders-and-cultures-view-their-position-in-hierarchy-differently">Understand that different genders and cultures view their position in hierarchy differently</a></li>
+</ul>
+
+<h2 id="using-qualifications-as-predictors-of-future-performance">Using qualifications as predictors of future performance</h2>
+
+<h3 id="dont-turn-people-away-at-the-gate">Don’t turn people away at the gate</h3>
+
+<p><strong>Problem</strong>: If your job advertisements mention a degree as being a requirement for applying for a role or you list extensive responsibilities, you’ve immediately alienated a large pool of candidates.</p>
+
+<p><strong>Background</strong>: I’ve been successfully converting code into money for over 12 years. I have a degree, sure: in Social Studies. Although I did take programming papers, I’ve never used anything I learned in those classes on any projects except for knowledge of basic syntax.</p>
+
+<p>On one team I worked with we had four engineers who either did not attend university or studied completely different subjects. Two of them transitioned from manual testers to automation engineering in a matter of weeks. They completed online course, then paired with their teammates. The other two came into engineering positions fresh from the <a href="https://devacademy.co.nz">Enspiral Dev Academy</a> - having completed an 18 week bootcamp. All of them contributed at least equally to the business compared to their university trained colleagues.</p>
+
+<p>There is a <a href="https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/" target="_blank">confidence gap between men and women</a>, and between cultures. When hiring, this gap will manifest itself in fewer applicants from women and other cultures when advertisements explicitly state required qualifications or include long lists of responsibilities.</p>
+
+<p><strong>Solution</strong>: Do not mention qualifications or lists of responsibilities in your job advert. Universities do not have a monopoly on the teaching of software engineering skills. Applicants will tell you why they think they are qualified - this is the main function of a CV.</p>
+
+<p>Research shows that men will apply for jobs when they feel they achieve 60% of the qualifications or responsibilities. Women may not apply until they feel they achieve 100%. On reflection, this is what I do. To me, lists of responsibilities and even required qualifications are “nice to haves”. If I think I can do the job, I’ll apply. It works for men, and as a side note - <a href="https://www.thelily.com/i-job-hunted-like-a-man-heres-what-happened/" target="_blank">it can work for women too</a>. But please, don’t expect women to lean in: change your process to include them.</p>
+
+<p>Commitment to culture is commitment to people, and that takes time. Understand this and allocate sufficient time to do a first pass of candidates that takes into account all the qualifiers people put into their CV.</p>
+
+<p>The best engineers love learning - some love it so much they taught themselves to code and therefore never needed to attend classes. <a href="https://dev.to/thecaitcode/why-not-having-a-cs-degree-is-awesome-he6" target="_blank">Some attended bootcamps</a>. Some (like me) didn’t know a career in programming was possible until their early 20’s, and thought university was the only way to learn.</p>
+
+<p>Programming is becoming a commodity skill, complemented by people skills, background experience, and a personality. Requiring a degree or including extensive lists of responsibilities will limit your application pool.</p>
+
+<h2 id="a-clone-army-is-inflexible-and-prone-to-bias">A clone army is inflexible and prone to bias</h2>
+
+<h3 id="be-careful-of-subtle-biases-in-your-hiring-material">Be careful of subtle biases in your hiring material</h3>
+
+<p><strong>Preamble</strong>: Research shows there are significant advantages to be gained by having a diverse and inclusive team. Topics in this section have been written about extensively, including articles in Forbes, Gartner and the Harvard Business Review: <a href="https://www.forbes.com/sites/forbescoachescouncil/2019/09/09/the-benefits-of-creating-a-diverse-workforce/#5fa0cd8d140b" target="_blank">diverse teams doing the right thing most of the time</a>, <a href="https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/" target="_blank">generally perform better than monocultures</a> and <a href="https://hbr.org/2019/11/how-the-best-bosses-interrupt-bias-on-their-teams?ab=hero-main-text" target="_blank">how to disrupt bias on your existing teams</a>.</p>
+
+<p>I’d like to focus on how you can change your hiring process to cut off the source of clones. This will increase your pipeline of diverse candidates, enabling you to build out and maintain a diverse and inclusive team.</p>
+
+<p><strong>Problem</strong>: Your job ad and hiring process are designed to hire people who look and think like you.</p>
+
+<p><strong>Background</strong>: This is a tough pill to swallow. I thought I had done everything possible to ensure my job advert was as attractive as possible to all candidates. I was committed to creating a diverse and effective team. I’d consulted people in my community of different gender and cultural backgrounds from me on my advert content. I passed it through the <a href="http://gender-decoder.katmatfield.com" target="_blank">gender decoder</a> &amp; <a href="https://joblint.org" target="_blank">Joblint tool</a>.</p>
+
+<p>Only 2 of the 60 or so qualified applicants were women, and only 15 of the remaining 58 were not caucasian males. Something was obviously wrong. The issue was no longer with the advert itself, but with what happened next: the process through which an applicant registers interest was hilariously broken.</p>
+
+<p>Turns out the software we used to manage the hiring process had been configured with a bunch of default options, which were frankly horrible. Instead of being asked for general identifying details and a CV, the candidates were requested to:</p>
+
+<ul>
+  <li>Upload a cover letter</li>
+  <li>Upload a photo</li>
+  <li>Phone a robot and leave a voicemail introducing themselves</li>
+</ul>
+
+<p>A cover letter I can understand - but I don’t care to read them: an applicant’s CV should be enough to decide whether to have a quick chat on the phone. I know from experience that writing a cover letter for each job application is draining and time consuming torture that I wouldn’t wish on anyone.</p>
+
+<p>Upload a photo? This was a surprising one. I mean - this wasn’t the first time I had hired for this team, where else did I think the photos were coming from? I had assumed there was some clever programming going on, with the system pulling them from LinkedIn. Nope, the applicants were required to upload a photo. For a programming job.</p>
+
+<p>Phone a robot? Leave a message?! I can’t even.</p>
+
+<p>The process of discovering this was rather embarrassing for me and uncomfortable for the person who brought it up. I had the CV from a wonderful applicant given to me and needed her to apply online in order to proceed. She took longer than I expected to do this, so I reached out and asked if everything was OK. After learning the above I immediately apologised and spent the next two hours figuring out how to remove everything but the bare essentials from the application form.</p>
+
+<p>This dramatically increased the diversity of applicants.</p>
+
+<p><strong>Solution</strong>: Take an MVP approach to your application form.</p>
+
+<p>After posting a job advert, use incognito mode to go through the process of applying. If there are any steps that could be postponed until you’ve had a chance to view a CV, remove them. You should ask only for the bare minimum: name, phone number, email, availability &amp; CV.</p>
+
+<p>Don’t ask for anything that is not necessary for you to decide whether to do that first phone call. Make sure your application form does not ask for salary requirements or a cover letter. Request nothing but the bare minimum.</p>
+
+<h2 id="no-clear-process-for-addressing-gender-imbalance-in-applicants">No clear process for addressing gender imbalance in applicants</h2>
+
+<h3 id="also-known-as-the-but-no-women-apply-problem">Also known as the “<em>but no women apply</em>” problem</h3>
+
+<p><strong>Problem</strong>: For any given technical job advertisement, 5% women applicants is considered winning.</p>
+
+<p><strong>Background</strong>: You know diverse teams benefit the business, the health of our field, and society on the whole. You’ve <a href="#a-clone-army-is-inflexible-and-prone-to-bias">removed all the unconscious bias from your process</a>. But still, 94% of the applicants coming through are male.</p>
+
+<p><strong>Solution</strong>: Switch from passive to active recruitment. An amazing way to kick this off is to pick an arbitrary point in your hiring process, and require hiring managers to collect a 50/50 mix of male/female CV’s before allowing the process to proceed past this point.</p>
+
+<p>This will force yourself and your hiring managers to be less passive about collecting suitable applicants. When I started doing this I found I started having much more direct conversations with recruitment companies. I started to understand which recruiters were able to change their process, and which weren’t. This lead to me reaching deeper into my network for specific leads. Ultimately I was forced to form a deeper understanding of the issues facing our industry, and develop the alternative processes I’m documenting here.</p>
+
+<p>I cannot take credit for this critical suggestion. That honour belongs to <a href="https://www.linkedin.com/in/amandalsantos/?originalSubdomain=nz" target="_blank">Amanda Santos</a>, who presented at length on this topic in the 2018 SparkONE Unconference.</p>
+
+<h2 id="hiring-processes-often-require-unrealistic-amounts-of-time-from-applicants">Hiring processes often require unrealistic amounts of time from applicants</h2>
+
+<h3 id="only-people-with-heaps-of-free-time-are-eligible-to-work-on-my-team">Only people with heaps of free time are eligible to work on my team</h3>
+
+<p><strong>Problem</strong>: Many companies “validate” technical abilities of applicants by requiring them to perform a take home test that attempts to simulate a real-world problem. Said test is then handed in and evaluated by team members who rate it on some opaque marking criteria. Applicants who do not score well on these tests are not considered further.</p>
+
+<p><strong>Background</strong>: Hiring people is scary. There is huge room for error, and the consequences have a large impact on teams - positive for great candidates and negative for poor candidates.</p>
+
+<p>It is important to evaluate the technical competence of applicants, but this task itself is wide open for abuse that will ostracise the otherwise great people who may apply for a given job.</p>
+
+<p>Consider the applicant’s perspective: they want a new job. In order to do so they must apply for available positions. There are 10 positions available at their preferred location that appear to meet their criteria. If each position requires candidates to complete a take home test that was intended to take 4-8 hours to complete, the applicant is looking at an additional workload of 40-80 hours <em>on top</em> <em>of their current job</em>.</p>
+
+<p>It is hopefully obvious that this is unrealistic even for a single person who works 40 hours a week, has no hobbies or personal responsibilities that require significant time.</p>
+
+<p>In this “ideal” scenario, the person is able to put in 2-4 hours a night after work, up to 16 hours a weekend. This person will be able to apply for 2-3 jobs per week. It would take them up to one month to apply for all 10 jobs. Consider the demographic this fits, and compare this to the majority demographic applying for your positions.</p>
+
+<p>Now consider reality for most of the rest of us: we work 40-60 hours a week, have a spouse to share housework with, have children we are responsible for. Maybe we also have ageing relatives to care for. Also we could just be old and jaded and unwilling to burn ourselves out just to jump through recruitment hoops.</p>
+
+<p>We can apply for up to 1-2 jobs <em>per month</em> on the outside, more likely we’d be unable to properly service one application that required a take home assignment <em>per month</em>. Consider the demographic this fits, and again compare it to what you see in the demographics applying for your positions.</p>
+
+<p>Broadly, these tests function to eliminate women and single parents from the hiring pool and disempower career changers.</p>
+
+<p><strong>Solution</strong>: Get creative and flexible with how you validate a candidate’s ability. Some candidates may have an amazing GitHub profile. Many may have creative and technically interesting portfolio websites. Some might have nothing.</p>
+
+<p>You should consider how you might use what candidates can offer to validate their stated skills and experience against your requirements, and have plan on how to quickly and fairly assess those who are unable to provide anything.</p>
+
+<p>This solution hinges on the understanding that <em>there is no one-size-fits-all</em> approach to evaluating technical skill. Like any dogmatic approach, fixating on one metric will cause you to miss out on many candidates.</p>
+
+<ul>
+  <li><a href="https://www.quora.com/As-a-programmer-is-it-important-to-have-a-GitHub-profile/answer/Greg-Pettit" target="_blank">There are plenty of reasons an excellent developer may not have a GitHub profile</a></li>
+  <li><a href="https://qz.com/work/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework/" target="_blank">There are plenty who are unable or unwilling to commit significant time outside their job and other responsibilities to complete tests</a></li>
+  <li>It’s common for people to have nothing immediately available</li>
+</ul>
+
+<p>In order to fix this aspect of the hiring process, we should force ourselves to consider multiple ways to validate skills, and be ready to apply whatever is appropriate on an individual candidate basis. I like David Gilbertson’s take on this topic, and recommend you read his article: <a href="https://medium.com/hackernoon/how-to-hire-the-best-developers-3ac0fa4e3f39" target="_blank">How to hire the best developers</a>. Excellent exploration of the failings of “testing culture”, with solid advice on how to avoid losing out on great candidates while effectively screening poor ones.</p>
+
+<p>Being a manager means managing people. Hiring the best people requires real work and must be approached with the same care and rigour we apply to resolving the most troublesome bugs.</p>
+
+<h2 id="belief-that-seniority-can-be-inferred-by-years-on-the-job">Belief that seniority can be inferred by years on the job</h2>
+
+<h3 id="doing-things-wrong-for-ten-years-is-not-better-than-doing-it-right-for-two">Doing things wrong for ten years is not better than doing it right for two</h3>
+
+<p><strong>Problem</strong>: Many people blindly assume that there is a correlation between the number of years one has been in a field and their seniority in said field.</p>
+
+<p><strong>Background</strong>: I used to hold this assumption, and when posting jobs for seniors I would include something like “Must have W years experience in X &amp; Y, overall must have been in technology as a programmer for Z years”.</p>
+
+<p>I held this assumption until I hired someone who was, on paper, very senior. Their on-the-job skills failed to live up to expectations, they left, and I had to rescue their projects over many late nights.</p>
+
+<p>This caused me to carefully reconsider what I mean when I say “senior”. Instead, seniority needs to be categorised according to measurable traits and skills, for example:</p>
+
+<ol>
+  <li>Entry level engineer
+    <ul>
+      <li>Can complete only trivial tasks without significant help</li>
+      <li>Has shallow understanding of at least one complete area of the team’s software</li>
+      <li>Is learning how to take ownership of self-learning</li>
+      <li>Actively seeks out mentorship in the technical space</li>
+    </ul>
+  </li>
+  <li>Intermediate level engineer
+    <ul>
+      <li>Can complete middling and higher complexity tasks without significant help</li>
+      <li>Has deep understanding of at least one complete area of the team’s software</li>
+      <li>Has mastered self-learning and looks for opportunities to expand their knowledge</li>
+      <li>Maintains mentorship relationships in the technical space, has started mentoring less senior members, actively seeks mentorship in the interpersonal space</li>
+    </ul>
+  </li>
+  <li>Senior level engineer
+    <ul>
+      <li>Can complete tasks of any complexity level</li>
+      <li>Has deep understanding of most areas of the team’s software</li>
+      <li>Seeks out opportunities to increase knowledge and understanding across the team</li>
+      <li>Actively mentors members of the team at all levels</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Notice there is no mention of time on the job. I’ve had team members who have been in software engineering for less than two years meet requirements for the top intermediate level. Then there is the person who, despite many years in the industry, could barely be categorised as entry level by the above descriptions. The above categories are a very diluted version of a much more comprehensive document I’ve been working on for years - inspired by the <a href="https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0" target="_blank">“CircleCi Engineering Competency Matrix</a>.</p>
+
+<p><strong>Solution</strong>: Seniority, expressed in years on the job is not a good hiring metric. Seniority has little to do with technical ability. Do some research and decide yourself what seniority means for your team. Don’t blindly assume that anyone with a good number of years on the job will meet your requirements. Learning the hard way hurts.</p>
+
+<h2 id="practise-interview-techniques-that-highlight-skills-that-are-difficult-to-teach">Practise interview techniques that highlight skills that are difficult to teach</h2>
+
+<h3 id="favour-methods-that-expose-flexibility-teamwork-and-willingness-to-deal-with-change">Favour methods that expose flexibility, teamwork and willingness to deal with change</h3>
+
+<p><strong>Problem</strong>: Common interview dogma is that we should focus on proving a candidate can perform technical tasks adequately well. This is wrong as we are not robots that are easily interchangeable, and technical skills can be taught quickly to the right people.</p>
+
+<p><strong>Background</strong>:<a href="#hiring-processes-often-require-unrealistic-amounts-of-time-from-applicants">As outlined above</a>, technical testing interview culture does nobody any favours. Instead we should focus on proving the candidate:</p>
+
+<ul>
+  <li>Can learn</li>
+  <li>Can deal with change</li>
+  <li>Is flexible</li>
+  <li>Can take feedback well</li>
+  <li>Works well with a diverse range of people</li>
+</ul>
+
+<p>Being able to learn is important, and ties in well with dealing with change. Over the course of my engineering career I’ve gone from JavaScript to PHP/MySQL, back to JavaScript with probably 5-10 different frameworks, then Java, then Node, then AWS appeared. The most accomplished developers on my teams have similar histories. Nothing wrong with loving a stack and sticking with it - but limiting your choices to only those with “x years of experience in stack y”, can prevent you from seeing a good number of excellent applicants.</p>
+
+<p>Flexible applicants with great communication skills should be favoured over “rock stars”. Being able to pair with a business-focused team member to solution out a feature is much more important than being able to make the fanciest, most efficient widget. Consider the following comparison between two developers, one who is amazing at programming but poor at dealing with people or with change, and one who is middling in skill but excellent at dealing with people and taking feedback. Both are given a task that is estimated to take two weeks.</p>
+
+<ul>
+  <li>Amazing engineer finishes it in one week, and demos it to the lead. The feature has been implemented in a way that is incompatible with the solution architect’s vision, which was alluded to in the ticket and mentioned in planning. The engineer goes back to the drawing board and takes the remaining week to complete the task according to the spec.</li>
+  <li>Middling skill engineer spends a day or two asking questions and understanding the underlying business requirements for the task. They take the remaining eight days to complete the task. Since they spent time asking questions and didn’t get started until they fully understood the problem domain, their solution passed scrutiny.</li>
+</ul>
+
+<p>Both engineers finished their task in the same amount of time - the difference is the management and technical overhead required for each team member.</p>
+
+<p>As a manager, I want team members who proactively look to fill holes in their understanding of the underlying reasons for their work, and who raise flags early. I do not want team members who go silent for weeks and surface only with what they consider a “finished” feature.</p>
+
+<p><strong>Solution</strong>: Consider how to interview and screen for applicants who possess the interpersonal skills, flexibility and communication ability that make for a great team. Do not fall into the trap of hiring for technical ability alone.</p>
+
+<p>Interpersonal skills, flexibility and communication ability can be exposed with a surprisingly simple tip a past boss, <a href="https://www.linkedin.com/in/jeanlouisacafrao/" target="_blank">Jean-Louis</a> taught me:</p>
+
+<p>Spend the first 10-15 minutes of the interview generally chatting. Your discussion should aim to surface some strongly held technical opinions (e.g. Docker is bad, Azure is better than AWS, Go is better than Rust, whatever - you don’t have to be an expert in it for this to work). Once you’ve got your topic, turn the conversation back to it, positing that you strongly feel the opposite is true. Maintain this position.</p>
+
+<p>People with skills I claim here are desirable will argue with grace, no matter how unbelievable they find your position to be. People who don’t have these skills … will act vastly differently.</p>
+
+<p>The idea is to simulate the type of interactions engineering teams should be experiencing frequently: the free exchange of ideas and suggestions without egos getting in the way. We want everyone on the team to feel comfortable expressing their opinions - if they’re wrong, they learn why. If they’re right, the company learns a better way.</p>
+
+<h2 id="understand-that-different-genders-and-cultures-view-their-position-in-hierarchy-differently">Understand that different genders and cultures view their position in hierarchy differently</h2>
+
+<h3 id="pay-attention-to-what-their-experience-tells-you-they-can-do-not-what-they-apply-for">Pay attention to what their experience tells you they can do, not what they apply for</h3>
+
+<p><strong>Problems</strong>: Observations during hiring have shown me that people are vastly different in their opinions of their own position within professional hierarchies, and therefore how eligible they might be for open positions.</p>
+
+<p><strong>Background</strong>: When advertising for multiple roles identical in everything but the expected level (and therefore pay), I’ve found that women and people from cultures different to mine are more likely to apply for roles lower than what I argue they should be applying for.</p>
+
+<p><strong>Solution</strong>: When faced with a situation where an applicant is clearly applying for a position below them, don’t knowingly hire them into the lower role. If you have a higher level position available, at your earliest opportunity inform them that you very much appreciate them applying for the role they applied for, but you’d be very interested in interviewing them for the higher role.</p>
+
+<p>I’ve taken this approach with multiple hires. In some cases it took some convincing on my part to have them confidently proceed with the higher position, but in all cases they excelled at their new roles.</p>
+
+<h2 id="wrapping-up-this-long-but-not-exhaustive-list">Wrapping up this long but not exhaustive list</h2>
+
+<h3 id="go-forth-and-build-a-diverse-and-inclusive-team">Go forth and build a diverse and inclusive team</h3>
+
+<p>Building a diverse and inclusive team is challenging, and takes more time than hiring according to decades-held traditional dogma. It’s worth it: as with biology, a monoculture always loses in the end when competing with a mixed population - the same is true for technology teams.</p>
+
+<p>There are clear benefits to hiring and maintaining a diverse team, like <a href="https://www.forbes.com/sites/forbescoachescouncil/2019/09/09/the-benefits-of-creating-a-diverse-workforce/#5fa0cd8d140b" target="_blank">doing the right thing most of the time</a> and <a href="https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/" target="_blank">performing better than monocultures</a>.</p>
+
+<p>The solutions to some problems I’ve faced when hiring technical team members should help you restructure your recruitment strategy into one that favours applicant’s who will take your organisation forward into the future, instead of entrenching habits from the past.</p>]]></content><author><name>Michael Robinson</name><email>mike@pagesofinterest.net</email></author><category term="Recruitment" /><category term="sticky" /><category term="culture" /><summary type="html"><![CDATA[It’s just that we’re doing hiring wrong]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.pagesofinterest.net/images/there-is-no-software-engineering-skill-shortage.jpg" /><media:content medium="image" url="https://www.pagesofinterest.net/images/there-is-no-software-engineering-skill-shortage.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
