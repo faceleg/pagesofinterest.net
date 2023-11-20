@@ -62,7 +62,7 @@ jobs:
         run:
           # we only need the library
           sudo apt-get install --fix-missing -qq -o Acquire::Retries=3
-            libvips
+            libvips libvips-tools
 
       # Setup languages
       - name: Setup Ruby
