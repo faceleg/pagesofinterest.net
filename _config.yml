@@ -6,7 +6,7 @@ favicon: 'images/favicon.ico'
 url: 'https://www.pagesofinterest.net'
 email: 'mike@pagesofinterest.net'
 
-destination: build/
+destination: _site/
 
 include: ["_pages"]
 permalink: /:title
