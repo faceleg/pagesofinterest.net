@@ -5,6 +5,9 @@
   "directories": {
     "doc": "docs"
   },
+  "scripts": {
+    "eslint": "eslint . --ignore-path=.gitignore"
+  },
   "license": "ISC",
   "dependencies": {
     "@shopify/prettier-plugin-liquid": "^1.3.4",
