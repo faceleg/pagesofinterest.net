@@ -6,7 +6,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "eslint": "eslint . --ignore-path=.gitignore"
+    "eslint": "eslint . --ignore-path=.gitignore",
+    "yamllint": "yamllint -c .yamllint-config.yml ."
   },
   "license": "ISC",
   "dependencies": {

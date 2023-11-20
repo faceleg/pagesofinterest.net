@@ -1,0 +1,12 @@
+---
+extends: default
+
+ignore:
+  - _site/
+  - build/
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
+  - .asset_pipeline*
+  - node_modules
+  - vendor/*
