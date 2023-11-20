@@ -62,21 +62,8 @@ jobs:
       # Install libs
       - uses: awalsh128/cache-apt-pkgs-action@latest
         with:
-          packages: libvips libvips-tools
+          packages: libvips-tools
           version: 1.0
-
-      # - uses: actions/cache@v2
-      #   id: cache-id
-      #   with:
-      #     path: ${{ runner.temp }}/libvips-cache
-      #     key: ${{ runner.os }}-cache-libvips-key-v1.0
-      # - uses: airvzxf/cache-anything-new-action@v1.0.1
-      #   with:
-      #     script: 'install-libvips.sh'
-      #     is_cached: ${{ steps.cache-id.outputs.cache-hit }}
-      #     cache: ${{ runner.temp }}/libvips-cache
-      #     snapshot: '/'
-      #     exclude: '/boot /data /dev /mnt /proc /run /sys'
 
       # - name: Update apt
       #   env:
