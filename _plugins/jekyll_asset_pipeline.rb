@@ -9,7 +9,7 @@ module JekyllAssetPipeline
     end
 
     def compress
-      return YUI::CssCompressor.new.compress(@content)
+      YUI::CssCompressor.new.compress(@content)
     end
   end
 
@@ -21,8 +21,7 @@ module JekyllAssetPipeline
     end
 
     def compress
-      return YUI::JavaScriptCompressor.new(munge: true).compress(@content)
+      YUI::JavaScriptCompressor.new(munge: true).compress(@content)
     end
   end
 end
-
