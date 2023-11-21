@@ -55,9 +55,8 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
           ruby-version: 3.1.4
-      - run: |
-          gem install rubocop
-          rubocop
+      - run: gem install rubocop
+      - run: rubocop
   # Build job
   build:
     runs-on: ubuntu-latest
