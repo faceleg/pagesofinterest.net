@@ -47,14 +47,18 @@ jobs:
   rubocop:
     runs-on: ubuntu-latest
     steps:
-      - uses: luizfonseca/github-actions-rubocop@1.5.6
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+          ruby-version: 3.1.4
+      - run: |
+          gem install rubocop
+          rubocop
   # Build job
   build:
     runs-on: ubuntu-latest
-    # container:
-    #   image: ghcr.io/faceleg/jekyll-gh-pages-custom-plugins:main
     steps:
       - name: Checkout
         uses: actions/checkout@v3
