@@ -13,15 +13,28 @@ module JekyllAssetPipeline
     end
   end
 
+  # class JavaScriptCompressor < JekyllAssetPipeline::Compressor
+  #   require 'yui/compressor'
+  #
+  #   def self.filetype
+  #     '.js'
+  #   end
+  #
+  #   def compress
+  #     YUI::JavaScriptCompressor.new(munge: true).compress(@content)
+  #   end
+  # end
+
   class JavaScriptCompressor < JekyllAssetPipeline::Compressor
-    require 'yui/compressor'
+    require 'closure-compiler'
 
     def self.filetype
       '.js'
     end
 
     def compress
-      YUI::JavaScriptCompressor.new(munge: true).compress(@content)
+      closure = Closure::Compiler.new(language_in: 'ES6')
+      closure.compile(@content)
     end
   end
 end
