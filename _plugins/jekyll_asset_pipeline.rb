@@ -33,7 +33,7 @@ module JekyllAssetPipeline
     end
 
     def compress
-      closure = Closure::Compiler.new(language_in: 'ES6')
+      closure = Closure::Compiler.new(language_in: 'ES6', compilation_level: 'ADVANCED_OPTIMIZATIONS')
       closure.compile(@content)
     end
   end
