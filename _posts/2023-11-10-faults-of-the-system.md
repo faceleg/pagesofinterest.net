@@ -12,11 +12,11 @@ One of the fundamental principles of W. Edwards Deming's philosophy is that mana
 
 Deming's focus on management's role in creating a successful environment is a valuable lesson for all. Taking this approach does not mean we shouldn't have high expectations of our teams, only that those expectations should be directed in the right way.
 
-Deming's teaching emphasizes that if a contributor or a group of contributors aren't making significant improvements, the issue may not be their effort but rather a systemic problem. It is the responsibility of management to identify and rectify these systemic issues
+Deming's teaching emphasizes that if a contributor or a group of contributors aren't making significant improvements, the issue may not be their effort but rather a systemic problem. It is the responsibility of management to identify and rectify these systemic issues.
 
-These are what Deming refers to as "Faults of the System":
+Issues that contributors cannot resolve themselves are what Deming refers to as "Faults of the System":
 
-> One feature, especially applicable to production, is techniques by which to distinguish between (a) special causes of variation of quality and economic loss, which the worker himself can correct on statistical signal, and (b) faults of the system, which only management can correct.
+> One feature, especially applicable to production, is techniques by which to distinguish between (a) special causes of variation of quality and economic loss, which the worker himself can correct on statistical signal, and **(b) faults of the system, which only management can correct**.
 
 -- [The Essential Deming: Leadership Principles from the Father of Quality](https://learning.oreilly.com/library/view/-/9780071790222/ch01.html)
 
