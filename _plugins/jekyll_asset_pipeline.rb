@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'jekyll_asset_pipeline'
 
 module JekyllAssetPipeline
