@@ -3,6 +3,7 @@
 require 'jekyll_asset_pipeline'
 
 module JekyllAssetPipeline
+  # Helper class to allow yui compressor for CSS
   class CssCompressor < JekyllAssetPipeline::Compressor
     require 'yui/compressor'
 
@@ -15,6 +16,7 @@ module JekyllAssetPipeline
     end
   end
 
+  # Helper class to allow closure compiler for javascript
   class JavaScriptCompressor < JekyllAssetPipeline::Compressor
     require 'closure-compiler'
 
