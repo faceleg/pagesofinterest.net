@@ -59,7 +59,7 @@ Thumbs are strong, pinkies are not. This made a big difference to me. The pain w
 
 You won't believe it until your time but bodies wear out and require maintenance. We can ride youth for a while but it catches up to you.
 
-#1 and #2 solved one set of problems, it was nearly a decade after I discovered special keyboards when I implemented the final stage - exercise and the use of a standing desk.
+Number 1 and 2 solved one set of problems, it was nearly a decade after I discovered special keyboards when I implemented the final stage - exercise and the use of a standing desk.
 
 On top of all this I've had fairly crippling back pain since young adulthood, and assumed it was just part of my life. Obviously not getting better as I aged, I decided to try the one thing I had avoided most of my life: exercise.
 
