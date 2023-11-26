@@ -8,7 +8,7 @@ tags: [improvement, tooling, featured, health]
 image: "/images/an-engineers-tools-yours-for-life-hands-split-keyboard.jpg"
 ---
 
-Ever considered the most crucial tool in a software engineer's arsenal? It's not a fancy IDE or a powerful laptop; it's something you might overlook - your hands.
+Ever considered the most crucial tool in a software engineer's arsenal? It's your hands, something you might overlook.
 
 Software Engineering is an interesting profession, there are no mandatory tools, no agreed handbook explaining minimum basic tenets to follow to ensure a long and healthy career. We're expected it seems, to figure it out ourselves. In this post I want to talk about a tool we take for granted that you'll notice only when they break: your hands.
 
