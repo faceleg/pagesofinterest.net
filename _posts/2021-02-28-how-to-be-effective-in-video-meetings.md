@@ -107,3 +107,7 @@ There are many, many alternatives when it comes to white boarding - including si
 We're in a very difficult time in our history. Getting things done over video instead of in-person is one of the side-effects.
 
 Be open and be kind with your colleagues - we'll get through this!
+
+## Keep improving!
+
+Consider the [Three Threads of Leadership](/the-three-threads-of-leadership). Who is your coach, your mentor? These people will be able to give you actionable feedback on your effectiveness in video meetings.

@@ -76,4 +76,6 @@ Think of the people you've worked with in the past:
 - Those you think you helped the most
 - Or those you most respected
 
+Think of the [Three Threads of Leadership](/the-three-threads-of-leadership), who has been your coach, mentor or director? They would each be able to describe your performance in a useful way.
+
 Bite the bullet and send that request - they'll be happy to hear from you & more than willing to help you out with your first LinkedIn recommendation!
