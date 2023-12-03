@@ -14,9 +14,9 @@ Over the years, I’ve learned that there are roughly three key areas to pay att
 
 These are the "Three Threads of Leadership":
 
-- Direction
-- Mentorship
-- Coaching
+- [Direction](#direction)
+- [Mentorship](#mentorship)
+- [Coaching](#coaching)
 
 ## Direction
 
@@ -24,7 +24,7 @@ This is the simplest concept: where do my work instructions come from? For an in
 
 As one moves through the ranks this becomes somewhat less clear: consider the Principal Engineer. They may spend some time in a squad, executing work deemed too critical, difficult or experimental for the wider team. They also spend time in craft, pushing the best practices and standards internally. They may also spend time with upper management, ensuring vision and roadmaps are both ambitious enough and possible.
 
-Advice: think about who gives you work direction and why.
+**Advice**: think about who gives you work direction and why.
 
 ## Mentorship
 
@@ -32,7 +32,7 @@ Somewhat complicated, as many assume this is also their boss. The reality is tha
 
 This _may_ be your boss, but this will be due to luck. You may have more than one mentor, depending on where you want to go. I have a couple, each representing areas I need to improve in order to achieve my personal goals. Your Coach will be able to suggest people within the company to fill this role.
 
-Advice: think about where you want to go. Look around you for someone who is there or obviously on their way. Foster a relationship, and potentially explicitly ask them to mentor you in relevant areas. This person doesn't need to work in your team, department or even company. LinkedIn can help here.
+**Advice**: think about where you want to go. Look around you for someone who is there or obviously on their way. Foster a relationship, and potentially explicitly ask them to mentor you in relevant areas. This person doesn't need to work in your team, department or even company. LinkedIn can help here.
 
 ## Coaching
 
@@ -40,7 +40,7 @@ This element of leadership is most often and most easily ignored. A coach is som
 
 This is the one element of leadership that really has to come from the line manager. This is because if one has been given constructive feedback about non performance, and over time fails to learn and grow as necessary to remediate it, there are formal processes to follow that typically are initiated by a combination of line management and human resources.
 
-Advice: if you aren't involved in discussions about your performance with your line manager, start one. If you aren't having these conversations with your team, start them. There are many tools available to help structure this feedback as a manager. [Situation-Behaviour-Impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) is a good one for describing the issue, followed up by a conversation about a [SMART goal](https://www.indeed.com/career-advice/career-development/how-to-write-smart-goals) to work towards change.
+**Advice**: if you aren't involved in discussions about your performance with your line manager, start one. If you aren't having these conversations with your team, start them. There are many tools available to help structure this feedback as a manager. [Situation-Behaviour-Impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) is a good one for describing the issue, followed up by a conversation about a [SMART goal](https://www.indeed.com/career-advice/career-development/how-to-write-smart-goals) to work towards change.
 
 ## The Threads Together
 
