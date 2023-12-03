@@ -108,6 +108,6 @@ We're in a very difficult time in our history. Getting things done over video in
 
 Be open and be kind with your colleagues - we'll get through this!
 
-## Keep improving!
+## Keep improving
 
 Consider the [Three Threads of Leadership](/the-three-threads-of-leadership). Who is your coach, your mentor? These people will be able to give you actionable feedback on your effectiveness in video meetings.
