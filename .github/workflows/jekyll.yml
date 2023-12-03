@@ -112,7 +112,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: [build, eslint, yamllint, rubocop]
+    needs: [build, eslint, yamllint, rubocop, markdownlint]
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
