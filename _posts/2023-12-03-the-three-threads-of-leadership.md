@@ -40,7 +40,7 @@ This element of leadership is most often and most easily ignored. A coach is som
 
 This is the one element of leadership that really has to come from the line manager. This is because if one has been given constructive feedback about non performance, and over time fails to learn and grow as necessary to remediate it, there are formal processes to follow that typically are initiated by a combination of line management and human resources.
 
-Advice: if you aren't involved in discussions about your performance with your line manager, start one. If you aren't having these conversations with your team, start them. There are many tools available to help structure this feedback as a manager. [r](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) is a good one for describing the issue, followed up by a conversation about a [SMART goal](https://www.indeed.com/career-advice/career-development/how-to-write-smart-goals) to work towards change.
+Advice: if you aren't involved in discussions about your performance with your line manager, start one. If you aren't having these conversations with your team, start them. There are many tools available to help structure this feedback as a manager. [Situation-Behaviour-Impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) is a good one for describing the issue, followed up by a conversation about a [SMART goal](https://www.indeed.com/career-advice/career-development/how-to-write-smart-goals) to work towards change.
 
 ## The Threads Together
 
