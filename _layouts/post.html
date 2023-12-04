@@ -138,17 +138,26 @@ layout: default
           <span>{% endif %} {{page.previous.title}}</span></a
         >
       </div>
-      {% endif %} {% if page.next.url %}
-      <div class="col-md-6 text-right pr-0">
-        <a
-          class="alertbar-link-right alertbar-link text-dark"
-          href="{{ site.baseurl }}{{ page.next.url }}"
-        >
-          <span>{{page.next.title}}</span> {% if page.next.image %}
-          <img class="ml-2" src="{{page.next.image}}" /> {% endif %}</a
-        >
-      </div>
       {% endif %}
+      <!-- If there is a post after this one -->
+      {% if page.next.url %}
+      <!-- If there is a post before this one the next post link needs to be 50% wide -->
+      {% if page.previous.url %}
+      <div class="col-md-6 text-right pr-0">
+        {% else %}
+        <!-- If there is no post before this one the next post link needs to be 100% wide -->
+        <div class="col-md-12 text-right pr-0">
+          {% endif %}
+          <a
+            class="alertbar-link-right alertbar-link text-dark"
+            href="{{ site.baseurl }}{{ page.next.url }}"
+          >
+            <span>{{page.next.title}}</span> {% if page.next.image %}
+            <img class="ml-2" src="{{page.next.image}}" /> {% endif %}</a
+          >
+        </div>
+        {% endif %}
+      </div>
     </div>
   </div>
 </div>
