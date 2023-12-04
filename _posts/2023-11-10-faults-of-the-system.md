@@ -49,7 +49,9 @@ A key element of this definition is that a special cause is specific to a contri
 
 > ...(b) faults of the system, which only management can correct.
 
-These faults of the system come from a common cause - or causes that are common to groups of people*.
+{% picture jpt-webp "images/demings-perspective-on-quality-management-understanding-faults-of-the-system.jpg" --alt {{ Deming's Perspective on Quality Management: Understanding Faults of the System }} --picture class="post-inline-image-left" %}
+
+These faults of the system come from a common cause - or causes that are common to groups of people\*.
 
 The concept of a common cause is crucial as it highlights that most variations are caused by systemic issues shared by groups of individuals rather than specific contributors. Improving common causes has the effect of improving special causes as well.
 
@@ -59,4 +61,4 @@ What I really like about this philosophy and approach to improvement is that it 
 
 When seeking to enhance your team's performance, focus on refining the processes and systems that influence their actions.
 
-*(from [Deming Speech 1978: 'Quick Review of Some New Principles of Administration'](https://www.qualitydigest.com/inside/management-article/deming-speech-1978-quick-review-some-new-principles-administration-112421), Principle 9)
+\*(from [Deming Speech 1978: 'Quick Review of Some New Principles of Administration'](https://www.qualitydigest.com/inside/management-article/deming-speech-1978-quick-review-some-new-principles-administration-112421), Principle 9)
