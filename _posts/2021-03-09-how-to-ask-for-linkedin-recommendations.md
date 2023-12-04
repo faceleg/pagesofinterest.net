@@ -68,6 +68,8 @@ Here's an example message you might use to request a recommendation from a boss 
 >
 > All good if you're too busy - just let me know! Of course I'd love to return the favour and write one for you too :)
 
+{% picture jpt-webp "images/how-to-ask-for-a-linkedin-recommendation-1.jpg" --alt {{ How to Ask for a LinkedIn Recommendation }} --picture class="post-inline-image-center" %}
+
 ## What to do next
 
 Think of the people you've worked with in the past:
