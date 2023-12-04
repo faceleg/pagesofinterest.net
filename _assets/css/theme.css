@@ -1121,8 +1121,6 @@ div.a2a_full_footer {display:none;}
 .post-inline-image-center {
   width: 100%;
   display: block;
-  margin-right: 20px;
-  margin-left: 20px;
 }
 
 @media (width <=768px) {
