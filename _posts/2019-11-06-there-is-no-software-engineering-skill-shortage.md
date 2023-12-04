@@ -203,6 +203,8 @@ Both engineers finished their task in the same amount of time - the difference i
 
 As a manager, I want team members who proactively look to fill holes in their understanding of the underlying reasons for their work, and who raise flags early. I do not want team members who go silent for weeks and surface only with what they consider a "finished" feature.
 
+{% picture jpt-webp "images/there-is-no-software-engineering-skill-shortage-1.jpg" --alt {{ There is no Software Engineering Skills Shortage }} --picture class="post-inline-image-center" %}
+
 **Solution**: Consider how to interview and screen for applicants who possess the interpersonal skills, flexibility and communication ability that make for a great team. Do not fall into the trap of hiring for technical ability alone.
 
 Interpersonal skills, flexibility and communication ability can be exposed with a surprisingly simple tip a past boss, <a href="https://www.linkedin.com/in/jeanlouisacafrao/" target="_blank">Jean-Louis</a> taught me:

@@ -55,6 +55,8 @@ This will allow you to hear everything people say the first time, and allow them
 
 ### Turn on your video
 
+{% picture jpt-webp "images/how-to-be-effective-in-video-meetings-1.jpg" --alt {{ How to be Effective in Video Meetings }} --picture class="post-inline-image-center" %}
+
 Don't be shy - we're used to looking at your face at work, it did OK there, it'll do great in video meetings too. Switching video on adds an entire new level of information to a meeting - we can read facial expressions, predict when it might be a good time to interject and generally get much more out of a meeting.
 
 You might not know - but in Teams video conferences, you can tell [Teams to blur out your background](https://support.office.com/en-us/article/blur-your-background-in-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)! This works great when you may have a lot going on in the background, or if you're joining a call from say, a bedroom or a messy lounge. Most other video chat programs offer this - just google it, e.g. "Zoom blur background".
