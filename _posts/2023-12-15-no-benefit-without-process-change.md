@@ -18,8 +18,8 @@ In a lecture based on his book [The Theory of Constraints](https://www.amazon.co
 
 Follow these two simple rules:
 
-1.  A technology can bring benefits if and only if it removes a limitation.
-2.  A technology can only be leveraged properly if the relevant rules are changed.
+1. A technology can bring benefits if and only if it removes a limitation.
+2. A technology can only be leveraged properly if the relevant rules are changed.
 
 ### 1. Removing a limitation
 
@@ -41,9 +41,9 @@ Using the SonarQube example above, what needs to change in order to get the most
 
 When coaching teams through discussions on what might be done to improve outcomes, or when analysing various suggestions use this cheat sheet. For each suggestion, ask:
 
-1.  What is the power of the technology?
-2.  What limitations does this technology diminish?
-3.  What rules helped us to accomodate this limitation?
-4.  What rules should we use now?
+1. What is the power of the technology?
+2. What limitations does this technology diminish?
+3. What rules helped us to accomodate this limitation?
+4. What rules should we use now?
 
 Only by considering these questions will you give your team the best chance of success. Teams who consider, implement and analyse change by these means will also get better value for each dollar spent.
