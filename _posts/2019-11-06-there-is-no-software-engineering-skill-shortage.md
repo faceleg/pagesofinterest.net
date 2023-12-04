@@ -63,6 +63,8 @@ Programming is becoming a commodity skill, complemented by people skills, backgr
 
 ### Be careful of subtle biases in your hiring material
 
+{% picture jpt-webp "images/there-is-no-software-engineering-skill-shortage-2.jpg" --alt {{ There is no Software Engineering Skills Shortage }} --picture class="post-inline-image-center" %}
+
 **Preamble**: Research shows there are significant advantages to be gained by having a diverse and inclusive team. Topics in this section have been written about extensively, including articles in Forbes, Gartner and the Harvard Business Review: <a href="https://www.forbes.com/sites/forbescoachescouncil/2019/09/09/the-benefits-of-creating-a-diverse-workforce/#5fa0cd8d140b" target="_blank">diverse teams doing the right thing most of the time</a>, <a href="https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/" target="_blank">generally perform better than monocultures</a> and <a href="https://hbr.org/2019/11/how-the-best-bosses-interrupt-bias-on-their-teams?ab=hero-main-text" target="_blank">how to disrupt bias on your existing teams</a>.
 
 I'd like to focus on how you can change your hiring process to cut off the source of clones. This will increase your pipeline of diverse candidates, enabling you to build out and maintain a diverse and inclusive team.
@@ -77,13 +79,13 @@ Turns out the software we used to manage the hiring process had been configured 
 
 - Upload a cover letter
 - Upload a photo
-- Phone a robot and leave a voicemail introducing themselves
+- Phone a robot or record a video introducing themselves
 
 A cover letter I can understand - but I don't care to read them: an applicant's CV should be enough to decide whether to have a quick chat on the phone. I know from experience that writing a cover letter for each job application is draining and time consuming torture that I wouldn't wish on anyone.
 
-Upload a photo? This was a surprising one. I mean - this wasn't the first time I had hired for this team, where else did I think the photos were coming from? I had assumed there was some clever programming going on, with the system pulling them from LinkedIn. Nope, the applicants were required to upload a photo. For a programming job.
+The requirement to upload a photo was a surprising one. I mean - this wasn't the first time I had hired for this team, where else did I think the photos were coming from? I had assumed there was some clever programming going on, with the system pulling them from LinkedIn. Nope, the applicants were required to upload a photo. For a programming job.
 
-Phone a robot? Leave a message?! I can't even.
+I won't discuss the requirement to leave a message or a video ... don't do this.
 
 The process of discovering this was rather embarrassing for me and uncomfortable for the person who brought it up. I had the CV from a wonderful applicant given to me and needed her to apply online in order to proceed. She took longer than I expected to do this, so I reached out and asked if everything was OK. After learning the above I immediately apologised and spent the next two hours figuring out how to remove everything but the bare essentials from the application form.
 
