@@ -39,6 +39,8 @@ Using the SonarQube example above, what needs to change in order to get the most
 
 ## Expanding on the two rules
 
+{% picture jpt-webp "/images/no-benefit-without-process-change-1.jpg" --alt {{ The Three Threads of Leadership }} --picture class="post-inline-image-right" %}
+
 When coaching teams through discussions on what might be done to improve outcomes, or when analysing various suggestions use this cheat sheet. For each suggestion, ask:
 
 1. What is the power of the technology?

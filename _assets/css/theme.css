@@ -1118,6 +1118,12 @@ div.a2a_full_footer {display:none;}
   margin-right: 20px;
 }
 
+.post-inline-image-right {
+  width: 50%;
+  float: right;
+  margin-right: 20px;
+}
+
 .post-inline-image-center {
   width: 100%;
   display: block;
@@ -1125,6 +1131,12 @@ div.a2a_full_footer {display:none;}
 
 @media (width <=768px) {
   .post-inline-image-left {
+    width: 100%;
+    display: block;
+    float: none;
+  }
+
+  .post-inline-image-right {
     width: 100%;
     display: block;
     float: none;
