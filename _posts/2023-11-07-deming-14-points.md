@@ -46,9 +46,9 @@ If you want to learn more from the source, I recommend [The Essential Deming](ht
 
 ### 5. Improve constantly and forever
 
-- Continuously improve your systems and processes. Deming promoted the Plan-Do-Check-Act   approach to process analysis and improvement.
+- Continuously improve your systems and processes. Deming promoted the Plan-Do-Check-Act approach to process analysis and improvement.
 - Emphasize training and education so everyone can do their jobs better.
-- Use kaizen   as a model to reduce waste and to improve productivity, effectiveness, and safety.
+- Use kaizen as a model to reduce waste and to improve productivity, effectiveness, and safety.
 
 ### 6. Use training on the job
 
@@ -67,7 +67,7 @@ If you want to learn more from the source, I recommend [The Essential Deming](ht
 - Emphasize the importance of participative management and transformational leadership.
 - Find ways to reach full potential, and don't just focus on meeting targets and quotas.
 
-### 8. Eliminate fear
+### 8. Psychological safety
 
 - Allow people to perform at their best by ensuring that they're not afraid to express ideas or concerns.
 - Let everyone know that the goal is to achieve high quality by doing more things right – and that you're not interested in blaming people when mistakes happen.
