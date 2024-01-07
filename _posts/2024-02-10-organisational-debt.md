@@ -2,18 +2,20 @@
 layout: post
 title: "Organisational Debt"
 author: michael-robinson
-date: "2024-10-10"
-categories: [deming]
+date: "2024-02-10"
+categories: [transformation]
 tags: [organisations, culture, featured]
 image: "/images/placeholder.jpg"
 ---
 
-quote from verbal judo, what does it mean
+Organisational debt is a limit to success. Money, people and other fuel can support growth despite it but true and fundamental success is impossible without addressing it.
 
-who can it apply to
+It is the shape of the organisation and how well or poorly this shape supports the goals of leadership
 
-why important (competjng for leaders time with marketing/design and other design conscious departments)
+It can only be remediated through restructures which are difficult and impose their own drag
 
-correct is not enough
+Compare it to financial and technical debt.
 
-design is the thing it is not colours and styling, design comes from the purpose and goal
+Organisational structure is never perfect and always messy - think of restructures as rearranging the mess in a way more appropriate to supporting our current goals
+
+Keep an eye on it.
