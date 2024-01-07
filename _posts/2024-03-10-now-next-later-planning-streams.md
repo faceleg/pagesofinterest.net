@@ -2,9 +2,9 @@
 layout: post
 title: "Plan Streams with Now, Next, Later"
 author: michael-robinson
-date: "XXXX-XX-XX"
+date: "2024-04-03"
 categories: [Leadership]
 tags: [sticky, culture]
-image: "/images/now-next-later-planning-streams.jpg"
+image: "/images/placeholder.jpg"
 featured: true
 ---

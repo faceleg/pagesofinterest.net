@@ -2,7 +2,7 @@
 layout: post
 title: "No Benefit Without Process Change"
 author: michael-robinson
-date: "2023-12-15"
+date: "2024-01-10"
 categories: [leadership]
 tags: [organisations, culture, featured]
 image: "/images/no-benefit-without-process-change.jpg"
@@ -45,7 +45,7 @@ When coaching teams through discussions on what might be done to improve outcome
 
 1. What is the power of the technology?
 2. What limitations does this technology diminish?
-3. What rules helped us to accomodate this limitation?
+3. What rules helped us to accommodate this limitation?
 4. What rules should we use now?
 
 Only by considering these questions will you give your team the best chance of success. Teams who consider, implement and analyse change by these means will also get better value for each dollar spent.

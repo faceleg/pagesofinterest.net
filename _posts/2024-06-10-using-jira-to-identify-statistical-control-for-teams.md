@@ -2,8 +2,8 @@
 layout: post
 title: "Using JIRA to identify Statistical Control for Teams"
 author: michael-robinson
-date: "XXXX-XX-XX"
+date: "2024-06-10"
 categories: [deming]
 tags: [organisations, culture, featured]
-image: "/images/conways-law-for-business-people.jpg"
+image: "/images/placeholder.jpg"
 ---
