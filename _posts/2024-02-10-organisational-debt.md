@@ -8,9 +8,9 @@ tags: [organisations, culture, featured]
 image: "/images/placeholder.jpg"
 ---
 
-We're all familiar with debt. Workers in IT understand tech debt. Recognising "organisational debt" and how to pay it back is important if leaders want to succeed in their mission.
+We're all familiar with financial debt. Workers in IT understand tech debt. Recognising organisational debt and how to manage it is important for leaders to succeed in their mission.
 
-Organisational debt is a limit to success. Money, people and other resources can support growth despite it but true and fundamental success is impossible without addressing it.
+organisational debt is a limit to success. Money, people and other resources can support growth despite it but true and fundamental success is impossible without addressing it.
 
 ## What is organisational debt?
 
@@ -18,7 +18,7 @@ It is the shape of the organisation and how well or poorly this shape supports t
 
 Organisational debt is pernicious, building up over time.
 
-## What causes organisational debt?
+## What causes drganisational debt?
 
 It is common for companies to shift priorities. Sometimes this happens gradually, sometimes all at once. In either case, organisational debt builds up every time we change our priority without reviewing and possibly changing how the company is organised. Here is a rather contrived example showing how it can build up:
 
@@ -34,11 +34,11 @@ It is common for companies to shift priorities. Sometimes this happens gradually
 
 What started out as an efficient company able to push out features, deal with maintenance work and customer issues became one unable to attend to this work effectively while being more expensive, without generating significantly more revenue. None of the decisions made were obviously _wrong_, but the result was negative.
 
-Making decisions and moving quickly is important, but failing to take a holistic view of the impact of these actions over time, compounds on one another is detrimental and creates Organisational Debt.
+Making decisions and moving quickly is important, but failing to take a holistic view of the impact of these actions over time, compounds on one another is detrimental and creates organisational debt.
 
-What causes Organisational Debt? Actions compounded on each other over time pausing to consider the current state.
+What causes organisational debt? Actions compounded on each other over time pausing to consider the current state.
 
-There is a simple checklist one can work through to identify how well or poorly an organisation is doing regarding Organisational Debt:
+There is a simple checklist one can work through to identify how well or poorly an organisation is doing regarding organisational debt:
 
 1. What is our strategy, has it changed?
 2. What is our capability, is it relevant to our current strategy?
@@ -46,9 +46,9 @@ There is a simple checklist one can work through to identify how well or poorly 
 4. What can we stop doing?
 5. What should we start doing?
 
-## How can one remediate Organisational Debt?
+## How can one remediate organisational debt?
 
-As the aggregate effect of incremental change, when Organisational Debt becomes obvious, the fix will be difficult and disruptive. If the company's strategy has changed and available capability is insufficient (both in terms of technical and human capability, e.g. our systems and our people), then it is likely the structure is not optimal and there may be many things currently being done that should stop, and things not being done that should be started.
+As the aggregate effect of incremental change, when organisational debt becomes obvious, the fix will be difficult and disruptive. If the company's strategy has changed and available capability is insufficient (both in terms of technical and human capability, e.g. our systems and our people), then it is likely the structure is not optimal and there may be many things currently being done that should stop, and things not being done that should be started.
 
 When things get into this state we start hearing talk of "Transformation", which is usually entails much work aimed to remediate the issues mentioned above. Rhetoric around transformation takes roughly the following shape:
 
@@ -58,7 +58,7 @@ When things get into this state we start hearing talk of "Transformation", which
 4. These are the things we will stop
 5. This is what we'll start
 
-Whether a company succeeds in transformation will depend on how well leadership understands Organisational Debt, if they have the support and tenacity to see the work required to resolve it through and of course, whether the new strategy is any good.
+Whether a company succeeds in transformation will depend on how well leadership understands organisational debt, if they have the support and tenacity to see the work required to resolve it through and of course, whether the new strategy is any good.
 
 Transformation is about the most difficult exercise for an organisation, the larger the company the harder it will be. Knowing _why_ things are the way they are and considering _how they should be shaped in the future_ are critical.
 
