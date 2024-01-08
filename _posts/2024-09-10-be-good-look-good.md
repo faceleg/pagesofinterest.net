@@ -17,4 +17,3 @@ why important (competjng for leaders time with marketing/design and other design
 correct is not enough
 
 design is the thing it is not colours and styling, design comes from the purpose and goal
-
