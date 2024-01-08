@@ -5,7 +5,7 @@ author: michael-robinson
 date: "2024-02-10"
 categories: [transformation]
 tags: [organisations, culture, featured]
-image: "/images/placeholder.jpg"
+image: "/images/organisational-debt.jpg"
 ---
 
 We're all familiar with financial debt. Workers in IT understand tech debt. Recognising organisational debt and how to manage it is important for leaders to succeed in their mission.
@@ -59,6 +59,8 @@ When things get into this state we start hearing talk of "Transformation", which
 5. This is what we'll start
 
 Whether a company succeeds in transformation will depend on how well leadership understands organisational debt, if they have the support and tenacity to see the work required to resolve it through and of course, whether the new strategy is any good.
+
+{% picture jpt-webp "/images/organisational-debt-1.jpg" --alt {{ Organisational Debt }} --picture class="post-inline-image-left" %}
 
 Transformation is about the most difficult exercise for an organisation, the larger the company the harder it will be. Knowing _why_ things are the way they are and considering _how they should be shaped in the future_ are critical.
 
