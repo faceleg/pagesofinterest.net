@@ -14,4 +14,3 @@ image: "/images/placeholder.jpg"
 - basic structure of the main slides/pages
 - design matters
 - politics and shopping it around
-
