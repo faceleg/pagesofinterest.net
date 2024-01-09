@@ -4,9 +4,8 @@ title: "There Is No Software Engineering Skill Shortage"
 author: michael-robinson
 date: "2019-11-06"
 categories: [Recruitment]
-tags: [sticky, culture]
+tags: [culture, featured]
 image: "/images/there-is-no-software-engineering-skill-shortage.jpg"
-featured: true
 ---
 
 ## It's just that we're doing hiring wrong

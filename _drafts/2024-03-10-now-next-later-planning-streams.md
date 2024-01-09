@@ -4,9 +4,8 @@ title: "Plan Streams with Now, Next, Later"
 author: michael-robinson
 date: "2024-04-03"
 categories: [Leadership]
-tags: [sticky, culture]
+tags: [culture, featured]
 image: "/images/now-next-later.jpg"
-featured: true
 ---
 
 Leaders need to show plans and progress up and down the chain. Using the now, next, later format helps gather ideas and works well to display high level detail.
