@@ -8,7 +8,7 @@ tags: [sticky, improvement, culture, featured]
 image: "/images/the-three-threads-of-leadership-1.jpg"
 ---
 
-Leadership comes from more than one component: direction, mentorship and coaching. Assuming these threads must come from one person limits individual and organisational growth. Instead if we analyse the various components of leadership, we can identify more appropriate ways to receive it.
+Leadership is: direction, mentorship and coaching. Analysing these components helps identify better ways to deliver and receive each, accelerating individual and organisational growth.
 
 Over the years, I’ve learned that there are roughly three key areas to pay attention to for success, both individually and organisationally.
 
