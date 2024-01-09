@@ -34,7 +34,7 @@ image: /assets/images/faceleg.jpg
             >
           </h2>
           <p class="excerpt">
-            {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136
+            {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 186
             }}
           </p>
           <div>
@@ -73,7 +73,7 @@ image: /assets/images/faceleg.jpg
           <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
             <h1 class="mb-3">{{post.title}}</h1>
             <p class="mb-3 lead">
-              {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+              {{ post.excerpt | strip_html | strip_newlines | truncate: 186 }}
             </p>
             <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark"
               >Read More</a
