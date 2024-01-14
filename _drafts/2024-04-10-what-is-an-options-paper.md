@@ -12,13 +12,11 @@ Options papers frame a problem and outline what support needed to solve it. Larg
 
 ## Jump to section
 
-# Table of contents
-
 1.  [Introduction](#introduction)
 2.  [What is an options paper for, what makes one great?](#what-is-an-options-paper-for,-what-makes-one-great?)
-    1. [1. Clear explanation of the problem](#1.-clear-explanation-of-the-problem)
-    2. [2. Clear outline of options available](#2.-clear-outline-of-options-available)
-    3. [3. So what?](#3.-so-what?)
+    1. [Clear explanation of the problem](#clear-explanation-of-the-problem)
+    2. [Clear outline of options available](#clear-outline-of-options-available)
+    3. [So what?](#so-what?)
 3.  [Think of the audience](#think-of-the-audience)
     1. [Writing style](#writing-style)
     2. [Design matters](#design-matters)
@@ -57,7 +55,7 @@ The fourth doesn't go into your options paper, it needs to be an understanding w
 
 The paper should be no more than 4-5 pages long (including graphs if necessary) if written, and no more than 4 slides if assembled in presentation style. Personally I prefer written papers but you will need to follow norms within your organisation here.
 
-### 1. Clear explanation of the problem
+### Clear explanation of the problem
 
 As concisely as possible, describe the problem that needs solving here. Some questions to prompt you, that your audience _will ask_ are:
 
@@ -71,13 +69,13 @@ The point of this section is to leave the reader absolutely clear on why this de
 
 If you're using PowerPoint, this should be part of the first slide and no more than a couple of sentences. Any information that doesn't fit in here can be included in an appendix, including financials. The top third of the slide at most. If you're lucky enough to be able to present this in a narrative form, a paragraph or two should do it.
 
-### 2. Clear outline of options available
+### Clear outline of options available
 
 This is your opportunity to describe the options your and your team have come up with to solve the problem described above. You have lead the team through the process of narrowing options down, ideally into two. These can be as simple as "Do X" and "Do nothing". Somewhat rarely, you might include three options but do try to avoid this. A middle-ground here is to include your third or additional options in an appendix - not worth including in the main event but helpful to show the thoroughness of evaluation.
 
 If you're using PowerPoint this should also be part of the first slide, middle third, broken into one column/horizontal section per option. You may also include dedicated slides to expand on each option, including financials and any relevant diagrams for your preferred option. If you're writing this in narrative form then one subsection each.
 
-### 3. So what?
+### So what?
 
 The point of any options paper, whether it be PowerPoint, narrative or other is to leave the audience with one or two conclusions. Ideally they feel they have reached these conclusions themselves based on what they learned from your work. You are persuading them to [understand and agree with your point of view, and adopt your recommendations](https://www.speakwithpersuasion.com/6-types-of-goals/#item3).
 
