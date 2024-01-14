@@ -5,10 +5,10 @@ author: michael-robinson
 date: "2024-04-10"
 categories: [management]
 tags: [organisations, culture, featured, influence]
-image: "/images/placeholder.jpg"
+image: "/images/what-is-an-options-paper.jpg"
 ---
 
-As organisations grow there is a shift from singleton decisions and responsibility to spreading of responsibility and decisions being reached often by influence and argument.
+Options papers frame a problem and outline what support needed to solve it. Large organisations use them to decide where to spend money and time. Learn how to write options papers here.
 
 It is common in very large organisations to find that only a small handful of individuals can make decisions, and that even their decisions require sign-off from above before being enacted. This is especially true when it comes to decisions involving the spending of money, whether it is is spent by purchasing a product or service or the time of existing employees. These form part of a governance framework that makes up the checks & balances intended to prevent duplicate efforts, increased variance in the system and movements away from a strategic direction.
 
@@ -43,14 +43,55 @@ The paper should be no more than 4-5 pages long (including graphs if necessary) 
 
 ### 1. Clear explanation of the problem
 
+As concisely as possible, describe the problem that needs solving here. Some questions to prompt you, that your audience _will ask_ are:
+
+- What issues is this problem causing us?
+- Why is this a problem now?
+- How urgent is it?
+- MORE HERE
+
+The point of this section is to leave the reader absolutely clear on why this deserves their attention.
+
+If you're using PowerPoint, this should be part of the first slide and no more than a couple of sentences. The top third of the slide at most. If you're lucky enough to be able to present this in a narrative form, a paragraph or two should do it.
+
 ### 2. Clear outline of options available
+
+This is your opportunity to describe the options your and your team have come up with to solve the problem described above. You should have lead the team through the process of narrowing options down, ideally into two. These can be as simple as "Do X" and "Do nothing". Somewhat rarely, you might include three options but do try to avoid this. A middle-ground here is to include your third or additional options in an appendix - not worth including in the main event but included to show the thoroughness of evaluation.
+
+If you're using PowerPoint this should also be part of the first slide, middle third, broken into one column/horizontal section per option. If you're writing this in narrative form then one subsection each.
 
 ### 3. So what?
 
+The point of any options paper, whether it be PowerPoint, narrative or other is to leave the audience with one or two conclusions. Ideally they feel they have reached these conclusions themselves based on what they learned from your work. You are persuading them to [understand and agree with your point of view, and adopt your recommendations](https://www.speakwithpersuasion.com/6-types-of-goals/#item3).
+
+The "So what" is the what your audience would say if they were asked about your work in the lift.
+
+In PowerPoint, I like to include this in the bottom third, one section per option. In a narrative presentation, these should be presented at the top of each option.
+
 ## Think of the audience
+
+Tailor your work to suit your audience. If it is for strongly technical people, technical terms and jargon might be OK (always safer to err on the side of caution and avoid confusion). If you are convincing a group consisting perhaps of a Head of Engineering, a COO, and CIO, your format and word choices may change. Consider who your work will be consumed by _before_ starting. It's much easier to write for your audience than to rewrite a finished paper.
+
+Identify one or two test audience members and ask them to review early drafts.
 
 ## Design matters
 
+{% picture jpt-webp "/images/what-is-an-options-paper-1.jpg" --alt {{ What is an options paper }} --picture class="post-inline-image-right" %}
+
+I've seen many attempts to persuade high level managers fall down because of poor design. Technical people seem to either be unwilling to accept or ignorant of the value of good design, both in terms of visual and accessibility in visual work. When presenting to executives or their direct reports, you are competing with _every department in the company_ for time, not just your fellow technologists. Do you think HR, Marketing, Sales and Property ignore design elements common to the company's brand? Do they use accessible language and good formatting? If they do and you do not, you run the risk of being unreasonably ignored and your request prioritised lower than competition.
+
+Like it or not, management has competitive elements. Every middle manager and above has their own ideas about how to solve problems blocking successful execution of strategy but there is only so much resource to go around. Don't fail because you don't personally see the value of a good looking pack or document.
+
+I spent my early career as a front end engineer and worked directly with designers daily. I know enough to be able to search the intranet for brand guidelines and templates and use them. I know when I've reached my limit and have forged relationthips with colleagues in CX/UX who I can ask for advice and review when necessary.
+
 ## Politics and pre-sign off, shopping it around
 
+You've written your options paper and think you're ready. You're finished _early_, of course. Don't put it aside and wait - the meeting where you discuss your paper is the end, not the beginning. Generally, the people you want to convince want you to succeed. Use this to your advantage and ask for a final review or a pre-meet to go over the main points. The more heavily governed your organisation is, the more important this step will be.
+
+The goal of this step is to ensure key decision makers are comfortable with the work you've done, think you've covered the main questions and have had an opportunity to ask anything not covered. This gives you an opportunity to cover these new questions or actions before the final session.
+
 ## Nothing is perfect, learn and iterate
+
+This is not something you will ever perfect, and your first attempts will be far from it. As with any management skill, what is effective will depend on your context. Learning the basics will get you to the table.
+
+When you see a problem blocking your company from succeeding, whether at your squad, wider team or departmental level, discuss it with your manager and consider proposing writing and presenting an options paper outlining how you'd like to solve it, what you need and why.

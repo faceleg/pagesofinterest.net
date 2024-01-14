@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Career Framework - A Basic"
+title: "A Career Framework is Fundamental Requirement"
 author: michael-robinson
 date: "2025-02-10"
 categories: [management]
