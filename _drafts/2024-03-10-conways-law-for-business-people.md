@@ -2,13 +2,22 @@
 layout: post
 title: "Conway's Law for Business People"
 author: michael-robinson
-date: "2024-02-10"
+date: "2024-03-10"
 categories: [leadership]
 tags: [organisations, culture, featured]
 image: "/images/conways-law-for-business-people.jpg"
 ---
 
 Conway's Law is that teams will create products that reflect the structures of the organsiation they work within. Learn how to use this to your advantage.
+
+## Jump to Section
+
+1.  [Introduction](#introduction)
+2.  [Is it IT specific?](#is-it-it-specific?)
+3.  [Why does this law matter?](#why-does-this-law-matter?)
+4.  [How to combine it with business vision](#how-to-combine-it-with-business-vision)
+
+## Introduction
 
 This observation remains relevant today, but not solely to IT teams\*. I suggest it is relevant to us all, from strategy all the way down. [Melvin Conway](https://en.wikipedia.org/wiki/Melvin_Conway) was a computer scientist who coined this law in 1967:
 
