@@ -12,17 +12,17 @@ Options papers frame a problem and outline what support needed to solve it. Larg
 
 ## Jump to section
 
-1.  [Introduction](#introduction)
-2.  [What is an options paper for, what makes one great?](#what-is-an-options-paper-for,-what-makes-one-great?)
-    1. [Clear explanation of the problem](#clear-explanation-of-the-problem)
-    2. [Clear outline of options available](#clear-outline-of-options-available)
-    3. [So what?](#so-what?)
-3.  [Think of the audience](#think-of-the-audience)
-    1. [Writing style](#writing-style)
-    2. [Design matters](#design-matters)
-4.  [Politics and pre-sign off, shopping it around](#politics-and-pre-sign-off,-shopping-it-around)
-5.  [The presentation](#the-presentation)
-6.  [Nothing is perfect, learn and iterate](#nothing-is-perfect,-learn-and-iterate)
+1. [Introduction](#introduction)
+2. [What is an options paper for, what makes one great?](#what-is-an-options-paper-for-what-makes-one-great)
+   1. [Clear explanation of the problem](#clear-explanation-of-the-problem)
+   2. [Clear outline of options available](#clear-outline-of-options-available)
+   3. [So what?](#so-what)
+3. [Think of the audience](#think-of-the-audience)
+   1. [Writing style](#writing-style)
+   2. [Design matters](#design-matters)
+4. [Politics and pre-sign off, shopping it around](#politics-and-pre-sign-off-shopping-it-around)
+5. [The presentation](#the-presentation)
+6. [Nothing is perfect, learn and iterate](#nothing-is-perfect-learn-and-iterate)
 
 ## Introduction
 
