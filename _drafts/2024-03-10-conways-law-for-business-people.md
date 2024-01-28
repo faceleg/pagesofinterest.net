@@ -12,10 +12,10 @@ Conway's Law is that teams will create products that reflect the structures of t
 
 ## Jump to Section
 
-1.  [Introduction](#introduction)
-2.  [Is it IT specific?](#is-it-it-specific?)
-3.  [Why does this law matter?](#why-does-this-law-matter?)
-4.  [How to combine it with business vision](#how-to-combine-it-with-business-vision)
+1. [Introduction](#introduction)
+2. [Is it IT specific?](#is-it-it-specific)
+3. [Why does this law matter?](#why-does-this-law-matter)
+4. [How to combine it with business vision](#how-to-combine-it-with-business-vision)
 
 ## Introduction
 
