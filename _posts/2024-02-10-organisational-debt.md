@@ -2,7 +2,7 @@
 layout: post
 title: "Organisational Debt"
 author: michael-robinson
-date: "2024-02-11"
+date: "2024-02-10"
 categories: [transformation]
 tags: [organisations, culture, featured]
 image: "/images/organisational-debt.jpg"
