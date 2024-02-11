@@ -62,6 +62,8 @@ There is a simple checklist one can work through to identify how well or poorly 
 4. What can we stop doing?
 5. What should we start doing?
 
+This is a helpful way to focus attention on these five key areas that can make or break success in a company or large team.
+
 ## How can one remediate organisational debt?
 
 When organisational debt becomes obvious, the fix will be difficult and disruptive. If the company's strategy has changed and available capability is insufficient (both in terms of people, processes and technical systems), then it is likely the fundamental organisational structure is not optimal. There may also be numerous workstreams or activities underway that are eating capacity better used elsewhere.
