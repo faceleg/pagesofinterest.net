@@ -10,7 +10,7 @@ image: "/images/organisational-debt.jpg"
 
 We're familiar with financial debt. Workers in IT understand technical debt. Recognising organisational debt and how to manage it is important for leaders to succeed in their mission.
 
-Organisational debt is a limit to success. Money, people and other resources can support growth despite it but true and fundamental success is impossible without addressing it. This requires an understanding of the topic and awareness of how it develops alongside a willingness and ability to reshape organisations and behavior towards better outcomes.
+Organisational debt is a limit to success. Money, people and other resources can support growth despite it but true and fundamental success is impossible without addressing it. This requires an understanding of the topic and awareness of how it develops alongside a willingness and ability to reshape organisations and behaviour towards better outcomes.
 
 ## Jump to section
 
