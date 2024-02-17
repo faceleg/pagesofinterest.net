@@ -14,11 +14,10 @@ Organisational debt is a limit to success. Money, people and other resources can
 
 ## Jump to section
 
-1. [Jump to Section](#jump-to-section)
-2. [What is organisational debt?](#what-is-organisational-debt)
-3. [What causes organisational debt?](#what-causes-organisational-debt)
+1. [What is organisational debt?](#what-is-organisational-debt)
+2. [What causes organisational debt?](#what-causes-organisational-debt)
    1. [Organisational debt checklist](#organisational-debt-checklist)
-4. [How can one remediate organisational debt?](#how-can-one-remediate-organisational-debt)
+3. [How can one remediate organisational debt?](#how-can-one-remediate-organisational-debt)
 
 ## What is organisational debt?
 
