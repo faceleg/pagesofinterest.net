@@ -14,16 +14,16 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@shopify/prettier-plugin-liquid": "^1.4.1",
-    "markdownlint-cli": "^0.38.0",
-    "npm-check-updates": "^16.14.14",
-    "prettier": "^3.2.4",
+    "@shopify/prettier-plugin-liquid": "^1.4.4",
+    "markdownlint-cli": "^0.39.0",
+    "npm-check-updates": "^16.14.17",
+    "prettier": "^3.2.5",
     "purgecss": "^5.0.0",
-    "stylelint": "^16.2.0",
+    "stylelint": "^16.2.1",
     "stylelint-config-standard": "^36.0.0"
   },
   "devDependencies": {
-    "eslint": "^8.56.0",
+    "eslint": "^8.57.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-n": "^16.6.2",
