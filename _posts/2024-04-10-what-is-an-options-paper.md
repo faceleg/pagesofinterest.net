@@ -2,7 +2,7 @@
 layout: post
 title: "What is an options paper"
 author: michael-robinson
-date: "2024-04-10"
+date: "2024-04-26"
 categories: [management]
 tags: [organisations, culture, featured, influence]
 image: "/images/what-is-an-options-paper.jpg"
