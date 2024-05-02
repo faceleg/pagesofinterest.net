@@ -51,7 +51,7 @@ A great options paper offers four major components:
 2. A clear outline of the options available (usually no more than 3, 2 is better), with a clear winner
 3. A blindingly obvious "so what" that outlines what happens if you _do not_ get what you are asking for
 
-The fourth doesn't go into your options paper, it needs to be an understanding within yourself. You need to understand that you get denied. Separate your emotions from this work. If you fail, understand why and possibly try again, don't let it beat you down. Consider why you failed - what context were you missing? What questions couldn't you answer? And incorporate those learnings into your next attempt.
+The fourth doesn't go into your options paper, it needs to be an understanding within yourself. You need to understand that you could get denied. Separate your emotions from this work. If you fail, understand why and possibly try again, don't let it beat you down. Consider why you failed - what context were you missing? What questions couldn't you answer? And incorporate those learnings into your next attempt.
 
 The paper should be no more than 4-5 pages long (including graphs if necessary) if written, and no more than 4 slides if assembled in presentation style. Personally I prefer written papers but you will need to follow norms within your organisation here.
 
