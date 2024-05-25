@@ -5,7 +5,7 @@ author: michael-robinson
 date: "2024-05-26"
 categories: [Leadership]
 tags: [culture, featured]
-image: "/images/now-next-later-worker.webp"
+image: "/images/now-next-later-bunnies.webp"
 ---
 
 Leaders need to show plans and progress up and down the chain. Using the now, next, later format helps gather and format ideas into a shareable intelligent format.
@@ -24,6 +24,6 @@ Fundamentally the now, next, later roadmap consists of three columns showing wor
 
 It's that simple. Any ticket-based management software (MS Whiteboard, ProdPad, MIRO) can accommodate it, failing that use excel or a physical board and post-its. Janna goes into great detail in her post [Why Janna Invented the Now-Next-Later Roadmap](https://www.prodpad.com/blog/invented-now-next-later-roadmap/).
 
-{% picture jpt-webp "/images/now-next-later-bunnies.webp" --alt {{ Now Next Later }} --picture class="post-inline-image-right" %}
+{% picture jpt-webp "/images/now-next-later-worker.webp" --alt {{ Now Next Later }} --picture class="post-inline-image-right" %}
 
 The combination of freedom within constraints make this tool excellent in group sessions and will build out to a solid base for your next step, whether that's refining what's next or digging into multiple streams to produce a formal, standard roadmap.
