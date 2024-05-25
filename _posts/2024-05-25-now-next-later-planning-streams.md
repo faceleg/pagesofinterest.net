@@ -2,13 +2,13 @@
 layout: post
 title: "Plan Streams with Now, Next, Later"
 author: michael-robinson
-date: "2024-05-26"
+date: "2024-05-25"
 categories: [Leadership]
 tags: [culture, featured]
-image: "/images/now-next-later-bunnies.webp"
+image: "/images/now-next-later-3-bunnies.webp"
 ---
 
-Leaders need to show plans and progress up and down the chain. Using the now, next, later format helps gather and format ideas into a shareable intelligent format.
+Leaders need to show vision, plans and progress up and down the chain. Using the now, next, later format helps gather and format ideas into a shareable intelligent format.
 
 A leader must develop and show a vision to the organisation. This vision needs to be aligned to the organisation's overall strategy. The team needs to feel they are achieving material progress towards strategic goals quarter by quarter. The now, next, later framework helps formulate these in a structured manner.
 
