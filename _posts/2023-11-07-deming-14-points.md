@@ -14,23 +14,22 @@ Deming's teachings are profoundly affecting how I view challenges faced at work.
 
 - [Introduction](#introduction)
 - [The 14 Points](#the-14-points)
-    - [Create a constant purpose toward improvement](#create-a-constant-purpose-toward-improvement)
-    - [Adopt the new philosophy](#adopt-the-new-philosophy)
-    - [Stop depending on inspections](#stop-depending-on-inspections)
-    - [Use a single supplier for any one item](#use-a-single-supplier-for-any-one-item)
-    - [Improve constantly and forever](#improve-constantly-and-forever)
-    - [Use training on the job](#use-training-on-the-job)
-    - [Implement leadership](#implement-leadership)
-    - [Psychological safety](#psychological-safety)
-    - [Break down barriers between departments](#break-down-barriers-between-departments)
-    - [Get rid of unclear slogans](#get-rid-of-unclear-slogans)
-    - [Eliminate management by objectives](#eliminate-management-by-objectives)
-    - [Remove barriers to pride of workmanship](#remove-barriers-to-pride-of-workmanship)
-    - [Implement education and self-improvement](#implement-education-and-self-improvement)
-    - [Make transformation everyone's job](#make-transformation-everyones-job)
+  - [Create a constant purpose toward improvement](#1-create-a-constant-purpose-toward-improvement)
+  - [Adopt the new philosophy](#2-adopt-the-new-philosophy)
+  - [Stop depending on inspections](#3-stop-depending-on-inspections)
+  - [Use a single supplier for any one item](#4-use-a-single-supplier-for-any-one-item)
+  - [Improve constantly and forever](#5-improve-constantly-and-forever)
+  - [Use training on the job](#6-use-training-on-the-job)
+  - [Implement leadership](#7-implement-leadership)
+  - [Psychological safety](#8-psychological-safety)
+  - [Break down barriers between departments](#9-break-down-barriers-between-departments)
+  - [Get rid of unclear slogans](#10-get-rid-of-unclear-slogans)
+  - [Eliminate management by objectives](#11-eliminate-management-by-objectives)
+  - [Remove barriers to pride of workmanship](#12-remove-barriers-to-pride-of-workmanship)
+  - [Implement education and self-improvement](#13-implement-education-and-self-improvement)
+  - [Make transformation everyone's job](#14-make-transformation-everyones-job)
 
 <!-- /TOC -->
-
 ## Introduction
 
 If you want to learn more from the source, I recommend [The Essential Deming](https://deming.org/the-essential-deming-new-book-on-dr-deming-work/), a collection of speeches, essays and lectures from the father of quality.
@@ -51,7 +50,7 @@ If you want to learn more from the source, I recommend [The Essential Deming](ht
 - Be prepared for a major change in the way business is done. It's about leading, not simply managing.
 - Create your quality vision, and implement it.
 
-### 3.Stop depending on inspections
+### 3. Stop depending on inspections
 
 - Inspections are costly and unreliable – and they don't improve quality, they merely find a lack of quality.
 - Build quality into the process from start to finish.
