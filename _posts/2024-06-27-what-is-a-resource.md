@@ -32,9 +32,9 @@ This level of abstraction allows communication to remain concise and focused, wh
 
 ## Managers: when to and when not to use it
 
-This will depend on your workplace culture. Keep in mind the connotations that can come with this word for audiences that may not understand its meaning or appreciate its use. It is never good to alienate your workforce or make them feel dehumanized.
+This will depend on your workplace culture. Keep in mind the connotations that can come with this word for audiences that may not understand its meaning or appreciate its use. It is never good to alienate your workforce or make them feel dehumanised.
 
-Always tailor your communication to your audience. Writing a report for your superiors? Be concise and factual. Answering questions in a company or departmental ask-me-anything session? Humanize your language and simplify it so everyone understands your meaning, not just your words.
+Always tailor your communication to your audience. Writing a report for your superiors? Be concise and factual. Answering questions in a company or departmental ask-me-anything session? Humanise your language and simplify it so everyone understands your meaning, not just your words.
 
 ## Contributors: what does it mean to be referred to this way?
 
@@ -44,7 +44,7 @@ Remember, we have entire departments with this label: Human Resources. Our time 
 
 ## Final point on abstractions in corporates
 
-Everything is numbers. [Hema Patel](https://www.linkedin.com/in/hema-patel-3271b334) once taught me that if one cannot summarize a problem in numbers, one doesn't understand the problem.
+Everything is numbers. [Hema Patel](https://www.linkedin.com/in/hema-patel-3271b334) once taught me that if one cannot summarise a problem in numbers, one doesn't understand the problem.
 
 {% picture jpt-webp "/images/what-is-a-resource-1.webp" --alt {{ What is a Resource }} --picture class="post-inline-image-left" %}
 
