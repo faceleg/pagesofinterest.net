@@ -11,12 +11,26 @@ Nobody likes being called a resource. Nevertheless, the term is appropriate and 
 
 <!-- TOC -->
 
+- [Introduction](#introduction)
+- [What does Resource abstract?](#what-does-resource-abstract)
 - [Why is it an important term in corporates?](#why-is-it-an-important-term-in-corporates)
 - [Managers: when to and when not to use it](#managers-when-to-and-when-not-to-use-it)
 - [Contributors: what does it mean to be referred to this way?](#contributors-what-does-it-mean-to-be-referred-to-this-way)
 - [Final point on abstractions in corporates](#final-point-on-abstractions-in-corporates)
 
 <!-- /TOC -->
+
+## Introduction
+
+Beyond the basics, all language is an abstraction, allowing us to discuss complex topics efficiently and clearly. We amass knowledge beneath ever-higher pyramids of abstraction, enabling us to discuss increasingly complicated subjects efficiently.
+
+For example, take the word "Oxygen." It abstracts elements of chemistry, physics, and the natural world, labeling the molecule in a way that allows us to discuss topics involving oxygen without needing to describe it every time. Imagine trying to explain what breathing accomplishes without an abstract term for this critical component of the respiratory process!
+
+It's common for contributors to feel offended when referred to as resources, and this is fair enough. Without understanding the purpose of the word, it can seem dehumanizing. This feeling likely stems from a lack of understanding of the term and what it represents.
+
+## What does Resource abstract?
+
+It is more than an alternative to "people" or "person." The word is used to refer to any or all of the following:
 
 1. Full-time employees
 2. Contractors
