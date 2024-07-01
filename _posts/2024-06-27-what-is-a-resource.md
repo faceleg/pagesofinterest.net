@@ -26,7 +26,7 @@ Beyond the basics, all language is an abstraction, allowing us to discuss comple
 
 For example, take the word "Oxygen." It abstracts elements of chemistry, physics, and the natural world, labeling the molecule in a way that allows us to discuss topics involving oxygen without needing to describe it every time. Imagine trying to explain what breathing accomplishes without an abstract term for this critical component of the respiratory process!
 
-It's common for contributors to feel offended when referred to as resources, and this is fair enough. Without understanding the purpose of the word, it can seem dehumanizing. This feeling likely stems from a lack of understanding of the term and what it represents.
+It's common for contributors to feel offended when referred to as resources, and this is fair enough. Without understanding the purpose of the word, it can seem dehumanising. This feeling likely stems from a lack of understanding of the term and what it represents.
 
 ## What does Resource abstract?
 
