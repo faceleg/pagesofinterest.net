@@ -1,6 +1,5 @@
 // purgecss.config.js
 
-// eslint-disable-next-line no-undef
 module.exports = {
   // These are the files that Purgecss will search through
   content: ["./docs/**/*.html"],
