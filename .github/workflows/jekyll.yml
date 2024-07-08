@@ -49,7 +49,7 @@ jobs:
       - uses: sibiraj-s/action-eslint@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }} # optional
-          eslint-args: "--ignore-path=.gitignore --quiet"
+          eslint-args: "--quiet"
           extensions: "js"
           annotations: true
           all-files: true
