@@ -4,7 +4,7 @@ title: "The Three Threads of Leadership"
 author: michael-robinson
 date: "2023-12-03"
 categories: [leadership]
-tags: [sticky, improvement, culture, featured]
+tags: [improvement, culture, featured]
 image: "/images/the-three-threads-of-leadership-1.jpg"
 ---
 
