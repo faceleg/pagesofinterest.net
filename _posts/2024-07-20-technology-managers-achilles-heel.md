@@ -21,7 +21,6 @@ Organisations succeed or fail on the strength of internal communication. Many te
   - [Review](#review)
   - [Repeat, Send](#repeat-send)
 - [Principle of simplicity](#principle-of-simplicity)
-- [Executives can ask questions](#executives-can-ask-questions)
 
 <!-- /TOC -->
 
@@ -101,4 +100,6 @@ Realise even the most well-formed reply may result in follow-up questions - thes
 
 ## Principle of simplicity
 
-Communication is hard and large organisations are complicated. Keep your communication simple, to the point, and unambiguous. Craft your reply to suit the audience and be ready to field follow-ups. Each interaction is an opportunity to help push the organisation forward, keep this in mind and put the appropriate amount of thought into your words.
+Communication is hard and large organisations are complicated. Keep your communication simple, to the point, and unambiguous. 
+
+Craft your reply to suit the audience and be ready to field follow-ups. Each interaction is an opportunity to help push the organisation forward, keep this in mind and put the appropriate amount of thought into your words.
