@@ -140,8 +140,19 @@ asset_pipeline:
   gzip: true
 
 # jekyll-purgecss
-css_dir: "assets" 
+css_dir: "assets"
 
 # jekyll_picture_tag
 picture:
   ignore_missing_images: true
+
+# https://github.com/penibelst/jekyll-compress-html?tab=readme-ov-file
+compress_html:
+  clippings: []
+  comments: []
+  endings: []
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: []
