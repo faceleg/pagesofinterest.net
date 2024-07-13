@@ -5,5 +5,7 @@ module.exports = {
   content: ["./_site/**/*.html"],
 
   // These are the stylesheets that will be subjected to the purge
-  css: ["./_site/assets/*.css"]
+  css: ["./_site/assets/*.css"],
+  fontFace: true,
+  keyframes: true
 };
