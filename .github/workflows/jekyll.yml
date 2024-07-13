@@ -77,7 +77,7 @@ jobs:
         with:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
-          ruby-version: 3.1.4
+          ruby-version: 3.2
       - uses: actions/setup-node@v4
         with:
           node-version: 21
