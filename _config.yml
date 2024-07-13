@@ -140,7 +140,7 @@ asset_pipeline:
   gzip: true
 
 # jekyll-purgecss
-css_dir: "assets" # defaults to "css"
+css_dir: "assets" 
 
 # jekyll_picture_tag
 picture:
