@@ -28,9 +28,9 @@ Organisations succeed or fail on the strength of internal communication. Many te
 
 The wider an area one is responsible for, the more one will be called on to provide updates, answer questions, and generally represent varied work. These questions come from peers and the layers above.
 
-Those of us who were previously engineers are often not good at responding to these questions. Depending on the circumstances and who is asking, it is common for explanations to devolve into discussions of minute details, burying the answer in a sea of irrelevant or confusing technicalities, often missing the point entirely.
+Those of us who were previously engineers are often not good at responding to these questions. Depending on the circumstances and who is asking, it is common for explanations to devolve into discussions of minute details, burying the answer in a sea of irrelevant or confusing technicalities, often missing the point entirely. Avoid this becoming your Achilles heel.
 
-This doesn't feel good as the responder. It can cause the requester to be frustrated, waste time with clarifying questions, and reduce the chances they'll come to you with these questions next time.
+Failing to adequately and concisely respond to a query doesn't feel good as the responder. It can cause the requester to be frustrated, waste time with clarifying questions, and reduce the chances they'll come to you with these questions next time.
 
 This is not good for career advancement; it does not help the organisation win.
 
