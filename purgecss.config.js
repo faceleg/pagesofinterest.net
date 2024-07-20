@@ -7,5 +7,6 @@ module.exports = {
   // These are the stylesheets that will be subjected to the purge
   css: ["./_site/assets/*.css"],
   fontFace: true,
-  keyframes: true
+  keyframes: true,
+  safelist: ["header-link", "header-link-before", "header-link-after"]
 };
