@@ -108,13 +108,10 @@ autopages:
 exclude:
   [
     .stylelintrc.json,
-    Gruntfile.coffee,
-    Gruntfile.js,
     README.markdown,
     _compress_images_cache.yml,
     build.sh,
     docs,
-    grunt.js,
     install-brew-dependencies.sh,
     node_modules,
     package-lock.json,
