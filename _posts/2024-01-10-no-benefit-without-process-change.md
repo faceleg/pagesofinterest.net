@@ -45,7 +45,7 @@ Using the SonarQube example above, what needed to change in order to get the mos
 
 ## Power, limitations, rules old and new
 
-{% picture jpt-webp "/images/no-benefit-without-process-change-1.jpg" --alt {{ The Three Threads of Leadership }} --picture class="post-inline-image-right" %}
+{% picture post-inline "/images/no-benefit-without-process-change-1.jpg" --alt {{ The Three Threads of Leadership }} --picture class="post-inline-image-right" %}
 
 When working through options for action that require a new tool or system to succeed, this cheat sheet can be useful to ensure participants are thinking of second and third degree changes required alongside the act itself. For each suggestion, ask:
 

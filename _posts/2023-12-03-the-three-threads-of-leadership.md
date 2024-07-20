@@ -44,7 +44,7 @@ This is the one element of leadership that really has to come from the line mana
 
 ## The Threads Together
 
-{% picture jpt-webp "images/the-three-threads-of-leadership.jpg" --alt {{ The Three Threads of Leadership }} --picture class="post-inline-image-left" %}
+{% picture post-inline "images/the-three-threads-of-leadership.jpg" --alt {{ The Three Threads of Leadership }} --picture class="post-inline-image-left" %}
 
 An effective team can only work if all three threads of leadership are working together and aligned. The Coach should have a connection to the Mentor and Director to help them understand context around your efforts, and will be the one colleagues come to if they have feedback about you they don't feel comfortable discussing directly.
 

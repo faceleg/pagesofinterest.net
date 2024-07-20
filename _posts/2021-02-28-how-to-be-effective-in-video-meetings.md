@@ -55,7 +55,7 @@ This will allow you to hear everything people say the first time, and allow them
 
 ### Turn on your video
 
-{% picture jpt-webp "images/how-to-be-effective-in-video-meetings-1.jpg" --alt {{ How to be Effective in Video Meetings }} --picture class="post-inline-image-center" %}
+{% picture post-inline "images/how-to-be-effective-in-video-meetings-1.jpg" --alt {{ How to be Effective in Video Meetings }} --picture class="post-inline-image-center" %}
 
 Don't be shy - we're used to looking at your face at work, it did OK there, it'll do great in video meetings too. Switching video on adds an entire new level of information to a meeting - we can read facial expressions, predict when it might be a good time to interject and generally get much more out of a meeting.
 

@@ -29,12 +29,10 @@ layout: default
           <div class="d-flex align-items-center">
             <a href="{{ author.url }}">
               {% if author.avatar %}
-              <img
-                class="rounded-circle"
-                src="{{author.avatar}}"
-                alt="{{author.name}}"
-                width="70"
-              />
+                {% picture avatar 
+                  "{{author.avatar}}" 
+                  --alt {{ author.name }} 
+                  --img class="rounded-circle avatar-header" width="70" height="70" %}
               {% endif %}
             </a>
             <small class="ml-3">
@@ -56,8 +54,8 @@ layout: default
         </div>
         {% if page.image %}
         <div class="col-md-6 pr-0 align-self-center">
-          {% picture jpt-webp {{ page.image }} --alt {{ page.title}} --picture
-          class="rounded" %}
+          {% picture post-header {{ page.image }} --alt {{ page.title}} 
+            --picture class="rounded post-header" %}
         </div>
         {% endif %}
       </div>
@@ -89,12 +87,13 @@ layout: default
       <div class="row mt-5">
         <div class="col-md-2 align-self-center">
           {% if author.avatar %}
-          <img
-            class="rounded-circle"
-            src="{{ author.avatar }}"
-            alt="{{author.name}}"
-            width="90"
-          />
+          <a href="{{ author.url }}">
+            {% picture avatar 
+              "{{author.avatar}}" 
+              --alt {{ author.name }} 
+              --img class="rounded-circle avatar-footer" width="90" height="90"
+            %}
+          </a>
           {% endif %}
         </div>
         <div class="col-md-10">

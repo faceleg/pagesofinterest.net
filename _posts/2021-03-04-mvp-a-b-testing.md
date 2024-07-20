@@ -44,7 +44,7 @@ Sixpack offers the basic features required to get an organisation started with A
 
 ## A/B Testing and Rolls Royce
 
-{% picture jpt-webp "images/mvp-a-b-testing-1.jpg" --alt {{ MVP A/B Testing }} --picture class="post-inline-image-center" %}
+{% picture post-inline "images/mvp-a-b-testing-1.jpg" --alt {{ MVP A/B Testing }} --picture class="post-inline-image-center" %}
 
 Our experience with sixpack was excellent. It provided all the features we needed, and cost nothing more than the hosting infrastructure it ran on. Maintenance was negligible. Although it did prove the value of A/B testing for the business, we never outgrew it.
 

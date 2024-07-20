@@ -77,7 +77,7 @@ When things get into this state we start hearing talk of "Transformation", which
 
 Whether a company succeeds in transformation will depend on how well leadership understands organisational debt, whether they have the support and tenacity to see the work required to resolve it through and of course, whether the new strategy is any good.
 
-{% picture jpt-webp "/images/organisational-debt-1.jpg" --alt {{ Organisational Debt }} --picture class="post-inline-image-left" %}
+{% picture post-inline "/images/organisational-debt-1.jpg" --alt {{ Organisational Debt }} --picture class="post-inline-image-left" %}
 
 Transformation is about the most difficult exercise for an organisation. The larger the company the harder it will be. Knowing _why_ things are the way they are and considering _how the organisation should be shaped to achieve the new goals_ are critical.
 

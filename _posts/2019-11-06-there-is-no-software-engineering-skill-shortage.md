@@ -62,7 +62,7 @@ Programming is becoming a commodity skill, complemented by people skills, backgr
 
 ### Be careful of subtle biases in your hiring material
 
-{% picture jpt-webp "images/there-is-no-software-engineering-skill-shortage-2.jpg" --alt {{ There is no Software Engineering Skills Shortage }} --picture class="post-inline-image-center" %}
+{% picture post-inline "images/there-is-no-software-engineering-skill-shortage-2.jpg" --alt {{ There is no Software Engineering Skills Shortage }} --picture class="post-inline-image-center" %}
 
 **Preamble**: Research shows there are significant advantages to be gained by having a diverse and inclusive team. Topics in this section have been written about extensively, including articles in Forbes, Gartner and the Harvard Business Review: <a href="https://www.forbes.com/sites/forbescoachescouncil/2019/09/09/the-benefits-of-creating-a-diverse-workforce/#5fa0cd8d140b" target="_blank">diverse teams doing the right thing most of the time</a>, <a href="https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/" target="_blank">generally perform better than monocultures</a> and <a href="https://hbr.org/2019/11/how-the-best-bosses-interrupt-bias-on-their-teams?ab=hero-main-text" target="_blank">how to disrupt bias on your existing teams</a>.
 
@@ -204,7 +204,7 @@ Both engineers finished their task in the same amount of time - the difference i
 
 As a manager, I want team members who proactively look to fill holes in their understanding of the underlying reasons for their work, and who raise flags early. I do not want team members who go silent for weeks and surface only with what they consider a "finished" feature.
 
-{% picture jpt-webp "images/there-is-no-software-engineering-skill-shortage-1.jpg" --alt {{ There is no Software Engineering Skills Shortage }} --picture class="post-inline-image-center" %}
+{% picture post-inline "images/there-is-no-software-engineering-skill-shortage-1.jpg" --alt {{ There is no Software Engineering Skills Shortage }} --picture class="post-inline-image-center" %}
 
 **Solution**: Consider how to interview and screen for applicants who possess the interpersonal skills, flexibility and communication ability that make for a great team. Do not fall into the trap of hiring for technical ability alone.
 

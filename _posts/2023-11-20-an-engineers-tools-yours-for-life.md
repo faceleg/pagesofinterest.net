@@ -24,7 +24,7 @@ Numbness and pain, starting in the pinkies-developing upwards through the outsid
 
 ## Solution Part #1: A New Virtual Input Method
 
-{% picture jpt-webp "images/an-engineers-tools-yours-for-life-hands-vim-learning-curve.jpg" --alt {{ Vim leaning curve }} --picture class="post-inline-image-left" %}
+{% picture post-inline "images/an-engineers-tools-yours-for-life-hands-vim-learning-curve.jpg" --alt {{ Vim leaning curve }} --picture class="post-inline-image-left" %}
 
 I was a month away from starting a new job and efficient in my current work. I took this as an opportunity to change habits. I discovered Vim, and learned that it was designed to split reading and writing, a modal editor. The options it gives to minimise finger movement seemed ideal. The learning curve was steep!
 
@@ -40,7 +40,7 @@ Do your brain a favour and learn Vim today.
 
 ## Solution Part #2: A New Physical Input Method
 
-{% picture jpt-webp "images/an-engineers-tools-yours-for-life-hands.jpg" --alt {{ Kinesis Advantage360 }} --picture class="post-inline-image-left" %}
+{% picture post-inline "images/an-engineers-tools-yours-for-life-hands.jpg" --alt {{ Kinesis Advantage360 }} --picture class="post-inline-image-left" %}
 
 Months into my new job, responsible for technology within a small company, doing my work and fixing any mistakes or omissions by the team, the pain came back with a vengeance.
 
@@ -55,7 +55,7 @@ Thumbs are strong, pinkies are not. This made a big difference to me. The pain w
 
 ## Solution Part #3: Lost Youth
 
-{% picture jpt-webp "images/an-engineers-tools-yours-for-life-hands-exercise.jpg" --alt {{ Exercising Animal }} --picture class="post-inline-image-left" %}
+{% picture post-inline "images/an-engineers-tools-yours-for-life-hands-exercise.jpg" --alt {{ Exercising Animal }} --picture class="post-inline-image-left" %}
 
 You won't believe it until your time but bodies wear out and require maintenance. We can ride youth for a while but it catches up to you.
 

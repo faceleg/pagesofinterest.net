@@ -60,7 +60,7 @@ Remember, we have entire departments with this label: Human Resources. Our time 
 
 Everything is numbers. [Hema Patel](https://www.linkedin.com/in/hema-patel-3271b334) once taught me that if one cannot summarise a problem in numbers, one doesn't understand the problem.
 
-{% picture jpt-webp "/images/what-is-a-resource-1.webp" --alt {{ What is a Resource }} --picture class="post-inline-image-left" %}
+{% picture post-inline "/images/what-is-a-resource-1.webp" --alt {{ What is a Resource }} --picture class="post-inline-image-left" %}
 
 This means you, me, and the seats we sit on all live in a spreadsheet somewhere and are summed, divided, costed, and accounted for. The word "resource" is simply a linguistic reflection of this fact.
 

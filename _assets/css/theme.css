@@ -1127,6 +1127,11 @@ div.a2a_full_footer {display:none;}
 	margin-left: 10px;
 }
 
+.post-inline-image-right img,
+.post-inline-image-left img {
+	height: auto;
+}
+
 .post-inline-image-center {
   width: 100%;
   display: block;
@@ -1146,6 +1151,21 @@ div.a2a_full_footer {display:none;}
     float: none;
 		margin: 0;
   }
+}
+
+.avatar-header {
+	width: 70px;
+	height: 70px;
+}
+
+.avatar-footer {
+	width: 90px;
+	height: 90px;
+}
+
+.post-header img {
+	width: auto;
+	height: auto;
 }
 
 /* Latest posts */

@@ -85,7 +85,6 @@ for (let i = 0; i < headers.length; i++) {
   const id = header.getAttribute("id");
   // If the header element has an id attribute
   if (id) {
-    console.log(id);
     // Create a link element with the same id as the href attribute
     const linkBefore = document.createElement("a");
     linkBefore.classList.add("header-link", "header-link-before");

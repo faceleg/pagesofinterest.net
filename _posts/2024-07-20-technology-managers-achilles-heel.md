@@ -56,7 +56,7 @@ Carefully and with focus, read the request. Don't press reply or start thinking 
 
 ### Think
 
-{% picture jpt-webp "/images/technology-managers-achilles-heel-2.webp" --alt {{ The Technology Manager's Achilles Heel }} --picture class="post-inline-image-right" %}
+{% picture post-inline "/images/technology-managers-achilles-heel-2.webp" --alt {{ The Technology Manager's Achilles Heel }} --picture class="post-inline-image-right" %}
 
 Depending on the combination of seniority, surrounding context, and potential outcomes of the answer, you'll want to spend anywhere from a few minutes to much longer on this step. Knee-jerk responses to high-level management entail a level of risk that is seldom worth taking.
 
@@ -98,7 +98,7 @@ Realise even the most well-formed reply may result in follow-up questions - thes
 
 ## Principle of simplicity
 
-{% picture jpt-webp "/images/technology-managers-achilles-heel-1.webp" --alt {{ The Technology Manager's Achilles Heel }} --picture class="post-inline-image-right" %}
+{% picture post-inline "/images/technology-managers-achilles-heel-1.webp" --alt {{ The Technology Manager's Achilles Heel }} --picture class="post-inline-image-right" %}
 
 Communication is hard and large organisations are complicated. Keep your communication simple, to the point, and unambiguous.
 

@@ -1,0 +1,27 @@
+# https://rbuchberger.github.io/jekyll_picture_tag/users/presets/
+
+presets:
+  avatar:
+    formats: [webp]
+    widths: [70, 140, 210, 90, 180, 270]
+    link_source: false
+    markup: auto
+    nomarkdown: false
+    fallback_format: original
+    dimension_attributes: true
+
+  post-header:
+    formats: [webp]
+    widths: [512, 1024, 1536]
+    link_source: false
+    markup: picture
+    fallback_format: original
+    dimension_attributes: true
+
+  post-inline:
+    formats: [webp]
+    widths: [365, 730, 1095]
+    link_source: false
+    markup: picture
+    fallback_format: original
+    dimension_attributes: true

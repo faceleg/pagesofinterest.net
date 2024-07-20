@@ -79,7 +79,7 @@ If you want to learn more from the source, I recommend [The Essential Deming](ht
 
 ### 7. Implement leadership
 
-{% picture jpt-webp "images/demings-14-points-1.jpg" --alt {{ Deming's 14 Points }} --picture class="post-inline-image-center" %}
+{% picture post-inline "images/demings-14-points-1.jpg" --alt {{ Deming's 14 Points }} --picture class="post-inline-image-center" %}
 
 - Expect your supervisors and managers to understand their workers and the processes they use.
 - Don't simply supervise – provide support and resources so that each staff member can do his or her best. Be a coach instead of a policeman.

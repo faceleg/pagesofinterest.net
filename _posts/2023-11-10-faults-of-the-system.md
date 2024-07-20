@@ -49,7 +49,7 @@ A key element of this definition is that a special cause is specific to a contri
 
 > ...(b) faults of the system, which only management can correct.
 
-{% picture jpt-webp "images/demings-perspective-on-quality-management-understanding-faults-of-the-system.jpg" --alt {{ Deming's Perspective on Quality Management: Understanding Faults of the System }} --picture class="post-inline-image-center" %}
+{% picture post-inline "images/demings-perspective-on-quality-management-understanding-faults-of-the-system.jpg" --alt {{ Deming's Perspective on Quality Management: Understanding Faults of the System }} --picture class="post-inline-image-center" %}
 
 These faults of the system come from a common cause - or causes that are common to groups of people\*.
 

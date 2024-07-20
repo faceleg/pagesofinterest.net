@@ -21,7 +21,7 @@ layout: default
           </p>
           <div class="author-bio-wrapper">
             <p class="excerpt">{{ author.bio }}</p>
-            {% picture jpt-webp {{ author.avatar }} --alt {{ author.name }}
+            {% picture avatar {{ author.avatar }} --alt {{ author.name }}
             --picture class="rounded-circle author-avatar" %}
           </div>
         </div>

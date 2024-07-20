@@ -97,7 +97,7 @@ To ensure you're nailing your content, language and overall style I suggest iden
 
 ### Design matters
 
-{% picture jpt-webp "/images/what-is-an-options-paper-1.jpg" --alt {{ What is an options paper }} --picture class="post-inline-image-right" %}
+{% picture post-inline "/images/what-is-an-options-paper-1.jpg" --alt {{ What is an options paper }} --picture class="post-inline-image-right" %}
 
 I've seen many attempts to persuade high level managers fall down because of poor design. Technical people seem to either be unwilling to accept or ignorant of the value of good design, both in terms of visual and accessibility in visual work. When presenting to executives or their direct reports, you are competing with _every department in the company_ for time, not just your fellow technologists. Do you think HR, Marketing, Sales and Property ignore design elements common to the company's brand? Do they use accessible language and good formatting? If they do and you do not, you run the risk of being unreasonably ignored and your request prioritised lower than competition.
 

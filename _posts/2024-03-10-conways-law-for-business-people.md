@@ -43,7 +43,7 @@ A poorly structured organisation will compete with itself, fighting to solve pro
 
 ## How to combine it with business vision
 
-{% picture jpt-webp "/images/conways-law-for-business-people-1.jpg" --alt {{ Conway's Law }} --picture class="post-inline-image-left" %}
+{% picture post-inline "/images/conways-law-for-business-people-1.jpg" --alt {{ Conway's Law }} --picture class="post-inline-image-left" %}
 
 A business embarks on a transformation journey when they've been shocked into understanding how badly they're setup to succeed in a market changed from their heyday. It is not something taken lightly and difficult to pull off successfully. An organisation in this position should understand major change will be required, including structural changes.
 
