@@ -16,14 +16,14 @@ Anyone who has worked on or managed a single team of Software Engineers knows th
 
 ```L = λW```
 
-- https://betterworld.mit.edu/spectrum/issues/summer-2006/john-little/
-- https://corporatefinanceinstitute.com/resources/data-science/littles-law/
-- https://medium.com/@matthewcroker/unlocking-real-impact-an-introduction-to-littles-law-1-in-series-9323cbaa9e6d#:~:text=The%20Formulas,Average%20Waiting%20Time%20(W).
+- <https://betterworld.mit.edu/spectrum/issues/summer-2006/john-little/>
+- <https://corporatefinanceinstitute.com/resources/data-science/littles-law/>
+- <https://medium.com/@matthewcroker/unlocking-real-impact-an-introduction-to-littles-law-1-in-series-9323cbaa9e6d#:~:text=The%20Formulas,Average%20Waiting%20Time%20(W).>
 
 ## In practice
 
-- https://www.youtube.com/watch?v=Yqi9Gwt-OEA
+- <https://www.youtube.com/watch?v=Yqi9Gwt-OEA>
 
 ## Suggestions
 
-There are many reasons for a team to not perform. 
+There are many reasons for a team to not perform.

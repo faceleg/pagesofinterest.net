@@ -95,14 +95,14 @@ autopages:
 
   authors:
     enabled: true
-    data: "_data/authors.yml" # Data file with the author details
+    data: "_data/authors.yml"  # Data file with the author details
     layouts:
-      - "author.html" # We'll define this layout later
+      - "author.html"  # We'll define this layout later
     title: "Posts by :author"
     permalink: "/author/:author/"
     slugify:
-      mode: "default" # choose from [raw, default, pretty, ascii or latin]
-      cased: true # if true, the uppercase letters in slug will be converted to lowercase ones.
+      mode: "default"  # choose from [raw, default, pretty, ascii or latin]
+      cased: true  # if true, the uppercase letters in slug will be converted to lowercase ones.
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude:

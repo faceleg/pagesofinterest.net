@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is an options paper"
+title: "What is an options paper?"
 author: michael-robinson
 date: "2024-04-26"
 categories: [management]
@@ -8,7 +8,7 @@ tags: [sticky, organisations, culture, featured, influence]
 image: "/images/what-is-an-options-paper.jpg"
 ---
 
-Options papers frame a problem and outline what support needed to solve it. Large organisations use them to decide where to spend money and time. Learn how to write options papers here.
+Options papers frame a problem and outline what support is needed to resolve. Large organisations use them to decide where to spend money and time. Learn how to write options papers here.
 
 ## Jump to section
 
