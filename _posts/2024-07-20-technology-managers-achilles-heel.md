@@ -8,7 +8,7 @@ tags: [organisations, management, featured]
 image: "/images/technology-managers-achilles-heel.webp"
 ---
 
-Organisations succeed or fail on the strength of internal communication. Many technology managers tend to dive in too deep when responding to questions. Learn new ways to think about and respond to questions in a corporate environment.
+Success hinges on quality communication. Many technology managers stumble when responding to questions. Learn new ways to think about and respond to queries in a corporate environment.
 
 <!-- TOC -->
 
@@ -78,8 +78,6 @@ Draft a response. Fewer words is better.
 
 ### Review
 
-{% picture jpt-webp "/images/technology-managers-achilles-heel-1.webp" --alt {{ The Technology Manager's Achilles Heel }} --picture class="post-inline-image-right" %}
-
 Read the question again. Read your response:
 
 - Have you answered the question?
@@ -99,6 +97,8 @@ Keep an ear out for any reactions or responses. Use this information to inform c
 Realise even the most well-formed reply may result in follow-up questions - these aren't inherently bad. What we want to avoid are follow-up questions that could have been avoided by a more appropriate message.
 
 ## Principle of simplicity
+
+{% picture jpt-webp "/images/technology-managers-achilles-heel-1.webp" --alt {{ The Technology Manager's Achilles Heel }} --picture class="post-inline-image-right" %}
 
 Communication is hard and large organisations are complicated. Keep your communication simple, to the point, and unambiguous.
 
