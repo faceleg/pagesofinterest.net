@@ -2,7 +2,7 @@
 layout: post
 title: The Technology Manager's Achilles Heel
 author: michael-robinson
-date: "2024-07-20"
+date: "2024-07-25"
 categories: [leadership]
 tags: [organisations, management, featured]
 image: "/images/technology-managers-achilles-heel.webp"
