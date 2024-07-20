@@ -1116,13 +1116,15 @@ div.a2a_full_footer {display:none;}
 .post-inline-image-left {
   width: 50%;
   float: left;
-  margin-right: 20px;
+	margin-left: -50px;
+	margin-right: 20px;
 }
 
 .post-inline-image-right {
   width: 50%;
   float: right;
-  margin-right: 20px;
+  margin-right: -50px;
+	margin-left: 10px;
 }
 
 .post-inline-image-center {
@@ -1135,12 +1137,14 @@ div.a2a_full_footer {display:none;}
     width: 100%;
     display: block;
     float: none;
+		margin: 0;
   }
 
   .post-inline-image-right {
     width: 100%;
     display: block;
     float: none;
+		margin: 0;
   }
 }
 

@@ -3,7 +3,7 @@ layout: post
 title: "What is an SBOM/Software Bill of Materials, for Business People"
 author: michael-robinson
 date: "2024-08-20"
-categories: [management]
+categories: [tooling]
 tags: [organisations, culture, featured]
 image: "/images/what-is-an-sbom-for-business-people.webp"
 ---
@@ -116,9 +116,7 @@ The overall process from changes to release can be understood as below. Note the
 4. If the scanners show green, the build can go to production.
 5. If not, the team is alerted and get to work fixing the issues.
 
-These three scans are sufficient for an organisation's first foray into automated
-
- supply chain governance.
+These three scans are sufficient for an organisation's first foray into automated supply chain governance.
 
 #### Insight During Emergencies
 
