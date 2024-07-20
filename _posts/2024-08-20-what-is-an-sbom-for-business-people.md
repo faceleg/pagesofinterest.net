@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is an SBOM/Software Bill of Materials"
+title: "What is an SBOM/Software Bill of Materials, for Business People"
 author: michael-robinson
 date: "2024-08-20"
 categories: [management]
@@ -57,7 +57,7 @@ Multiply these numbers by your major applications and consider if you are confid
 
 {% picture jpt-webp "/images/what-is-an-sbom-for-business-people-2.webp" --alt {{ What is an SBOM, for Business People }} --picture class="post-inline-image-left" %}
 
-You, the business person, demand speed, quality, and safety in all your company produces. This drives the adoption of tools and processes to enable this. Technology teams, therefore, rightly focus time on only work that differentiates your product from competitors.
+You, the business person, demand speed, quality, and safety in all your company produces. This drives the adoption of tools and processes. Technology teams, therefore, rightly focus time on only work that differentiates your product from competitors.
 
 Fundamentally, the trade-off made with this decision is between speed to market and control. The more open source or third-party code we use, the faster we get to market but the less we control our codebase. Statistics quoted above make it clear which option most companies have chosen.
 
