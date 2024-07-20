@@ -43,23 +43,23 @@ function hasScrolled() {
   const navbar = document.querySelector("nav");
 
   // Get the current scroll position
-  const st = window.scrollY || document.documentElement.scrollTop;
+  const scrollTop = window.scrollY || document.documentElement.scrollTop;
   // Get the height of the viewport
   const windowHeight = window.innerHeight;
   // Get the total height of the document
   const scrollHeight = document.documentElement.scrollHeight;
 
   // Check if the scroll difference is greater than the delta value
-  if (Math.abs(lastScrollTop - st) <= delta) return;
+  if (Math.abs(lastScrollTop - scrollTop) <= delta) return;
 
   // If the user scrolled down and is past the navbar, hide the navbar
-  if (st > lastScrollTop && st > navbar.offsetHeight) {
+  if (scrollTop > lastScrollTop && scrollTop > navbar.offsetHeight) {
     navbar.classList.remove("nav-down");
     navbar.classList.add("nav-up");
     navbar.style.top = -navbar.offsetHeight + "px";
   } else {
     // If the user scrolled up or is at the top, show the navbar
-    if (st + windowHeight < scrollHeight) {
+    if (scrollTop + windowHeight < scrollHeight) {
       navbar.classList.remove("nav-up");
       navbar.classList.add("nav-down");
       navbar.style.top = "0px";
@@ -67,15 +67,11 @@ function hasScrolled() {
   }
 
   // Update the last scroll position
-  lastScrollTop = st;
+  lastScrollTop = scrollTop;
 }
 
 // Adapted from https://ben.balter.com/2014/03/13/pages-anchor-links/ with https://sl.bing.net/UY7c2w7Cdo
 
-/**
- * This function adds a link icon to each header element that has an id attribute.
- * The link icon is clickable and redirects to the same header element.
- */
 /**
  * This function adds a link icon to each header element that has an id attribute.
  * The link icon is clickable and redirects to the same header element.
@@ -89,6 +85,7 @@ for (let i = 0; i < headers.length; i++) {
   const id = header.getAttribute("id");
   // If the header element has an id attribute
   if (id) {
+    console.log(id);
     // Create a link element with the same id as the href attribute
     const linkBefore = document.createElement("a");
     linkBefore.classList.add("header-link", "header-link-before");
