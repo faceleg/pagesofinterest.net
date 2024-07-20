@@ -1158,11 +1158,6 @@ div.a2a_full_footer {display:none;}
 	height: 70px;
 }
 
-.avatar-footer {
-	width: 90px;
-	height: 90px;
-}
-
 .post-header img {
 	width: auto;
 	height: auto;
@@ -1239,4 +1234,30 @@ h4:hover .header-link-before,
 h5:hover .header-link-before,
 h6:hover .header-link-before {
   opacity: 1;
+}
+
+/* Footer Avatar section */
+
+.avatar-footer {
+	width: 90px;
+	height: 90px;
+	max-width: 90px;
+}
+
+.post-footer-author-bio {
+	display: flex;
+	align-items: center;
+}
+
+.post-footer-author-avatar-mobile {
+	display: none;
+}
+
+@media (width <= 768px) {
+	.post-footer-author-avatar-mobile {
+		display: block;
+	}
+	.post-footer-author-avatar-desktop {
+		display: none;
+	}
 }

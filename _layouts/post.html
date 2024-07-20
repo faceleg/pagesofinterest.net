@@ -85,8 +85,7 @@ layout: default
       <!-- Author Box -->
       {% if page.author %}
       <div class="row mt-5">
-        <div class="col-md-2 align-self-center">
-          {% if author.avatar %}
+        <div class="col-md-2 align-self-center post-footer-author-avatar-desktop">
           <a href="{{ author.url }}">
             {% picture avatar 
               "{{author.avatar}}" 
@@ -94,7 +93,6 @@ layout: default
               --img class="rounded-circle avatar-footer" width="90" height="90"
             %}
           </a>
-          {% endif %}
         </div>
         <div class="col-md-10">
           <h5 class="font-weight-bold">
@@ -107,7 +105,16 @@ layout: default
               > </span
             >{% endif %}
           </h5>
-          {{ author.bio }}
+          <div class="post-footer-author-bio">
+            {{ author.bio }}
+            <a href="{{ author.url }}" class="col-sm-2 post-footer-author-avatar-mobile">
+              {% picture avatar 
+                "{{author.avatar}}" 
+                --alt {{ author.name }} 
+                --img class="rounded-circle avatar-footer" width="90" height="90"
+              %}
+            </a>
+          </div>
         </div>
       </div>
       {% endif %} {% if site.related_posts.size >= 1 %}
