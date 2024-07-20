@@ -55,6 +55,8 @@ Multiply these numbers by your major applications and consider if you are confid
 
 ### Why Should You Care About This Complexity?
 
+{% picture jpt-webp "/images/what-is-an-sbom-for-business-people-2.webp" --alt {{ What is an SBOM, for Business People }} --picture class="post-inline-image-left" %}
+
 You, the business person, demand speed, quality, and safety in all your company produces. This drives the adoption of tools and processes to enable this. Technology teams, therefore, rightly focus time on only work that differentiates your product from competitors.
 
 Fundamentally, the trade-off made with this decision is between speed to market and control. The more open source or third-party code we use, the faster we get to market but the less we control our codebase. Statistics quoted above make it clear which option most companies have chosen.
@@ -95,6 +97,8 @@ The key point here is that SBOMs track this complexity in applications, providin
 
 ### SBOMs as an Automated Supply Chain-Governance Framework
 
+{% picture jpt-webp "/images/what-is-an-sbom-for-business-people-1.webp" --alt {{ What is an SBOM, for Business People }} --picture class="post-inline-image-right" %}
+
 Governance conjures images of people devoted to asking for data, creating reports, and chasing down non-compliance. Things don't need to be this way. Organisations should hate manual governance. Done properly, SBOM setups provide assurance of content, insight during emergencies, and automated policy enforcement, all automatically.
 
 #### Assurance of Content
@@ -131,6 +135,8 @@ This means it is likely your organisation has not only tens of thousands of open
 Adopting SBOMs allows Legal to be engaged up-front, confirm acceptable licences, and automate enforcement. Nothing but hard work and a solid exemption process will get past the historic load, but without implementing governance going forward, the problem silently worsens.
 
 ## Summary
+
+{% picture jpt-webp "/images/what-is-an-sbom-for-business-people-3.webp" --alt {{ What is an SBOM, for Business People }} --picture class="post-inline-image-right" %}
 
 All companies today rely on software to function, and many companies have large teams working hard to build software themselves. Most projects contain a large amount of code downloaded for free from third parties, which has largely gone ungoverned and represents material risk to the business.
 
