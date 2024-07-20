@@ -23,7 +23,7 @@
     "stylelint-config-standard": "^36.0.1"
   },
   "devDependencies": {
-    "@eslint/compat": "^1.1.0",
+    "@eslint/compat": "^1.1.1",
     "eslint": "^9.6.0"
   }
 }
