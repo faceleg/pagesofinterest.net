@@ -1109,6 +1109,8 @@ div.a2a_full_footer {display:none;}
     padding-top: 40px;
     padding-right: 15px;
     padding-left: 15px;
+		margin-left: 0px;
+		margin-right: 0px;
   }
 }
 
