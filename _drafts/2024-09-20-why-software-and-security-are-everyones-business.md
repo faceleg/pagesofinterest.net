@@ -10,7 +10,4 @@ image: "/images/why-software-and-security-are-everyones-business.wepb"
 
 ## Introduction
 
-
-
 ## What is Software & Security?
-
