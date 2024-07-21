@@ -1083,6 +1083,14 @@ div.a2a_full_footer {display:none;}
   width: 100%;
 }
 
+.jumbotron-image img {
+  border-radius: 0px 5px 5px 0px;
+}
+
+.jumbotron-fluid {
+  border-radius: 5px;
+}
+
 /* Related Posts */
 .related-posts-container {
   margin-top: 20px;
