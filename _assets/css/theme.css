@@ -1095,6 +1095,13 @@ div.a2a_full_footer {display:none;}
   margin-top: 0;
 }
 
+.author-bio-wrapper .author-avatar {
+	height: 150px;
+	width: 150px;
+	max-width: 150px;
+	margin-right: 20px;
+}
+
 .author-avatar img {
   max-width: 100px;
   border-radius: 100px;

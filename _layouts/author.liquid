@@ -8,7 +8,7 @@ layout: default
 <div class="container container-author">
   <div class="row justify-content-center">
     <div class="col-md-8">
-      <div class="row align-items-center mb-5">
+      <div class="row align-items-center">
         <div class="col-md-12">
           <h2 class="font-weight-bold">
             {{ author.name }}
@@ -20,13 +20,12 @@ layout: default
             <a href="{{ author.site }}">{{ author.site }}</a>
           </p>
           <div class="author-bio-wrapper">
+            {% picture avatar-large {{ author.avatar }} --alt {{ author.name }} --img class="author-avatar" %}
             <p class="excerpt">{{ author.bio }}</p>
-            {% picture avatar {{ author.avatar }} --alt {{ author.name }}
-            --picture class="rounded-circle author-avatar" %}
           </div>
         </div>
       </div>
-      <div class="row mt-3 second-and-subsequent-page">
+      <div class="row second-and-subsequent-page">
         <div class="col-md-12 main-loop">
           <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
 

@@ -10,6 +10,15 @@ presets:
     fallback_format: original
     dimension_attributes: true
 
+  avatar-large:
+    formats: [webp]
+    widths: [150, 300, 450]
+    link_source: false
+    markup: picture
+    nomarkdown: false
+    fallback_format: original
+    dimension_attributes: true
+
   post-header:
     formats: [webp]
     widths: [512, 1024, 1536]
