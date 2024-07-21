@@ -25,6 +25,7 @@ group :jekyll_plugins do
   gem 'jekyll-tagging-related_posts', '~> 1.3'
   gem 'yui-compressor', '~> 0.12'
   gem 'jekyll-loading-lazy', '~> 0.1.1'
+  gem 'jekyll-target-blank', '~> 2.0.2'
 end
 
 gem 'jekyll', '~> 4.3'
