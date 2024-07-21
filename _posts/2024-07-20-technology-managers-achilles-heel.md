@@ -13,14 +13,14 @@ Success hinges on quality communication. Many technology managers stumble when r
 <!-- TOC -->
 
 - [Introduction](#introduction)
-- [Why we do this: our happy place](#why-we-do-this-our-happy-place)
-- [A strategy to improve](#a-strategy-to-improve)
+- [Why We Do This: Our Happy Place](#why-we-do-this-our-happy-place)
+- [A Strategy To Improve](#a-strategy-to-improve)
   - [Read](#read)
   - [Think](#think)
   - [Write](#write)
   - [Review](#review)
   - [Repeat, Send](#repeat-send)
-- [Principle of simplicity](#principle-of-simplicity)
+- [Principle Of Simplicity](#principle-of-simplicity)
 
 <!-- /TOC -->
 
@@ -34,19 +34,19 @@ Failing to adequately and concisely respond to a query doesn't feel good. It can
 
 This is not good for career advancement and does not help the organisation win.
 
-## Why we do this: our happy place
+## Why We Do This: Our Happy Place
 
-Diving deep into a subject and exploring every angle was the secret to success when dealing with technical problems. It is often the "happy place" we return to when uncertain, stressed, or under time pressure. 
+Diving deep into a subject and exploring every angle was the secret to success when dealing with technical problems. It is often the "happy place" we return to when uncertain, stressed, or under time pressure.
 
 A helpful model to consider why we fall back on this is the [Dreyfus model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition). Diving deep is intuitive or absorbing, while communicating at the level required to succeed as a manager is difficult and requires conscious focus.
 
-## A strategy to improve
+## A Strategy To Improve
 
 Identifying maladaptive behaviours is the first and most difficult step to becoming better - if you've just reached this milestone: congratulations! The rest is fairly easy though time-consuming.
 
 I've approached retraining myself to respond more usefully in situations where I'm liable to fall back into my deep-dive happy place by creating a structured approach I can force myself to follow. Eventually, it'll become second nature.
 
-Put simply, loop through these actions: Read, Think, Write, Review, Repeat, Send.
+Improving your communication is as simple as looping through these actions: Read, Think, Write, Review, Repeat, Send.
 
 ### Read
 
@@ -54,21 +54,21 @@ Carefully and with focus, read the request. Don't press reply or start thinking 
 
 ### Think
 
-{% picture post-inline "/images/technology-managers-achilles-heel-2.webp" --alt {{ The Technology Manager's Achilles Heel }} --picture class="post-inline-image-right" %}
+{% picture post-inline "/images/technology-managers-achilles-heel-2.webp" --alt {{ "The Technology Manager's Achilles Heel" }} --picture class="post-inline-image-right" %}
 
 Depending on the combination of seniority, surrounding context, and potential outcomes of the answer, you'll want to spend anywhere from a few minutes to much longer on this step. Knee-jerk responses to high-level management entail a level of risk that is seldom worth taking.
 
-Think about the request from the perspective of the one asking.
+Think about the request from the perspective of the one asking, and try to understand what's going on around the question.
 
 - What context do they have or lack that might be relevant?
 - Is there anything between the words you might have missed?
 
-The less context someone has, the more possible answers might exist for their questions. In these cases, it can be possible to reply succinctly to a rather vague question after considering the related context surrounding the person asking.
+The less context someone has, the more possible answers might exist for their questions. In these cases, it can be possible to reply succinctly to a rather vague question after considering what they may not know.
 
 - What are the drivers behind this question?
 - Why are they asking about this *now*?
 
-Has something happened recently (e.g. an outage, a particularly fiery review meeting) that may have triggered this question? How might this influence the response they expect?
+Has something happened recently (e.g. an outage, a particularly fiery review meeting, something good) that may have triggered this question? How might this influence the response they expect?
 
 ### Write
 
@@ -82,21 +82,21 @@ Read the question again. Read your response:
 - Have you included anything extraneous?
 - Have you included context where relevant?
 
-Nobody likes to read 10 pages where a paragraph will do. Make sure you've been parsimonious with your words. Paradoxically, nobody likes to have to ask 10 clarifying questions. There is a balance, try to find it.
+Nobody likes to read 10 pages where a paragraph will do. Make sure you've been parsimonious with your words but don't be a [Spartan](https://en.wikipedia.org/wiki/Laconic_phrase). Just as nobody likes reading an essay, they also don't like to ask 10 clarifying questions. There is a balance, try to find it.
 
 ### Repeat, Send
 
 If you're not 80-90% confident you've answered it well, start the process again. If you are, or you've run out of time, send off your response.
 
-When really stuck, ask your colleagues or manager for advice. It's our job to help each other out in these situations.
+Lean on senior your colleagues or your manager for advice. It's our job to help each other out in these situations and people will understand the struggle to learn this skill. Honesty and a humble demeanour seldom goes badly.
 
-Keep an ear out for any reactions or responses. Use this information to inform changes in your approach.
+As you respond in this way, keep an ear out for any reactions or responses. These can come directly as replies, from requests you make for feedback or hearsay. Use this information to inform changes in your approach.
 
-Realise even the most well-formed reply may result in follow-up questions - these aren't inherently bad. What we want to avoid are follow-up questions that could have been avoided by a more appropriate message.
+Realise even the most well-formed reply may result in follow-up questions - these aren't inherently bad. What we want to avoid are follow-up questions that could have been avoided by a more appropriate message. The goal is to help your audience understand what they were missing in the shortest possible time. Alignment is key to success in a large organisation. Everything you say or write either helps align teams or confuses them.
 
-## Principle of simplicity
+## Principle Of Simplicity
 
-{% picture post-inline "/images/technology-managers-achilles-heel-1.webp" --alt {{ The Technology Manager's Achilles Heel }} --picture class="post-inline-image-right" %}
+{% picture post-inline "/images/technology-managers-achilles-heel-1.webp" --alt {{ "The Technology Manager's Achilles Heel" }} --picture class="post-inline-image-right" %}
 
 Communication is hard and large organisations are complicated. Keep your communication simple, to the point, and unambiguous.
 
