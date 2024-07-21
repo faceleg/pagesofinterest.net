@@ -2,14 +2,12 @@
   {% if post.image %}
   <div>
     <a href="{{post.url}}">
-      {% picture jpt-webp {{ post.image }} 4:3 center --alt {{ post.title }}
-      --picture class="w-100 latest-post-image-small" %} {% picture jpt-webp {{
-      post.image }} 4:3 center --alt {{ post.title }} --picture class="w-100
-      latest-post-image-large" %}
+      {% picture picture-thumbnail-small {{ post.image }} --alt {{ post.title }} --picture class="w-100 latest-post-image-small" %} 
+      {% picture picture-thumbnail-large {{ post.image }} --alt {{ post.title }} --picture class="w-100 latest-post-image-large" %}
     </a>
   </div>
   {% endif %}
-  <div class="col-md-8">
+  <div class="col-9">
     <h2 class="mb-2 h6 font-weight-bold">
       <a class="text-dark" href="{{post.url}}">{{ post.title }}</a>
     </h2>

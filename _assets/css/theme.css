@@ -1176,7 +1176,16 @@ div.a2a_full_footer {display:none;}
 
 /* Latest posts */
 .latest-post-container img {
-  max-height: 90px;
+	object-fit: cover;
+	height: 100%;
+}
+
+.latest-post-image-small img {
+	width: 100px;
+}
+
+.latest-post-image-large img {
+	width: 125px;
 }
 
 @media (width > 768px) {

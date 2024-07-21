@@ -25,3 +25,23 @@ presets:
     markup: picture
     fallback_format: original
     dimension_attributes: true
+
+  picture-thumbnail-small:
+    formats: [webp]
+    crop: "4:3"
+    keep: center
+    widths: [100, 200, 300]
+    link_source: false
+    markup: picture
+    fallback_format: original
+    dimension_attributes: true
+
+  picture-thumbnail-large:
+    formats: [webp]
+    crop: "4:3"
+    keep: center
+    widths: [125, 250, 375]
+    link_source: false
+    markup: picture
+    fallback_format: original
+    dimension_attributes: true
