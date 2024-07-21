@@ -4,9 +4,9 @@
   {% if post.image %}
   <div>
     <a href="{{post.url}}">
-      {% picture jpt-webp {{ post.image }} 4:3 center --alt {{ post.title }}
+      {% picture jpt-webp {{ post.image }} 4:3 center --alt {{ post.title | escape }}
       --picture class="w-100 related-post-image-small" %} {% picture jpt-webp {{
-      post.image }} 8:3 center --alt {{ post.title }} --picture class="w-100
+      post.image }} 8:3 center --alt {{ post.title | escape }} --picture class="w-100
       related-post-image-large" %}
     </a>
   </div>

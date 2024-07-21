@@ -3,7 +3,7 @@
     {% if post.image %}
     <div class="main-loop-card-image-container">
       <a href="{{site.baseurl}}{{post.url}}">
-        {% picture jpt-webp {{ post.image }} 3:1 centre --alt {{ post.title }}
+        {% picture picture-thumbnail-wide {{ post.image }} --alt {{ post.title | escape }}
         %}
       </a>
     </div>

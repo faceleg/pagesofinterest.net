@@ -13,7 +13,7 @@ layout: default
     <div class="col-md-8 main-loop">
       <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
 
-      {% for post in paginator.posts %} {% include main-loop-card.html %} {%
+      {% for post in paginator.posts %} {% include main-loop-card.liquid %} {%
       endfor %}
 
       <div class="mt-5">
@@ -46,6 +46,6 @@ layout: default
       </div>
     </div>
 
-    <div class="col-md-4">{% include sidebar-featured.html %}</div>
+    <div class="col-md-4">{% include sidebar-featured.liquid %}</div>
   </div>
 </div>

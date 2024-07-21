@@ -1,6 +1,7 @@
 # https://rbuchberger.github.io/jekyll_picture_tag/users/presets/
 
 presets:
+  # Avatars
   avatar:
     formats: [webp]
     widths: [70, 140, 210, 90, 180, 270]
@@ -19,6 +20,7 @@ presets:
     fallback_format: original
     dimension_attributes: true
 
+  # Images used in post header or inline
   post-header:
     formats: [webp]
     widths: [512, 1024, 1536]
@@ -35,6 +37,7 @@ presets:
     fallback_format: original
     dimension_attributes: true
 
+  # Small thumbnail images, 4:3
   picture-thumbnail-small:
     formats: [webp]
     crop: "4:3"
@@ -50,6 +53,17 @@ presets:
     crop: "4:3"
     keep: center
     widths: [125, 250, 375]
+    link_source: false
+    markup: picture
+    fallback_format: original
+    dimension_attributes: true
+
+  # Wide thumbnail images, 3:1
+  picture-thumbnail-wide:
+    formats: [webp]
+    crop: "3:1"
+    keep: center
+    widths: [340, 680, 1440]
     link_source: false
     markup: picture
     fallback_format: original

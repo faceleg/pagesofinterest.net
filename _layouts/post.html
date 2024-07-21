@@ -31,7 +31,7 @@ layout: default
               {% if author.avatar %}
                 {% picture avatar 
                   "{{author.avatar}}" 
-                  --alt {{ author.name }} 
+                  --alt {{ author.name | escape }} 
                   --img class="rounded-circle avatar-header" width="70" height="70" %}
               {% endif %}
             </a>
@@ -54,7 +54,7 @@ layout: default
         </div>
         {% if page.image %}
         <div class="col-md-6 pr-0 align-self-center">
-          {% picture post-header {{ page.image }} --alt {{ page.title}} 
+          {% picture post-header {{ page.image }} --alt {{ page.title | escape }} 
             --picture class="rounded post-header" %}
         </div>
         {% endif %}
@@ -89,7 +89,7 @@ layout: default
           <a href="{{ author.url }}">
             {% picture avatar 
               "{{author.avatar}}" 
-              --alt {{ author.name }} 
+              --alt {{ author.name | escape }} 
               --img class="rounded-circle avatar-footer" width="90" height="90"
             %}
           </a>
@@ -110,7 +110,7 @@ layout: default
             <a href="{{ author.url }}" class="col-sm-2 post-footer-author-avatar-mobile">
               {% picture avatar 
                 "{{author.avatar}}" 
-                --alt {{ author.name }} 
+                --alt {{ author.name | escape }} 
                 --img class="rounded-circle avatar-footer" width="90" height="90"
               %}
             </a>

@@ -2,8 +2,8 @@
   {% if post.image %}
   <div>
     <a href="{{post.url}}">
-      {% picture picture-thumbnail-small {{ post.image }} --alt {{ post.title }} --picture class="w-100 latest-post-image-small" %} 
-      {% picture picture-thumbnail-large {{ post.image }} --alt {{ post.title }} --picture class="w-100 latest-post-image-large" %}
+      {% picture picture-thumbnail-small {{ post.image }} --alt {{ post.title | escape }} --picture class="w-100 latest-post-image-small" %} 
+      {% picture picture-thumbnail-large {{ post.image }} --alt {{ post.title | escape }} --picture class="w-100 latest-post-image-large" %}
     </a>
   </div>
   {% endif %}

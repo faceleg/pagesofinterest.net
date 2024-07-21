@@ -23,7 +23,7 @@ image: /assets/images/faceleg.jpg
       <div class="card border-0 mb-4 box-shadow">
         <a href="{{site.baseurl}}{{latest_post.url}}">
           <div class="topfirstimage">
-            {% picture post-header {{ latest_post.image }} --alt {{ latest_post.title }} %}
+            {% picture post-header {{ latest_post.image }} --alt {{ latest_post.title | escape }} %}
           </div>
         </a>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
@@ -82,7 +82,7 @@ image: /assets/images/faceleg.jpg
             >
           </div>
           <div class="col-md-6 d-none d-md-block pr-0">
-            {% picture jpt-webp {{ post.image }} 1:1 attention --alt {{ post.title }} --picture class="jumbotron-image" %}
+            {% picture jpt-webp {{ post.image }} 1:1 attention --alt {{ post.title | escape }} --picture class="jumbotron-image" %}
           </div>
         </div>
       </div>
@@ -105,7 +105,7 @@ image: /assets/images/faceleg.jpg
       <div class="col-md-8 main-loop">
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
 
-        {% for post in paginator.posts %} {% include main-loop-card.html %} {%
+        {% for post in paginator.posts %} {% include main-loop-card.liquid %} {%
         endfor %}
 
         <div class="mt-5">
@@ -153,11 +153,11 @@ image: /assets/images/faceleg.jpg
         </div>
       </div>
 
-      <div class="col-md-4">{% include sidebar-featured.html %}</div>
+      <div class="col-md-4">{% include sidebar-featured.liquid %}</div>
 
       {% else %}
 
-      <div class="">{% include sidebar-featured.html %}</div>
+      <div class="">{% include sidebar-featured.liquid %}</div>
 
       {% endif %}
     </div>
@@ -182,7 +182,7 @@ image: /assets/images/faceleg.jpg
               >
             </div>
             <div class="col-md-6 d-none d-md-block pr-0">
-              {% picture jpt-webp {{ post.image }} 1:1 attention --alt {{ post.title }} --picture class="jumbotron-image" %}
+              {% picture jpt-webp {{ post.image }} 1:1 attention --alt {{ post.title | escape }} --picture class="jumbotron-image" %}
             </div>
           </div>
         </div>

@@ -876,6 +876,10 @@ footer {
   margin-bottom: 10px;
 }
 
+.main-loop-card-image-container img {
+	height: 100%;
+}
+
 .excerpt {
     color: rgb(0 0 0 / 59%);
     margin-top:10px;
