@@ -98,7 +98,7 @@ autopages:
     enabled: true
     data: "_data/authors.yml"  # Data file with the author details
     layouts:
-      - "author.html"  # We'll define this layout later
+      - "author.liquid"  # We'll define this layout later
     title: "Posts by :author"
     permalink: "/author/:author/"
     slugify:
