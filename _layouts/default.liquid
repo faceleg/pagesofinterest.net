@@ -22,7 +22,7 @@ layout: compress
     - /_assets/css/theme.css
     {% endcss_asset_tag %}
 
-    {% include tracking-header.html %}
+    {% include tracking-header.liquid %}
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
@@ -65,7 +65,7 @@ layout: compress
     - /_assets/js/theme.js
     {% endjavascript_asset_tag %}
 
-    {% include tracking-footer.html %}
+    {% include tracking-footer.liquid %}
 
 </body>
 
