@@ -23,8 +23,7 @@ image: /assets/images/faceleg.jpg
       <div class="card border-0 mb-4 box-shadow">
         <a href="{{site.baseurl}}{{latest_post.url}}">
           <div class="topfirstimage">
-            {% picture jpt-webp {{ latest_post.image }} --alt {{
-            latest_post.title }} %}
+            {% picture post-header {{ latest_post.image }} --alt {{ latest_post.title }} %}
           </div>
         </a>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
@@ -59,12 +58,15 @@ image: /assets/images/faceleg.jpg
     </div>
 
     <div class="col-md-6">
-      {% for post in site.posts limit:4 offset:1 %} {% include latest-posts.html
+      {% for post in site.posts limit:4 offset:1 %} {% include latest-posts.liquid
       %} {% endfor %}
     </div>
 
-    <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-    {% for post in site.posts %} {% if post.tags contains "sticky" %}
+    {% comment %} First sticky - add sticky tag to the post you want to highlight here - tags: [sticky] {% endcomment %}
+    {% assign stickyIndexTop = 0 %}
+    {% for post in site.posts %} 
+      {% if post.tags contains "sticky" and stickyIndexTop == 0 %}
+        {% assign stickyIndexTop = stickyIndexTop | plus:1 %}
     <div
       class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative"
     >
@@ -80,14 +82,21 @@ image: /assets/images/faceleg.jpg
             >
           </div>
           <div class="col-md-6 d-none d-md-block pr-0">
-            {% picture jpt-webp {{ post.image }} 1:1 attention --alt {{
-            post.title }} --picture class="jumbotron-image" %}
+            {% picture jpt-webp {{ post.image }} 1:1 attention --alt {{ post.title }} --picture class="jumbotron-image" %}
           </div>
         </div>
       </div>
     </div>
-    {% endif %} {% endfor %} {% endif %}
-    <!--endif page url is / -->
+    {% comment %} endif is sticky {% endcomment %}
+      {% endif %}
+      {% if post.tags contains "sticky" %}
+        {% assign stickyIndexTop = stickyIndexTop | plus:1 %}
+      {% endif %}
+      {% comment %} endfor {% endcomment %}
+    {% endfor %}
+
+    {% endif %}
+    {% comment %} endif page url is / {% endcomment %}
 
     {% if paginator.total_pages > 0 %}
 
@@ -152,5 +161,38 @@ image: /assets/images/faceleg.jpg
 
       {% endif %}
     </div>
+
+
+      {% comment %} Second sticky - add sticky tag to the post you want to highlight here - tags: [sticky] {% endcomment %}
+      {% assign stickyIndexBottom = 0 %}
+      {% for post in site.posts %} 
+        {% if post.tags contains "sticky" and stickyIndexBottom == 1 %}
+      <div
+        class="jumbotron jumbotron-fluid jumbotron-home jumbotron-home-bottom pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative"
+      >
+        <div class="pl-4 pr-0 h-100 tofront">
+          <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+              <h1 class="mb-3">{{post.title}}</h1>
+              <p class="mb-3 lead">
+                {{ post.excerpt | strip_html | strip_newlines | truncate: 186 }}
+              </p>
+              <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark"
+                >Read More</a
+              >
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0">
+              {% picture jpt-webp {{ post.image }} 1:1 attention --alt {{ post.title }} --picture class="jumbotron-image" %}
+            </div>
+          </div>
+        </div>
+      </div>
+      {% comment %} endif is sticky {% endcomment %}
+        {% endif %}
+        {% if post.tags contains "sticky" %}
+          {% assign stickyIndexBottom = stickyIndexBottom | plus:1 %}
+        {% endif %}
+        {% comment %} endfor {% endcomment %}
+      {% endfor %}
   </div>
 </div>
