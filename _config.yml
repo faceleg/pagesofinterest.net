@@ -22,6 +22,7 @@ plugins:
   - jekyll-tagging-related_posts
   - jekyll-purgecss
   - jekyll_picture_tag
+  - jekyll-loading-lazy
 
 # Core author information.
 # Note this data has to be replicated in _data/authors.yml for the jekyll-auto-authors plugin
