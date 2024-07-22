@@ -18,7 +18,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.17'
   gem 'jekyll-paginate-v2', '~> 3.0'
   gem 'jekyll-auto-authors', '~> 1.0'
-  gem 'jekyll_picture_tag', '~> 2.0'
+  gem 'jekyll_picture_tag', '~> 2.1'
   gem 'jekyll-purgecss', '~> 0.3'
   gem 'jekyll-seo-tag', '~> 2.8'
   gem 'jekyll-sitemap', '~> 1.4'
