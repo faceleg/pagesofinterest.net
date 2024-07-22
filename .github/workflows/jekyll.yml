@@ -96,9 +96,6 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
       - name: Publish to CloudFlare
         uses: cloudflare/pages-action@v1
         with:
@@ -107,6 +104,9 @@ jobs:
           projectName: faceleg
           directory: ./_site
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v3
   # Deployment job
   deploy:
     environment:
