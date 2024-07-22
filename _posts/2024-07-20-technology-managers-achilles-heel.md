@@ -62,13 +62,12 @@ Think about the request from the perspective of the one asking, and try to under
 
 - What context do they have or lack that might be relevant?
 - Is there anything between the words you might have missed?
-
-The less context someone has, the more possible answers might exist for their questions. In these cases, it can be possible to reply succinctly to a rather vague question after considering what they may not know.
-
 - What are the drivers behind this question?
 - Why are they asking about this *now*?
 
-Has something happened recently (e.g. an outage, a particularly fiery review meeting, something good) that may have triggered this question? How might this influence the response they expect?
+The less context someone has, the more possible answers might exist for their questions. Ambiguity like this is tough. Try to reduce this uncertainty by consider the situation with the questions above.
+
+When considering how to respond, also consider whether something has happened recently (e.g. an outage, a particularly fiery review meeting, something good) that may have triggered this question? How might this influence the response they expect?
 
 ### Write
 
