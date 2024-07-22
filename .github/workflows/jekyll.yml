@@ -99,6 +99,14 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+      - name: Publish to CloudFlare
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: faceleg 
+          directory: ./_site
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
   # Deployment job
   deploy:
     environment:
