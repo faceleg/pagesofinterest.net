@@ -46,8 +46,7 @@ layout: default
                 ></span
               >
               <span class="text-muted d-block mt-1"
-                >{{ page.date | date: '%b %d, %Y' }} · {% include
-                meta-read-time.html %}</span
+                >{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.liquid %}</span
               >
             </small>
           </div>
@@ -122,8 +121,7 @@ layout: default
         <h4 class="font-weight-bold spanborder">
           <span>Related Posts</span>
         </h4>
-        {% for post in site.related_posts limit: 3 %} {% include
-        related-posts.html %} {% endfor %}
+        {% for post in site.related_posts limit: 3 %} {% include related-posts.liquid %} {% endfor %}
       </div>
       {% endif %}
     </div>
