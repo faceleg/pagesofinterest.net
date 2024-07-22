@@ -104,7 +104,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: faceleg 
+          projectName: faceleg
           directory: ./_site
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
   # Deployment job
