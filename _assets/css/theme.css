@@ -395,6 +395,8 @@ a.text-dark:hover {
 .jumbotron {
 	background-size:cover;
 	padding:7rem 1rem;
+  border-radius: 5px;
+	height: 510px;
 }
 
 .jumbotron-home h1 {
@@ -407,6 +409,10 @@ a.text-dark:hover {
 }
 
 @media (width >=992px) {
+	.jumbotron {
+		height: 520px;
+	}
+
 	.jumbotron-lg-withnav {
 		padding-bottom:calc(10rem - 69.75px);
 	}
@@ -437,6 +443,12 @@ a.text-dark:hover {
       font-weight: 700;
       line-height: 1.1;
   }
+}
+
+@media (width >= 768px) {
+  .jumbotron {
+		height: auto;
+	}
 }
 
 .bg-black {
@@ -1083,14 +1095,6 @@ div.a2a_full_footer {display:none;}
   width: 100%;
 }
 
-.jumbotron-image img {
-  border-radius: 0px 5px 5px 0px;
-}
-
-.jumbotron-fluid {
-  border-radius: 5px;
-}
-
 /* Related Posts */
 .related-posts-container {
   margin-top: 20px;
@@ -1118,6 +1122,11 @@ div.a2a_full_footer {display:none;}
   max-width: 100px;
   border-radius: 100px;
   margin-right: 10px;
+}
+
+
+.jumbotron-image img {
+  border-radius: 0px 5px 5px 0px;
 }
 
 /* Tags, cateogry and author */
