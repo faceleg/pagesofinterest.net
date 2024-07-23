@@ -120,6 +120,7 @@ exclude:
     purgecss.config.js,
     watch-future.sh,
     watch.sh,
+    docker-compose.yml,
   ]
 
 # jekyll-compress-images
