@@ -114,13 +114,10 @@ jobs:
         with:
           name: release
           path: _site
-      - name: Echo
-        run: ls -lha
-      - name: Unzip deployment artifact
-        run: unzip artifact.tar
       - name: Echo directory details
         run: |
           ls -lha
+          ls -lha _site
       - name: Publish to CloudFlare
         uses: cloudflare/pages-action@v1
         with:
