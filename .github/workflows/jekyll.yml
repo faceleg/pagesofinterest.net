@@ -113,6 +113,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: release
+          path: _site
       - name: Echo
         run: ls -lha
       - name: Unzip deployment artifact
