@@ -112,7 +112,7 @@ jobs:
       - name: Download build files
         uses: actions/download-artifact@v4
         with:
-          name: _site
+          name: release
       - name: Echo
         run: ls -lha
       - name: Unzip deployment artifact
