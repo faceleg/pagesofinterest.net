@@ -101,7 +101,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           name: _site
-          path: _site
+          path: ./_site
 
   deploy-to-cloudflare-pages:
     runs-on: ubuntu-latest
@@ -114,9 +114,8 @@ jobs:
       - name: Echo directory details
         run: |
           ls -lha
-          tar xvzf artifact.tar
           ls -lha
-          ls -lha ./_site
+          ls -lha artifact.tar
       - name: Publish to CloudFlare
         uses: cloudflare/pages-action@v1
         with:
