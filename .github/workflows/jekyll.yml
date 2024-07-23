@@ -114,6 +114,7 @@ jobs:
       - name: Echo directory details
         run: |
           ls -lha
+          tar xvzf archive.tar
           ls -lha ./_site
       - name: Publish to CloudFlare
         uses: cloudflare/pages-action@v1
