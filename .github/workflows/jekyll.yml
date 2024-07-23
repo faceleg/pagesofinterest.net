@@ -99,7 +99,7 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3      
+        uses: actions/upload-pages-artifact@v3  
         with:
           name: _site
           path: _site
@@ -107,10 +107,15 @@ jobs:
   deploy-to-cloudflare-pages:
     runs-on: ubuntu-latest
     needs: [build, eslint, yamllint, rubocop, markdownlint]
-    uses: actions/download-artifact@v4
-    with:
-      name: _site
     steps:
+      - name: Download build files
+        uses: actions/download-artifact@v4
+        with:
+          name: _site
+      - name: Echo directory details
+        run: |
+          ls -lha
+          ls -lha ./_site
       - name: Publish to CloudFlare
         uses: cloudflare/pages-action@v1
         with:
