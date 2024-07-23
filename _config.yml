@@ -79,13 +79,13 @@ autopages:
 
   tags:
     layouts:
-      - autopage_tag.html
+      - autopage_tag.liquid
     enabled: true
     permalink: "/tag/:tag"
 
   categories:
     layouts:
-      - autopage_category.html
+      - autopage_category.liquid
     enabled: true
 
   collections:
