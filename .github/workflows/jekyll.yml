@@ -97,11 +97,13 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Zip deployment artifact
+        run: zip release.zip ./_site* -r
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          name: _site
-          path: ./_site
+          name: release
+          path: release.zip
 
   deploy-to-cloudflare-pages:
     runs-on: ubuntu-latest
@@ -111,11 +113,11 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: _site
+      - name: Unzip deployment artifact
+        run: unzip release.zip
       - name: Echo directory details
         run: |
           ls -lha
-          ls -lha
-          ls -lha artifact.tar
       - name: Publish to CloudFlare
         uses: cloudflare/pages-action@v1
         with:
