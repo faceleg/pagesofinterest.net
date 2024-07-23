@@ -116,7 +116,7 @@ jobs:
       - name: Echo
         run: ls -lha
       - name: Unzip deployment artifact
-        run: unzip release.zip
+        run: unzip artifact.tar
       - name: Echo directory details
         run: |
           ls -lha
