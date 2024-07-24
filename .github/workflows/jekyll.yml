@@ -113,19 +113,18 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: release
-          path: _site
       - name: Echo directory details
         run: |
           ls -lha
           ls -lha _site
-      - name: Publish to CloudFlare
-        uses: cloudflare/pages-action@v1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: faceleg
-          directory: ./_site
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Publish to CloudFlare
+      #   uses: cloudflare/pages-action@v1
+      #   with:
+      #     apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      #     accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      #     projectName: faceleg
+      #     directory: ./_site
+      #     gitHubToken: ${{ secrets.GITHUB_TOKEN }}
 
   # build-for-ghe:
   #   runs-on: ubuntu-latest
