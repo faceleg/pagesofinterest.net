@@ -87,7 +87,7 @@ Nobody likes to read 10 pages where a paragraph will do. Make sure you've been p
 
 If you're not 80-90% confident you've answered it well, start the process again. If you are, or you've run out of time, send off your response.
 
-Lean on senior your colleagues or your manager for advice. It's our job to help each other out in these situations and people will understand the struggle to learn this skill. Honesty and a humble demeanour seldom goes badly.
+Lean on senior colleagues or your manager for advice. It's our job to help each other out in these situations and people will understand the struggle to learn this skill. Honesty and a humble demeanour seldom goes badly.
 
 As you respond in this way, keep an ear out for any reactions or responses. These can come directly as replies, from requests you make for feedback or hearsay. Use this information to inform changes in your approach.
 
