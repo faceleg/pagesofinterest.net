@@ -110,7 +110,7 @@ jobs:
       - name: Purge https://www.pagesofinterest.net
         run: |
             curl "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/purge_cache" \
-              --header "X-Auth-Email: ${{ secrets.CLOUDFLARE_EMAIL }}" \
-              --header "X-Auth-Key: ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+              --header "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN_PURGE_CACHE }}" \
               --header "Content-Type: application/json" \
-              --data '{"files":[{"url":"https://pagesofinterest.net"}]}'
+              --data '{"files":[{"url":"https://pagesofinterest.net"}]}' | \
+              jq -e 'if .errors | length == 0 then empty else error end'
