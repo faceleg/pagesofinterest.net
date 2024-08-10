@@ -113,4 +113,4 @@ jobs:
               --header "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN_PURGE_CACHE }}" \
               --header "Content-Type: application/json" \
               --data '{"files":[{"url":"https://pagesofinterest.net"}]}' | \
-              jq -e 'if .errors | length == 0 then empty else error end'
+              tee >(jq -e 'if .errors | length == 0 then empty else error end')
