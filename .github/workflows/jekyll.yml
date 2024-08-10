@@ -107,3 +107,10 @@ jobs:
           projectName: faceleg
           directory: ./_site
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+      - name: Purge https://www.pagesofinterest.net
+        run: |
+            curl "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/purge_cache" \
+              --header "X-Auth-Email: ${{ secrets.CLOUDFLARE_EMAIL }}" \
+              --header "X-Auth-Key: ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+              --header "Content-Type: application/json" \
+              --data '{"files":[{"url":"https://pagesofinterest.net"}]}'
