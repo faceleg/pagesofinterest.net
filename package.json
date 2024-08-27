@@ -19,7 +19,7 @@
     "npm-check-updates": "^17.0.3",
     "prettier": "^3.3.3",
     "purgecss": "^6.0.0",
-    "stylelint": "^16.8.1",
+    "stylelint": "^16.8.2",
     "stylelint-config-standard": "^36.0.1"
   },
   "devDependencies": {
