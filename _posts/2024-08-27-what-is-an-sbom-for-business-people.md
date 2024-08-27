@@ -2,7 +2,7 @@
 layout: post
 title: "What is an SBOM/Software Bill of Materials, for Business People"
 author: michael-robinson
-date: "2024-08-20"
+date: "2024-08-27"
 categories: [tooling]
 tags: [organisations, culture, featured]
 image: "/images/what-is-an-sbom-for-business-people.webp"

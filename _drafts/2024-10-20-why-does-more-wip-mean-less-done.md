@@ -2,7 +2,7 @@
 layout: post
 title: "Why Does More WIP Mean Less Done"
 author: michael-robinson
-date: "2024-08-20"
+date: "2024-10-20"
 categories: [management]
 tags: [organisations, culture, featured]
 image: "/images/why-does-more-wip-mean-less-done.jpg"
