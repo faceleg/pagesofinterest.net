@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is an SBOM/Software Bill of Materials, for Business People"
+title: "What is an SBOM/Software Bill of Materials"
 author: michael-robinson
 date: "2024-08-27"
 categories: [tooling]
