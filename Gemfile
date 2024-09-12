@@ -30,4 +30,4 @@ end
 
 gem 'jekyll', '~> 4.3'
 gem 'closure-compiler', '~> 1.1'
-gem 'rubocop', '~> 1.65'
+gem 'rubocop', '~> 1.66'
