@@ -26,6 +26,7 @@ group :jekyll_plugins do
   gem 'yui-compressor', '~> 0.12'
   gem 'jekyll-loading-lazy', '~> 0.1.1'
   gem 'jekyll-target-blank', '~> 2.0.2'
+  gem 'jekyll-redirect-from', '~> 0.16.0'
 end
 
 gem 'jekyll', '~> 4.3'
