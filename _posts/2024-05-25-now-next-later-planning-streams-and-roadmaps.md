@@ -1,20 +1,22 @@
 ---
 layout: post
-title: "Plan Streams with Now, Next, Later"
+title: "Plan Streams & Roadmaps with Now, Next, Later"
 author: michael-robinson
 date: "2024-05-25"
 categories: [Leadership]
 tags: [culture, featured]
 image: "/images/now-next-later-3-bunnies.webp"
+redirect_from:
+  - /now-next-later-planning-streams
 ---
 
 Leaders need to show vision, plans and progress up and down the chain. Using the now, next, later format helps gather and format ideas into a shareable intelligent format.
 
-A leader must develop and show a vision to the organisation. This vision needs to be aligned to the organisation's overall strategy. The team needs to feel they are achieving material progress towards strategic goals quarter by quarter. The now, next, later framework helps formulate these in a structured manner.
+A leader must develop and show a vision to the organisation. This vision needs to be aligned to the organisation's overall strategy. The team needs to feel they are achieving material progress towards strategic goals quarter by quarter. The now, next, later framework helps formulate these in a structured manner and can help create a roadmap for success.
 
 When leading larger teams the now, next, later framework is very useful as a crowdsourcing tool to develop a picture of what your organisation's individual groups may be prioritising. It works from one team up to whole organisations.
 
-The Now, Next, Later data aggregation, planning and display framework is great in these situations. Created by [Janna Bastow](https://www.linkedin.com/in/jannabastow/?originalSubdomain=uk), it is flexible, quick to teach and easy to keep up to date. Janna suggests using it instead of traditional roadmaps and if you work for a company that allows this, great. If not it is still useful as a discovery and display tool as you to understand the high level plans for an area to adapt into whatever format may be mandated.
+The Now, Next, Later data aggregation, planning and display framework is great in these situations, especially when a quick roadmap or visualisation is required. Created by [Janna Bastow](https://www.linkedin.com/in/jannabastow/?originalSubdomain=uk), it is flexible, quick to teach and easy to keep up to date. Janna suggests using it instead of traditional roadmaps and if you work for a company that allows this, great. If not it is still useful as a discovery and display tool as you to understand the high level plans for an area to adapt into whatever format may be mandated.
 
 Fundamentally the now, next, later roadmap consists of three columns showing work across three time horizons.
 
