@@ -6,8 +6,6 @@ date: "2024-08-27"
 categories: [tooling]
 tags: [organisations, culture, featured]
 image: "/images/what-is-an-sbom-for-business-people.webp"
-redirect_from:
-  - /what-is-an-sbom-for-business-people
 ---
 
 A Software Bill of Materials, or SBOM, is a data exchange format that describes the ingredients of an application. Learn why they are critical for the safety of your business here.
