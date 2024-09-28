@@ -21,17 +21,19 @@ Before making changes, consider Chesterton’s Fence: understand the reasons beh
 
 ## Introduction
 
-[Chesterton's Fence](https://www.chesterton.org/taking-a-fence-down/) is a principle that changes shouldn't be made until the context and reasons that caused whatever is to be changed to exist are understood, and therefore any second or third order consequences have been taken into account.
+[Chesterton's Fence](https://www.chesterton.org/taking-a-fence-down/) is a principle that changes shouldn't be made until the context and reasons that caused whatever is to be changed to exist are understood, and therefore any second or third order consequences have been taken into account and planned for.
 
-When faced with a problem to solve, it is natural for people to leap to the conclusion we should immediately embark on some change activity.
+When faced with a problem to solve, it is natural for people to leap to the conclusion we should immediately embark on some change activity. Doing so without considering Chesterton's Fence can lead to regretful outcomes. Leading teams through these decisions is made simpler with a few key actions.
+
+Help your teams seek understanding first, before demolishing something that may have real value.
 
 ## A Leader's Role in Decision Making
 
-As leaders, we must become very good at incorporating a large amount of surface detail and making a call immediately. This is a useful skill and appropriate in some cases - however, often doing so is harmful in the long run.
+As leaders, we must become very good at incorporating a large amount of context from across the organisation. This is context your teams will lack, due to their roles keeping them closer to discrete problems being solved.
 
-Leading across large organisations allows one to gather much context, options and advise disparate groups on a course of action.
+It is therefore a leader's responsibility to ensure teams are coached to decisions that align with organisational goals. To do this one must strike the balance of ensuring people have enough awareness of the interrelations between various groups across the organisation, competing priorities and the strategic direction without being overwhelmed and unable to operate.
 
-It is therefore a leader's responsibility to be aware of the interrelations between various groups across the organisation, competing priorities and the strategic direction. Using this viewpoint and thoughtful concepts like Chesterton's Fence, we can help our teams step back and consider the impacts of different directions.
+Using context and thoughtful concepts like Chesterton's Fence, a leader can help teams step back and consider the impacts of different directions in a structured manner.
 
 {% picture post-inline "/images/chestertons-fence-2.png" --alt {{ Chestertons Fence, or How to Avoid Terrible Choices }} --picture class="post-inline-image-left" %}
 
@@ -41,16 +43,16 @@ It is common for influential and high-performing team members to prioritise imme
 
 There are two key actions you can take as a leader to help teams avoid ignoring context and history while they forge a path successfully.
 
-First, make sure your team understands where they're going - teams without a clear strategy cannot be expected to think of solutions that align with their peers and other business units. An excellent way to do this very quickly is by using the  [Now, Next, Later Framework](/now-next-later-planning-streams-and-roadmaps).
+1. Make sure your team understands where they're going - teams without a clear strategy cannot be expected to think of solutions that align with their peers and other business units. An excellent way to do this very quickly is by using the  [Now, Next, Later Framework](/now-next-later-planning-streams-and-roadmaps).
 
-Secondly, [writing an options paper](/what-is-an-options-paper) is an excellent and quick way for people to articulate first what they want to change, then work towards understanding the second and higher-order implications of the change. Progressing within this structure results in an artefact you can use to frame questions, ensure strategic implications are covered and socialise it with your peers before deciding on the change itself.
+2. Clarify the change and the options around it by [writing an options paper](/what-is-an-options-paper). This is an excellent and quick way for people to articulate first what they want to change, then work towards understanding the second and higher-order implications of the change. Progressing within this structure results in an artefact you can use to frame questions, ensure strategic implications are covered and socialise it with your peers before deciding on the change itself.
 
 ## Speak About the Problem
 
-In your all-hands meetings, one-to-ones and other sessions, make time to talk about these pitfalls in thinking. Talk about your strategy, how your peer business units show up and what they need. Acknowledge the humanity we share and that it's up to us all to hold each other to account. 
+In addition to dealing with this in discrete interactions, help your wider team understand this and other biases by talking about them in your all-hands meetings, one-to-ones and other sessions, make time to talk about these pitfalls in thinking. Talk about your strategy, how your peer business units show up and what they need. Acknowledge the humanity we share and that it's up to us all to hold each other to account. 
 
 {% picture post-inline "/images/chestertons-fence-1.png" --alt {{ Chestertons Fence, or How to Avoid Terrible Choices }} --picture class="post-inline-image-right" %}
 
-Use analogies and examples aligned to your team's skill sets. For example, if explaining the impacts of Chesterton's Fence to a team of Software Engineers, I would use the typical reaction of an engineer to a new or older codebase, which is invariably "the only option we have is to rewrite it from scratch". [This reaction, while natural is almost never a good idea](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/), is almost never a good idea and a perfect way to stymie the organisation, fail and end up with *two* systems where before we simply had one, albeit suboptimal system. Challenge yourself to find examples in your team's area of expertise and challenge them to understand why stepping back to consider context & higher-order consequences is so important.
+Use analogies and examples aligned to your team's skill sets. For example, if explaining the impacts of Chesterton's Fence to a team of Software Engineers, I would use the typical reaction of an engineer to a new or older codebase, which is invariably "the only option we have is to rewrite it from scratch". [This is a natural reaction but almost never a good idea](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/). Challenge yourself to find examples in your team's area of expertise and challenge them to understand why stepping back to consider context & higher-order consequences is so important.
 
 There are many psychological biases or pitfalls we can fall victim to. Understanding them and frameworks to avoid being trapped is a critical skill for leaders to develop.
