@@ -49,7 +49,7 @@ There are two key actions you can take as a leader to help teams avoid ignoring 
 
 ## Speak About the Problem
 
-In addition to dealing with this in discrete interactions, help your wider team understand this and other biases by talking about them in your all-hands meetings, one-to-ones and other sessions, make time to talk about these pitfalls in thinking. Talk about your strategy, how your peer business units show up and what they need. Acknowledge the humanity we share and that it's up to us all to hold each other to account. 
+In addition to dealing with this in discrete interactions, help your wider team understand this and other biases by talking about them in your all-hands meetings, one-to-ones and other sessions, make time to talk about these pitfalls in thinking. Talk about your strategy, how your peer business units show up and what they need. Acknowledge the humanity we share and that it's up to us all to hold each other to account.
 
 {% picture post-inline "/images/chestertons-fence-1.png" --alt {{ Chestertons Fence, or How to Avoid Terrible Choices }} --picture class="post-inline-image-right" %}
 
