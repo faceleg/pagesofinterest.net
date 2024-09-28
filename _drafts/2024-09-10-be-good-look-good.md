@@ -2,8 +2,8 @@
 layout: post
 title: "Be Good and look good"
 author: michael-robinson
-date: "2024-09-10"
-categories: [deming]
+date: "2025-09-10"
+categories: [management]
 tags: [organisations, culture, featured]
 image: "/images/placeholder.jpg"
 ---
